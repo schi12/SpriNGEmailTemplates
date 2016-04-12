@@ -50,6 +50,8 @@ SpriNG Emailframework - Structure and Description
 --- Order details
 --- social media
 --- "blue area"
+--- article (Journal ToC Alert)
+--- book chapter (Bookseries ToC Alert)
 --- advertisement (internal, external)
 --- separating line
 -- Footers:
