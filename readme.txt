@@ -36,10 +36,10 @@ SpriNG Emailframework - Structure and Description
 
 - Elements:
 -- Grid:
---- 1 grid
---- 2 grid
---- 3 grid
---- 4 grid
+--- 1 grid [*]
+--- 2 grid [*]
+--- 3 grid [*]
+--- 4 grid [*]
 -- Content Panels:
 --- Article Element, cover right (meta text, cover, call to action)
 --- Book Element, cover right (meta text, cover, call to action)
