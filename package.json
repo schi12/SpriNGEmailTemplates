@@ -1,0 +1,22 @@
+{
+  "name": "spring-templates",
+  "version": "0.0.1",
+  "description": "template repository with mjml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schi12/SpriNGEmailTemplates.git"
+  },
+  "keywords": [
+    "templates"
+  ],
+  "author": "markus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schi12/SpriNGEmailTemplates/issues"
+  },
+  "homepage": "https://github.com/schi12/SpriNGEmailTemplates#readme"
+}

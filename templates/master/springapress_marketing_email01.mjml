@@ -3,9 +3,9 @@
     <mj-container>
 
       <!-- Header -->
-      <mj-section padding-bottom="0" background-color="#ECEDEC">
+      <mj-section padding-bottom="0" padding-top="25" background-color="#000000">
         <mj-column width="100%">
-          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png" width="150px" padding-top="0" padding-bottom="10" />
+          <mj-image align="left" src="http://www.springer.com/cda/content/image/cda_displayimage.jpg?SGWID=0-0-16-3145331-0" width="130px" padding-top="0" padding-bottom="10" />
           <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#f8f8f8" />
         </mj-column>
       </mj-section>
@@ -55,7 +55,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="100%">
-          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="0" padding-bottom="10" padding-left="25" padding-right="25" border-width="2px" border-color="#F4F4F4" />
+          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="0" padding-bottom="10" padding-left="25" padding-right="25" border-width="2px" border-color="#FFCC00" />
         </mj-column>
         <mj-column width="370">
         
@@ -81,7 +81,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="100%">
-          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="0" padding-bottom="10" padding-left="25" padding-right="25" border-width="2px" border-color="#F4F4F4" />
+          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="0" padding-bottom="10" padding-left="25" padding-right="25" border-width="2px" border-color="#FFCC00" />
         </mj-column>
         <mj-column width="370">
         

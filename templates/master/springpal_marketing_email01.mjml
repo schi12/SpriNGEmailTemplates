@@ -3,9 +3,16 @@
     <mj-container>
 
       <!-- Header -->
+      <mj-section padding="0" background-color="#D83B5B">
+        <mj-column width="100%" height="8px" padding="0">
+          <mj-text padding="0" font-size="1px" line-height="8px">
+          &nbsp;
+          </mj-text>
+        </mj-column>
+      </mj-section>
       <mj-section padding-bottom="0" background-color="#ECEDEC">
         <mj-column width="100%">
-          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png" width="150px" padding-top="0" padding-bottom="10" />
+          <mj-image align="left" src="http://static.springer.com/spcom/sites/palgrave/images/palgrave_logo_dark.png" width="130px" padding-top="0" padding-bottom="10" />
           <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#f8f8f8" />
         </mj-column>
       </mj-section>
@@ -55,7 +62,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="100%">
-          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="0" padding-bottom="10" padding-left="25" padding-right="25" border-width="2px" border-color="#F4F4F4" />
+          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="0" padding-bottom="10" padding-left="25" padding-right="25" border-width="2px" border-color="#D83B5B" />
         </mj-column>
         <mj-column width="370">
         
@@ -81,7 +88,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="100%">
-          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="0" padding-bottom="10" padding-left="25" padding-right="25" border-width="2px" border-color="#F4F4F4" />
+          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="0" padding-bottom="10" padding-left="25" padding-right="25" border-width="2px" border-color="#D83B5B" />
         </mj-column>
         <mj-column width="370">
         
