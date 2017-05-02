@@ -1,0 +1,228 @@
+<mjml>
+  <mj-body>
+    <mj-container width="650px" >
+    <mj-wrapper border="1px solid #ddd" padding-bottom="0" padding-top="0">
+
+      <!-- Society Branded Header -->
+      <mj-section padding-bottom="0" padding-top="0" background-color="#ECEDEC">
+        <mj-column width="80%">
+          
+        </mj-column>
+        <mj-column width="20%" border-left="1px solid #ddd">
+        <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png" padding-top="5" padding-bottom="10" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding-bottom="0" padding-top="5" background-color="#fff">
+        <mj-column width="100%">
+          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_graphabstract_216.png"  width="350px" padding-top="0" padding-bottom="10" />
+          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#f8f8f8" />
+        </mj-column>
+      </mj-section>
+      
+      <!-- Subject line -->
+      <mj-section background-color="white" padding-bottom="0" padding-top="0">
+        <mj-column width="60%">
+          <mj-text align="left" font-size="15" color="grey" font-family="Helvetica Neue,Arial">
+            New Issue Alert
+          </mj-text>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-text align="right" font-size="12" color="grey" font-family="Helvetica Neue,Arial">
+            01/04/2017
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#F4F4F4" />
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Intro -->
+      <mj-section background-color="white">
+        <mj-column width="370">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Helvetica Neue,Arial">
+            Dear Reader,
+          </mj-text>
+          <mj-text align="left" color="#373237" font-family="Helvetica Neue,Arial">
+            We are pleased to deliver your requested table of contents alert for Analytical and Bioanalytical Chemistry. Volume 409 Number 1 is now available online.
+          </mj-text>
+          <mj-text alighn="left" color="#373237" font-family="Helvetica Neue,Arial">
+            {Special Title}
+          </mj-text>
+        </mj-column>
+        <mj-column width="230">
+          <mj-image src="http://static-content.springer.com/cover/journal/216/409/4.jpg" width="100" />
+        </mj-column>
+        
+      </mj-section>
+
+      <!-- Social Media -->
+      <mj-section background-color="#767676" padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-social mode="horizontal" display="twitter:url"
+           twitter-content="Follow us on Twitter" facebook-content="Join us on Facebook" 
+           facebook-icon-color="#767676" twitter-icon-color="#767676" color="#fff"
+           twitter-href="https://twitter.com/analbioanalchem"
+           facebook-href=""/>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Insert 1 -->
+      <mj-section background-color="white">
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" font-weight="300" color="#000000" font-family="Helvetica Neue,Arial" padding-bottom="5">
+            Important News
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="0" padding-bottom="10" padding-left="25" padding-right="25" border-width="2px" border-color="#F4F4F4" />
+        </mj-column>
+        <mj-column width="370">
+        
+          <mj-text align="left" color="#373237" font-family="Helvetica Neue,Arial" font-size="18">
+            NEW: Chemistry Special Issues Pages
+          </mj-text>
+          <mj-text align="left" color="#373237" font-family="Helvetica Neue,Arial">
+            See all our special issues in one place! We have just launched a page for quick and easy access to the latest special journal issues in Chemistry. Exclusive free access to ALL issues, only until May 25!
+          </mj-text>
+          
+        </mj-column>
+        <mj-column width="230">
+          <mj-image src="http://www.springer.com/cda/content/image/cda_displayimage.jpg?SGWID=0-0-16-3246014-0" width="130" />
+        </mj-column>
+        
+      </mj-section>
+      
+      
+      
+      <!-- Article Header -->
+      <mj-section background-color="white" padding-bottom="10">
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" font-weight="300" color="#000000" font-family="Helvetica Neue,Arial" padding-bottom="0">
+            In this issue
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="0" padding-bottom="0" padding-left="25" padding-right="25" border-width="1px" border-color="#DBDBDB" />
+        </mj-column>
+        
+      </mj-section>
+      
+      <!-- Articles -->
+      <!-- Article -->
+      <mj-section background-color="white" padding-top="0" padding-bottom="10">
+        <mj-column width="100%" padding-top="">
+          <mj-text padding-top="0" align="left" font-size="10" color="#656565" font-family="Helvetica Neue,Arial" padding-bottom="0">
+            Editorial {Article Category}
+          </mj-text>
+          <mj-text align="left" font-size="16" color="#0073C3" font-family="Helvetica Neue,Arial" padding-bottom="0" padding-top="0">
+            ABC Spotlight on metal-organic frameworks (MOFs) {Article.Title}
+          </mj-text>
+          <mj-text align="left" font-size="13" color="#333333" font-family="Helvetica Neue,Arial" padding-bottom="8" padding-top="3">
+              Günter Gauglitz {Article.Author}          
+          </mj-text>
+          
+        </mj-column>
+        <mj-column width="19%" padding-top="">
+            <mj-text align="left" font-size="13" color="#0073C3" font-family="Helvetica Neue,Arial" font-weight="500" padding-bottom="0" padding-top="0">
+              &raquo; Abstract
+          </mj-text>
+        </mj-column>
+          <mj-column width="25%" padding-top="">
+            <mj-text align="left" font-size="13" color="#0073C3" font-family="Helvetica Neue,Arial" font-weight="500" padding-bottom="0" padding-top="0">
+              &raquo; Full text HTML
+          </mj-text>
+          </mj-column> 
+          <mj-column width="23%" padding-top="">
+            <mj-text align="left" font-size="13" color="#0073C3" font-family="Helvetica Neue,Arial" font-weight="500" padding-bottom="0" padding-top="0">
+              &raquo; Full text PDF
+          </mj-text>
+          </mj-column> 
+          <mj-column width="33%" padding-top="">
+            <mj-text align="left" font-size="13" color="#0073C3" font-family="Helvetica Neue,Arial" padding-bottom="0" padding-top="0">
+
+          </mj-text>
+          </mj-column> 
+          <mj-column width="100%">
+          <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="10" padding-bottom="0" padding-left="25" padding-right="25" border-width="1px" border-color="#DBDBDB" />
+        </mj-column>
+        
+      </mj-section>
+      
+      <!-- Article with grpahical abstract -->
+      <mj-section background-color="white" padding-top="0">
+        <mj-column width="100%">
+          <mj-text padding-top="0" align="left" font-size="10" color="#656565" font-family="Helvetica Neue,Arial" padding-bottom="0">
+            Review {Article Category}
+          </mj-text>
+          <mj-text align="left" font-size="16" color="#0073C3" font-family="Helvetica Neue,Arial" padding-bottom="0" padding-top="0">
+            Divide and conquer: cleavable cross-linkers to study protein conformation and protein–protein interactions {Article.Title}
+          </mj-text>
+          <mj-text align="left" font-size="13" color="#333333" font-family="Helvetica Neue,Arial" padding-bottom="8" padding-top="3">
+              Andrea Sinz {Article.Author}          
+          </mj-text>
+        </mj-column>
+        <mj-column width="19%" padding-top="">
+            <mj-text align="left" font-size="13" color="#0073C3" font-family="Helvetica Neue,Arial" font-weight="500" padding-bottom="0" padding-top="0">
+              &raquo; Abstract
+          </mj-text>
+        </mj-column>
+          <mj-column width="25%" padding-top="">
+            <mj-text align="left" font-size="13" color="#0073C3" font-family="Helvetica Neue,Arial" font-weight="500" padding-bottom="0" padding-top="0">
+              &raquo; Full text HTML
+          </mj-text>
+          </mj-column> 
+          <mj-column width="23%" padding-top="">
+            <mj-text align="left" font-size="13" color="#0073C3" font-family="Helvetica Neue,Arial" font-weight="500" padding-bottom="0" padding-top="0">
+              &raquo; Full text PDF
+          </mj-text>
+          </mj-column> 
+          <mj-column width="33%" padding-top="">
+            <mj-text align="left" font-size="13" color="#0073C3" font-family="Helvetica Neue,Arial" padding-bottom="0" padding-top="0">
+
+          </mj-text>
+          </mj-column> 
+          <mj-column width="100%">
+            <mj-image src="http://static-content.springer.com/image/art%3A10.1007%2Fs00216-016-9941-x/MediaObjects/216_2016_9941_Figa_HTML.gif"/>
+          </mj-column>
+          <mj-column width="100%">
+      </mj-section>
+      
+      
+      
+      <!--Footer -->
+      <mj-section background-color="#ededed" padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="10" font-size="12px" line-height="12px" font-family="Helvetica Neue,Arial">This email has been sent to </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="10" font-size="12px" line-height="12px" font-family="Helvetica Neue,Arial">You are receiving this email because you have opted to receive information from SpringerAlerts as a registered user of our Table of Content Alert for journals. </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="10" font-size="12px" line-height="12px" font-family="Helvetica Neue,Arial">To ensure the delivery to your inbox, please add the sender address springer@alerts.springer.com to your allow list.</mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="10" font-size="12px" line-height="12px" font-family="Helvetica Neue,Arial">To modify your subscription (including change of email address etc.), please go to springer.com/alertprofile and log in with your email address and password.</mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="10" font-size="12px" line-height="12px" font-family="Helvetica Neue,Arial">For all enquiries, problems or suggestions regarding this service, please contact onlineservice@springer.com.</mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="10" font-size="12px" line-height="12px" font-family="Helvetica Neue,Arial">Springer respects your privacy and does not disclose, sell or rent your personal information to any nonaffiliated third parties without your consent. Please visit the Springer Privacy Statement.</mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="10" font-size="12px" line-height="12px" font-family="Helvetica Neue,Arial">Springer-Verlag GmbH Heidelberg, Tiergartenstrasse 15-http://www.springer.com/cda/content/image/cda_displayimage.jpg?SGWID=0-0-16-3246014-017, 69121 Heidelberg, Germany, phone: +49 6221 487 0, fax: +49 6221 487 8366</mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="10" padding-top="10" font-size="12px" line-height="12px" font-family="Helvetica Neue,Arial">© Springer 2017, springer.com </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      
+
+
+      
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>
