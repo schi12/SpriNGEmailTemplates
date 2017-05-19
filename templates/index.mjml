@@ -1,0 +1,206 @@
+<mjml>
+  <mj-body>
+    <mj-container width="800px" >
+
+    <mj-wrapper border="1px solid #DBDBDB" padding-bottom="0px" padding-top="0px">
+
+      
+      <!-- Header -->
+      <mj-section padding-bottom="0px" background-color="#fff" padding-top="12px">
+        <mj-column width="100%" >
+          <mj-image align="center" src="https://s3.eu-central-1.amazonaws.com/springpics/springernature_logo.jpg" width="150px" padding-top="0" padding-bottom="10" />
+          
+        </mj-column>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding-bottom="0px" background-color="#fff" padding-top="12px">
+        <mj-column width="20%">
+          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/nature_logo.png" width="150px" padding-top="0" padding-bottom="10" />
+          
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png" width="150px" padding-top="0" padding-bottom="10" />
+          
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="right" src="https://s3.eu-central-1.amazonaws.com/springpics/palgrave_logo.png" width="80px" padding-top="0" padding-bottom="10" />
+          
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="right" src="http://www.springer.com/cda/content/image/cda_displayimage.jpg?SGWID=0-0-16-3145331-0" width="130px" padding-top="0" padding-bottom="10" />
+          
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="right" src="http://www.springer.com/cda/content/image/cda_displayimage.jpg?SGWID=0-0-16-3225447-0" width="150px" padding-top="0" padding-bottom="10" />
+          
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
+        </mj-column>
+      </mj-section>
+      
+      <!-- Subject line -->
+      <mj-section background-color="white" padding-bottom="0" padding-top="0">
+        
+        <mj-column width="100%">
+          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#F4F4F4" />
+        </mj-column>
+      </mj-section>
+
+      
+
+
+
+      <!-- Intro -->
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+            SpriNG Template Repository
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+             this is work in progress and updates will be posted...
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+            
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+            
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+            
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+            
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+
+
+
+
+      
+
+
+
+
+      
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>

@@ -74,7 +74,7 @@
           <mj-text align="left" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
             <b>Müller</b>, Michael
           </mj-text>
-          <mj-button align="left" font-size="16px" background-color="#0176c3" font-family="Georgia,Helvetica Neue,Arial" background-color="#f45e43" color="white" border="1px solid #0176c3">
+          <mj-button align="left" font-size="16px" href="$ABPR_download_link" background-color="#0176c3" font-family="Georgia,Helvetica Neue,Arial" background-color="#f45e43" color="white" border="1px solid #0176c3">
             Download Book Performance Report
           </mj-button>
           <mj-divider border-color="#ddd" border-width="1px"/>
@@ -92,19 +92,19 @@
 
       <mj-section>
         <mj-column width="90%" background-color="#fff" border-left="4px solid #71ab0b">
-          <mj-text font-size="16px" font-weight="800" >
+          <mj-text font-size="16px" font-weight="800" font-family="Georgia,Helvetica Neue,Arial">
             MySpringer account information
           </mj-text>
-          <mj-text>
+          <mj-text font-family="Georgia,Helvetica Neue,Arial">
             Log in to your personal MySpringer account on springer.com. In addition to the Book 
             Performance Report, you will find a free copy of your eBook and your eBook&#39;s current
             performance metrics (provided by Bookmetrix). You can also order any book from the 
             Springer Shop at a 40% discount.
           </mj-text>
-          <mj-text padding-bottom="0px">
+          <mj-text padding-bottom="0px" font-family="Georgia,Helvetica Neue,Arial">
           Your login user name: markus.schilde036@springer.com
           </mj-text>
-          <mj-text padding-top="0px">
+          <mj-text padding-top="0px" font-family="Georgia,Helvetica Neue,Arial">
           If you forgot your password: <a href="https://www.springer.com/generic/registration/login?SGWID=1-40107-27-961104-0">reset password here</a>
           </mj-text>
           
@@ -117,7 +117,7 @@
 
       <mj-section>
         <mj-column>
-          <mj-text font-family="Georgia,Helvetica Neue,Arial">
+          <mj-text font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
           Thank you again for publishing with Springer! We hope to be your partner of choice again for your future publications.
 
           </mj-text>
