@@ -1,0 +1,232 @@
+<mjml>
+  <mj-body>
+    <mj-container width="800px" >
+
+    <mj-wrapper border="1px solid #DBDBDB" padding-bottom="0px" padding-top="0px">
+
+      
+      <!-- Header -->
+      <mj-section padding-bottom="0px" background-color="#fff" padding-top="12px">
+        <mj-column width="100%" >
+          
+          
+        </mj-column>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding-bottom="0px" background-color="#fff" padding-top="12px">
+        <mj-column width="100%">
+          <mj-text font-size="30px" font-weight="800" align="center">
+            ArticleAuthorOnlineFirst
+          </mj-text>
+          
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
+        </mj-column>
+      </mj-section>
+      
+      <!-- Subject line -->
+      <mj-section background-color="white" padding-bottom="0" padding-top="0">
+        
+        <mj-column width="100%">
+          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#F4F4F4" />
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Intro -->
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="16px" color="#483D92">
+            Description
+          </mj-text>
+          <mj-text align="left" font-size="12px" color="#373237">
+            Email is sent to the corresponding author of an article that
+            was recently published online. Author can download an eoffprint that 
+            consists of the journal cover and his or her article. 
+            Additionally there are a few informations like the info about DOI the article
+            received and information about how the article can be cited.
+
+          </mj-text>
+
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text align="left" font-size="16px" color="#483D92">
+            Target Groups
+          </mj-text>
+          <mj-text align="left" font-size="12px" color="#373237">
+            Existing Article Author
+
+          </mj-text>
+
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text align="left" font-size="16px" color="#483D92">
+            Goal & Main Call-two-actions
+          </mj-text>
+          <mj-text align="left" font-size="12px" color="#373237">
+            &raquo; Inform article author about publication<br/>
+            &raquo; Let article author download the eOffprint
+          
+
+          </mj-text>
+
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text align="left" font-size="16px" color="#483D92">
+            Statistics
+          </mj-text>
+          <mj-text align="left" font-size="12px" color="#373237">
+            <i>to be added soon...</i>
+
+          </mj-text>
+
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text align="left" font-size="16px" color="#483D92">
+            Current Versions
+          </mj-text>
+          <mj-text align="left" font-size="12px" color="#373237">
+            - <a href="https://morning-escarpment-87852.herokuapp.com/ArticleAuthors/sprcom_template_articleauthoronlinefirst.html" target="_blank">Version 1</a>: <i>first draft</i><br/>
+            - <a href="https://morning-escarpment-87852.herokuapp.com/ArticleAuthors/ArticleAuthorOnlineFirst/html/mjml-spring_article_email04.html" target="_blank">Version 2</a>: <i>after first UX feedback</i><br/>
+            - <a href="https://morning-escarpment-87852.herokuapp.com//ArticleAuthors/ArticleAuthorOnlineFirst/html/mjml-springer_article_email06.html" target="_blank">Version 3</a>: <i>after UX/design feedback</i>
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+            
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+            
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+            
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+            
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="10px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+           
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          
+
+          </mj-text>
+
+        </mj-column>
+        
+      </mj-section>
+
+      
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>

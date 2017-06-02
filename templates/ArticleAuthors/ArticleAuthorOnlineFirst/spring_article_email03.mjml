@@ -27,7 +27,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="40%">
-          <mj-text align="right" font-size="12" color="grey" font-family="Georgia,Helvetica Neue,Arial">
+          <mj-text align="right" font-size="12" color="grey" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
             01/04/2017
           </mj-text>
         </mj-column>
@@ -41,10 +41,10 @@
       <mj-section background-color="white" padding-bottom="0px">
         
         <mj-column width="100%">
-          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          <mj-text align="left" font-size="20px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
             Herzlichen Glückwunsch Seung Jin Lee,
           </mj-text>
-          <mj-text align="left" font-size="14px" color="#373237" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+          <mj-text align="left" font-size="13px" color="#373237" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
             heute ist Ihr Beitrag erschienen und ist nun als 'Online First'-Artikel verfügbar: 
           </mj-text>
           <mj-text align="left" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
@@ -57,15 +57,15 @@
       <!-- Book Section -->
 
 
-      <mj-section background-color="#f1f1f1" padding-top="40px" >
+      <mj-section background-color="#f1f1f1" padding-top="40px" padding-bottom="10px">
         
         <mj-column width="30%">
           <mj-image padding-right="0px"  src="https://static-content.springer.com/cover/journal/216/408/10.jpg" width="120px">
           </mj-image>
         </mj-column>
         <mj-column width="70%">
-          <mj-text padding-top="0px" padding-bottom="0px" align="left" color="#373237" font-size="12px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
-            <a style="color:#0176c3;text-decoration:none;" href="http://link.springer.com/journal/216">Analytical and Bioanalytical Chemistry</a>
+          <mj-text padding-top="0px" padding-bottom="0px" align="left" color="#373237" font-size="12px">
+            <a style="color:#0176c3;text-decoration:none;font-family:Helvetica Neue,​Arial,​Helvetica,​sans-serif" href="http://link.springer.com/journal/216">Analytical and Bioanalytical Chemistry</a>
           </mj-text>
           <mj-text align="left" padding-top="5px" font-size="22px" color="#000" line-height="24px" font-weight="400" font-family="Georgia,Helvetica Neue,Arial">
             Oligonucleotide-based biosensors for in vitro diagnostics and environmental hazard detection           
@@ -74,33 +74,34 @@
           <mj-text align="left" color="#373237" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
             Il Young Jung, Eun Hee Lee, Ah Young Suh, Seung Jin Lee, Hyukjin Lee
           </mj-text>
+          
           <mj-table>
             <tr style="border-bottom:0px;text-align:left;padding:15px 0;">
-              <td style="border:1px solid #0176c3;color:white;cursor:auto;padding:10px 25px;" align="center" valign="middle" bgcolor="#0176c3"><p style="text-decoration:none;line-height:100%;background:#0176c3;color:white;font-family:Georgia,Helvetica Neue,Arial;font-size:16px;font-weight:normal;text-transform:none;margin:0px;">Download article</p></td>
+              <td style="border:none;border-radius:3px;color:white;cursor:auto;padding:10px 25px;" align="center" valign="middle" bgcolor="#0176c3">
+                <p style="text-decoration:none;line-height:100%;background:#0176c3;color:white;font-family:Helvetica Neue,​Arial,​Helvetica,​sans-serif;font-size:15px;font-weight:normal;text-transform:none;margin:0px;">
+                  Download article
+                </p>
+              </td>
 
               <!--td width="140px" height="30" bgcolor="#e5e5e5" align="center" valign="middle" style="border:1px solid #bcbcbc;background:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_button_blue_large.png) repeat-x; font-family: Arial; font-size: 15px; color: #ffffff; line-height:20px;">
                   <a href="" target="_blank" alias="" style="font-family: Arial; font-weight:600; text-decoration: none; color: #fff; ">&raquo; Download article</a>
               </td-->
               <td width="10px">
               </td>
-              <td style="border:1px solid #666;color:#666;cursor:auto;padding:10px 25px;" align="center" valign="middle" bgcolor="#f1f1f1"><p style="text-decoration:none;line-height:100%;background:#f1f1f1;color:#666;font-family:Georgia,Helvetica Neue,Arial;font-size:16px;font-weight:normal;text-transform:none;margin:0px;">View article</p></td>
+              <td style="" align="center" valign="middle" bgcolor="#f1f1f1">
+                <table role="presentation" width="180px" cellpadding="0" cellspacing="0" style="border-collapse:separate;" align="center" border="0"><tr><td style="border:1px solid #666;border-radius:3px;color:#666;cursor:auto;padding:10px 25px;" align="center" valign="middle" bgcolor="#f1f1f1"><p style="text-decoration:none;line-height:100%;background:#f1f1f1;color:#666;font-family:Helvetica Neue,​Arial,​Helvetica,​sans-serif;font-size:13px;font-weight:normal;text-transform:none;margin:0px;">View article</p></td></tr></table>
+              </td>
               <!--td width="140px" height="30" bgcolor="#0176c3" align="center" valign="middle" style="border:1px solid rgb(188, 188, 188);background:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_button_grey_large.png) repeat-x; font-family: Arial; font-size: 15px; color: #ffffff; line-height:20px;">
                   <a href="" target="_blank" alias="" style="font-family: Arial; text-decoration: none; color: #666; ">View article</a>
               </td-->
             </tr>
-            
           </mj-table>
 
-          <!--mj-text padding-top="5px" padding-bottom="0px" align="left" color="#373237" font-size="10px" line-height="12px" font-family="Arial,Helvetica Neue,Arial">
-           <b>Hinweis</b>: Bitte beachten Sie, dass Ihr elektronischer Sonderdruck vier Wochen zum Download zur Verfügung steht. 
-           </mj-text-->
-           
-
+          
         </mj-column>
 
         <mj-column width="100%">
           <mj-divider padding-left="25" padding-right="25" padding-top="25px" padding-bottom="0px" border-width="1px" border-color="#D4D4D4"/>
-          
         </mj-column>
 
 
@@ -115,16 +116,19 @@
 
       <mj-section padding-top="0px">
         <mj-column width="100%">
-          <mj-text font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+          <mj-text padding-bottom="0px" font-size="13px" color="#373237" line-height="15px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
             <b>Hinweis</b>: Bitte beachten Sie, dass Ihr elektronischer 
             Sonderdruck vier Wochen zum Download zur Verfügung steht.<br/><br/>
+            
+          </mj-text>
+          <mj-text font-size="13px" color="#373237" padding-top="0px">
             Bis zur Veröffentlichung kann Ihr Beitrag anhand seines 
             Digital Object Identifiers (DOI) wie folgt zitiert werden: 
           </mj-text>
         </mj-column>
 
         <mj-column width="90%" border="1px solid #dbdbdb">  
-          <mj-text font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+          <mj-text font-size="13px" color="#373237" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
            Il Young Jung , Eun Hee Lee et al. (2016). "Oligonucleotide-based biosensors for in vitro 
            diagnostics and environmental hazard detection", 
            <i>Analytical and Bioanalytical Chemistry</i>, 408 (10), 2383–2406. 10.1007/s00113-006-1168-4 
@@ -137,27 +141,27 @@
 
       <!-- Thank you text -->
 
-      <mj-section>
+      <mj-section padding-top="0px">
         <mj-column>
-          <mj-text font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+          <mj-text font-size="13px" color="#373237" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
             Wir danken Ihnen dafür, dass Sie mit Springer publiziert haben und freuen uns auf weitere Beiträge von Ihnen! 
           </mj-text>
-          <mj-text padding-top="0px" padding-bottom="0px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+          <mj-text font-size="13px" color="#373237" padding-top="0px" padding-bottom="0px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
              Mit freundlichen Grüßen,
           </mj-text>
-          <mj-text padding-top="0px" padding-bottom="0px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+          <mj-text font-size="13px" color="#373237" padding-top="0px" padding-bottom="0px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
             Heinz Weinheimer
           </mj-text>
-          <mj-text padding-top="0px" padding-bottom="0px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+          <mj-text font-size="13px" color="#373237" padding-top="0px" padding-bottom="0px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
              Managing Director Springer Research Group 
           </mj-text>
         </mj-column>
       </mj-section>
       
       <!--Footer -->
-      <mj-section background-color="#ededed" padding-left="0" padding-right="0" padding-bottom="0">
+      <mj-section background-color="#ededed" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0">
         <mj-column width="100%">
-          <mj-text align="left" color="#999" padding-bottom="0" padding-top="10" font-size="12px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">Wenn Sie Fragen haben, kontaktieren Sie bitte unseren Kundenservice
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="5px" font-size="12px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">Wenn Sie Fragen haben, kontaktieren Sie bitte unseren Kundenservice
 customerservice@springer.com </mj-text>
         </mj-column>
         <mj-column width="100%">
