@@ -114,7 +114,7 @@
 
       <!-- Citation information -->
 
-      <mj-section padding-top="0px">
+      <mj-section padding-top="15px">
         <mj-column width="100%">
           <mj-text padding-bottom="0px" font-size="13px" color="#373237" line-height="15px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
             <b>Hinweis</b>: Bitte beachten Sie, dass Ihr elektronischer 
@@ -159,7 +159,7 @@
       </mj-section>
       
       <!--Footer -->
-      <mj-section background-color="#ededed" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0">
+      <mj-section background-color="#ededed" padding-left="0" padding-right="0" padding-bottom="0" padding-top="10px">
         <mj-column width="100%">
           <mj-text align="left" color="#999" padding-bottom="0" padding-top="5px" font-size="12px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">Wenn Sie Fragen haben, kontaktieren Sie bitte unseren Kundenservice
 customerservice@springer.com </mj-text>
