@@ -95,9 +95,9 @@
             Current Versions
           </mj-text>
           <mj-text align="left" font-size="12px" color="#373237">
-            - <a href="https://morning-escarpment-87852.herokuapp.com/ArticleAuthors/sprcom_template_articleauthoronlinefirst.html" target="_blank">Version 1</a>: <i>first draft</i><br/>
-            - <a href="https://morning-escarpment-87852.herokuapp.com/ArticleAuthors/ArticleAuthorOnlineFirst/html/mjml-spring_article_email04.html" target="_blank">Version 2</a>: <i>after first UX feedback</i><br/>
-            - <a href="https://morning-escarpment-87852.herokuapp.com//ArticleAuthors/ArticleAuthorOnlineFirst/html/mjml-springer_article_email06.html" target="_blank">Version 3</a>: <i>after UX/design feedback</i>
+            - <a href="https://morning-escarpment-87852.herokuapp.com/ArticleAuthors/sprcom_template_articleauthoronlinefirst.html" target="_blank">Version 0.1</a>: <i>first draft</i><br/>
+            - <a href="https://morning-escarpment-87852.herokuapp.com/ArticleAuthors/ArticleAuthorOnlineFirst/html/mjml-spring_article_email04.html" target="_blank">Version 0.2</a>: <i>after first UX feedback</i><br/>
+            - <a href="https://morning-escarpment-87852.herokuapp.com//ArticleAuthors/ArticleAuthorOnlineFirst/html/mjml-springer_article_email06.html" target="_blank">Version 0.3</a>: <i>after UX/design feedback</i>
 
           </mj-text>
 
