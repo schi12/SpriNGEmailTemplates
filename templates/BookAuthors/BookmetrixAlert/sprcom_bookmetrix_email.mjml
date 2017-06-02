@@ -1,0 +1,265 @@
+<mjml>
+  <mj-body>
+    <mj-container width="650px" >
+
+    <mj-wrapper border="1px solid #DBDBDB" padding-bottom="0px" padding-top="0px">
+
+      <!-- Header -->
+      <mj-section padding-bottom="0px" background-color="#ECEDEC" padding-top="15px">
+        <mj-column width="50%">
+          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png" width="150px" padding-top="0" padding-bottom="10" />
+          
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image align="right" src="https://s3.eu-central-1.amazonaws.com/springpics/175Jahre_Logo_60px.png" width="150px" padding-top="0" padding-bottom="10" />
+          
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
+        </mj-column>
+      </mj-section>
+      
+      <!-- Subject line -->
+      <mj-section background-color="white" padding-bottom="0" padding-top="0">
+        <mj-column width="60%">
+          <mj-text align="left" font-size="15" color="grey" font-family="Georgia,Helvetica Neue,Arial">
+            
+          </mj-text>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-text align="right" font-size="12" color="grey" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+            01/04/2017
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#F4F4F4" />
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Intro -->
+      <mj-section background-color="white" padding-bottom="0px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="20" color="#373237" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+             Dear Dieter Frey,
+          </mj-text>
+          <mj-text align="left" font-size="13px" color="#373237" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+             Three months ago 'Psychologie der Werte' was published and we would like to send 
+             you a brief update.<br/>
+
+             Your eBook has been added to the <b>SpringerLink Behavioral Science and Psychology eBook 
+             Collection</b>, which is available at numerous universities, research institutions and 
+             corporations worldwide.<br/>
+
+             We are pleased to share the first usage figures for your eBook.
+          </mj-text>
+          <mj-text align="left" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+            
+          </mj-text>
+        </mj-column>
+        
+      </mj-section>
+
+      <!-- Book & metrix Section -->
+
+
+      <mj-section background-color="#f1f1f1" padding-top="40px" >
+        
+        <mj-column width="30%">
+          <mj-image padding-right="0px"  src="https://images.springer.com/sgw/books/medium/978-3-662-48013-7.jpg" width="120px">
+          </mj-image>
+        </mj-column>
+        <mj-column width="70%">
+          <!--mj-text padding-top="0px" padding-bottom="0px" align="left" color="#373237" font-size="12px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+            <a style="color:#0176c3;text-decoration:none;" href="http://link.springer.com/journal/216">Analytical and Bioanalytical Chemistry</a>
+          </mj-text-->
+          <mj-text align="left" padding-top="5px" font-size="22px" color="#000" line-height="24px" font-weight="400" font-family="Georgia,Helvetica Neue,Arial">
+             Psychologie der Werte 
+          </mj-text>
+          
+          <mj-text align="left" color="#373237" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+            Frey, Dieter (Hrsg.) 
+          </mj-text>
+
+          <mj-text font-weight="bold" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+            Book Metrics
+          </mj-text>
+
+          <mj-table width="150" padding-bottom="0px">
+            <tr>
+                  <td class="mobile" style="font-size:12px; line-height:18px;" width="75" align="center">
+
+                      <!-- Start Content -->
+                      <table class="container" width="75" cellspacing="0" cellpadding="0" border="0" align="center">
+                          <tbody><tr>
+                              <td class="mobile" style="font-size:12px; line-height:18px;" width="75" align="center">
+                                  <div style="padding:10px;height:36px;color:#666;background:#fff;border-right:1px solid #f0f0f0;">
+                                    <span style="color:#0176c3;font-family:Helvetica;font-size:11px;text-align:left;display:block">Citations</span>
+                                    <span style="display:block;color:#666;font-family:Helvetica;font-size:15px;text-align:left;">4</span>
+                                  </div>
+                              </td>
+                          </tr>
+                      </tbody></table>
+                      <!-- End Content -->
+
+                  </td>
+<!--                                            <td width="75" class="mobile" style="font-size:12px; line-height:18px;" align="center"> -->
+
+<!--                                                Start Content -->
+<!--                                                <table width="74" cellpadding="0" cellspacing="0" border="0" class="container" align="center"> -->
+<!--                                                    <tr> -->
+<!--                                                        <td width="74" class="mobile" style="font-size:12px; line-height:18px;" align="center"> -->
+<!--                                                            <div style="padding:10px;height:36px;color:#666;background:#fff;border-right:1px solid #f0f0f0;"> -->
+<!--                                                              <span style="color:#0176c3;font-family:Helvetica;font-size:11px;text-align:left;display:block">Readers</span> -->
+<!--                                                              <span style="display:block;color:#666;font-family:Helvetica;font-size:15px;text-align:left;">..</span> -->
+<!--                                                            </div> -->
+<!--                                                        </td> -->
+<!--                                                    </tr> -->
+<!--                                                </table> -->
+<!--                                                End Content -->
+
+<!--                                            </td> -->
+<!--                                            <td width="75" class="mobile" style="font-size:12px; line-height:18px;" align="center"> -->
+
+<!--                                                Start Content -->
+<!--                                                <table width="74" cellpadding="0" cellspacing="0" border="0" class="container" align="center"> -->
+<!--                                                    <tr> -->
+<!--                                                        <td width="74" class="mobile" style="font-size:12px; line-height:18px;" align="center"> -->
+<!--                                                            <div style="padding:10px;height:36px;color:#666;background:#fff;border-right:1px solid #f0f0f0;"> -->
+<!--                                                              <span style="color:#0176c3;font-family:Helvetica;font-size:11px;text-align:left;display:block">Reviews</span> -->
+<!--                                                              <span style="display:block;color:#666;font-family:Helvetica;font-size:15px;text-align:left;">..</span> -->
+<!--                                                            </div> -->
+<!--                                                        </td> -->
+<!--                                                    </tr> -->
+<!--                                                </table> -->
+<!--                                                End Content -->
+
+<!--                                            </td> -->
+                  <td class="mobile" style="font-size:12px; line-height:18px;" width="75" align="center">
+
+                      <!-- Start Content -->
+                      <table class="container" width="74" cellspacing="0" cellpadding="0" border="0" align="center">
+                          <tbody><tr>
+                              <td class="mobile" style="font-size:12px; line-height:18px;" width="74" align="center">
+                                  <div style="padding:10px;height:36px;color:#666;background:#fff;border-right:1px solid #f0f0f0;">
+                                    <span style="color:#0176c3;font-family:Helvetica;font-size:11px;text-align:left;display:block">Downloads</span>
+                                    <span style="display:block;color:#666;font-family:Helvetica;font-size:15px;text-align:left;">150188</span>
+                                  </div>
+                              </td>
+                          </tr>
+                      </tbody></table>
+                      <!-- End Content -->
+
+                  </td>
+              </tr>
+          </mj-table>
+
+          <mj-text font-size="11px" color="#333333" line-height="24px" padding-top="0px">
+             Provided by <b>Book</b>metrix 
+          </mj-text>
+
+          <mj-divider padding-left="25" padding-right="25" padding-top="5px" padding-bottom="0px" border-width="1px" border-color="#D4D4D4"/>
+
+          <mj-text>
+            <a href="http://link.springer.com/article/10.1007/s00216-015-9212-2" style="line-height:26px;color:#0176c3;text-decoration:underline;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_viewarticle_icon.png);background-size:16px 16px;background-repeat:no-repeat; ">
+              Explore your Book Publications Page
+            </a>
+          </mj-text>
+
+
+
+        </mj-column>
+
+        
+
+
+      </mj-section>
+
+      <!-- Bookmetrix Info -->
+
+      <mj-section padding-top="0px" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-text font-weight="600" >
+            Bookmetrix – measures your book’s impact
+          </mj-text>
+          <mj-text font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif" padding-bottom="5" padding-top="5">
+            Please visit your personal book overview page on MySpringer from time to time to view the
+            current SpringerLink usage data as well as citations of your book or chapters, book reviews,
+            social media mentions or Mendeley readers – data that is regularly updated in near real-
+            time.
+          </mj-text>
+
+          <mj-text font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif" padding-top="5" padding-bottom="5">
+            If you have published more than one book with us, all of them will be listed on your 
+            MySpringer book overview page. You will find a free eBook copy for each of your books, 
+            as well as their Bookmetrix usage data. 
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Account Information --> 
+
+      <mj-section>
+        <mj-column padding-top="0px" padding-bottom="5px" width="90%" background-color="#fff" border-left="4px solid #71ab0b">
+          <mj-text font-size="16px" font-weight="800" font-family="Georgia,Helvetica Neue,Arial">
+            MySpringer account information
+          </mj-text>
+          
+          <mj-text padding-bottom="0px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif" padding-top="0">
+          Your login user name: markus.schilde036@springer.com
+          </mj-text>
+          <mj-text padding-top="0px" padding-bottom="5px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+          If you need to reset your password, click the following link: <a href="https://www.springer.com/generic/registration/login?SGWID=1-40107-27-961104-0">reset password here</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      
+
+
+      <!-- Thank you text -->
+
+      <mj-section padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text padding-top="0px" padding-bottom="0px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+              With best wishes,
+          </mj-text>
+          <mj-text padding-top="0px" padding-bottom="0px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+             Your Author Marketing Team
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      <!--Footer -->
+      <mj-section background-color="#ededed" padding-left="0" padding-right="0" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="10" font-size="12px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">Wenn Sie Fragen haben, kontaktieren Sie bitte unseren Kundenservice
+customerservice@springer.com </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="10" font-size="12px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">Springer respects your privacy and does not disclose, sell or rent your personal information to any nonaffiliated third parties without your consent. Please visit the Springer Privacy Statement.</mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="10" font-size="12px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">Springer-Verlag GmbH Heidelberg, Tiergartenstrasse 15-17, 69121 Heidelberg, Germany, phone: +49 6221 487 0, fax: +49 6221 487 8366</mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="10" padding-top="10" font-size="12px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">© Springer 2017, springer.com </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Social Media -->
+      <!--mj-section background-color="#767676" padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+        <mj-column width="50%">
+          <mj-social mode="horizontal" display="twitter facebook linkedin" facebook-icon-color="#767676" twitter-icon-color="#767676" linkedin-icon-color="#767676" color="#fff"/>
+        </mj-column>
+      </mj-section-->
+
+
+      
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>
