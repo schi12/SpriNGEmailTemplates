@@ -121,7 +121,7 @@
             Sonderdruck vier Wochen zum Download zur Verfügung steht.<br/><br/>
             
           </mj-text>
-          <mj-text font-size="13px" color="#373237" padding-top="0px">
+          <mj-text font-size="13px" color="#373237" padding-top="0px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
             Bis zur Veröffentlichung kann Ihr Beitrag anhand seines 
             Digital Object Identifiers (DOI) wie folgt zitiert werden: 
           </mj-text>
