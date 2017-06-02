@@ -8,7 +8,7 @@
       <!-- Header -->
       <mj-section padding-bottom="0px" background-color="#fff" padding-top="12px">
         <mj-column width="100%" >
-          <mj-image align="center" src="https://s3.eu-central-1.amazonaws.com/springpics/springernature_logo.jpg" width="150px" padding-top="0" padding-bottom="10" />
+          
           
         </mj-column>
         </mj-column>
@@ -17,24 +17,10 @@
         </mj-column>
       </mj-section>
       <mj-section padding-bottom="0px" background-color="#fff" padding-top="12px">
-        <mj-column width="20%">
-          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/nature_logo.png" width="150px" padding-top="0" padding-bottom="10" />
-          
-        </mj-column>
-        <mj-column width="20%">
-          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png" width="150px" padding-top="0" padding-bottom="10" />
-          
-        </mj-column>
-        <mj-column width="20%">
-          <mj-image align="right" src="https://s3.eu-central-1.amazonaws.com/springpics/palgrave_logo.png" width="80px" padding-top="0" padding-bottom="10" />
-          
-        </mj-column>
-        <mj-column width="20%">
-          <mj-image align="right" src="http://www.springer.com/cda/content/image/cda_displayimage.jpg?SGWID=0-0-16-3145331-0" width="130px" padding-top="0" padding-bottom="10" />
-          
-        </mj-column>
-        <mj-column width="20%">
-          <mj-image align="right" src="http://www.springer.com/cda/content/image/cda_displayimage.jpg?SGWID=0-0-16-3225447-0" width="150px" padding-top="0" padding-bottom="10" />
+        <mj-column width="100%">
+          <mj-text font-size="30px" font-weight="800" align="center">
+            Working Title: "Bookmetrix Alert"
+          </mj-text>
           
         </mj-column>
         <mj-column width="100%">
@@ -50,23 +36,71 @@
         </mj-column>
       </mj-section>
 
-      
-
-
 
       <!-- Intro -->
       <mj-section background-color="white" padding-bottom="10px">
         
         <mj-column width="100%">
-          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
-            SpriNG Template Repository
+          <mj-text align="left" font-size="16px" color="#483D92">
+            Description
           </mj-text>
-          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
-          <ol>
-             <li><a style="font-family:Helvetica Neue,Arial;text-decoration:none" href="https://morning-escarpment-87852.herokuapp.com/ArticleAuthors/ArticleAuthorOnlineFirst/index.html">ArticleAuthorOnlineFirst</a>´</li>
-             <li><a style="font-family:Helvetica Neue,Arial;text-decoration:none" href="https://morning-escarpment-87852.herokuapp.com/BookAuthors/BookmetrixAlert/index.html">'Bookmetrix Alert'</li>
-           </ol>
+          <mj-text align="left" font-size="12px" color="#373237">
+            Email is sent to the all authors of a book that was published 
+            3 month before to inform about different statistics for the book (bookmetrix) and
+            to activate the author to check his or her personal overview page 
+            with features like Book Tracking, Book download, ABPR download or Bookmetrix stats.
 
+          </mj-text>
+
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text align="left" font-size="16px" color="#483D92">
+            Target Groups
+          </mj-text>
+          <mj-text align="left" font-size="12px" color="#373237">
+            Existing Book Author
+
+          </mj-text>
+
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text align="left" font-size="16px" color="#483D92">
+            Goal & Main Call-two-actions
+          </mj-text>
+          <mj-text align="left" font-size="12px" color="#373237">
+            &raquo; Inform author about the various book statistics<br/>
+            &raquo; Activate author about to check personal "My Publication" page<br/>
+            &raquo; Inform author to which ebook collection the new book was assigned to
+            
+
+          
+
+          </mj-text>
+
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text align="left" font-size="16px" color="#483D92">
+            Statistics
+          </mj-text>
+          <mj-text align="left" font-size="12px" color="#373237">
+            <i>to be added soon...</i>
+
+          </mj-text>
+
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text align="left" font-size="16px" color="#483D92">
+            Current Versions
+          </mj-text>
+          <mj-text align="left" font-size="12px" color="#373237">
+            - <a href="https://morning-escarpment-87852.herokuapp.com/BookAuthors/BookmetrixAlert/html/sprcom_template_bookauthor_bookmetrix04.html" target="_blank">Version 0.1a</a>: <i>initial version - with download stats</i><br/>
+            - <a href="https://morning-escarpment-87852.herokuapp.com/BookAuthors/BookmetrixAlert/html/sprcom_template_bookauthor_bookmetrix02.html" target="_blank">Version 0.1b</a>: <i>initial version - without download stats</i><br/>
+            - <a href="https://morning-escarpment-87852.herokuapp.com/BookAuthors/BookmetrixAlert/html/sprcom_template_bookauthor_bookmetrix05.html" target="_blank">Version 0.2a</a>: <i>text updates for 0.1a + slightly updated bookmetrix element</i><br/>
+            - <a href="https://morning-escarpment-87852.herokuapp.com/BookAuthors/BookmetrixAlert/html/sprcom_template_bookauthor_bookmetrix07.html" target="_blank">Version 0.3</a>: <i>alternative candidate with less text</i>
 
           </mj-text>
 
@@ -193,15 +227,6 @@
         </mj-column>
         
       </mj-section>
-
-
-
-
-
-      
-
-
-
 
       
       </mj-wrapper>
