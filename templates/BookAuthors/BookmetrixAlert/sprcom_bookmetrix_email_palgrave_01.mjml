@@ -97,7 +97,7 @@
             Book metrics
           </mj-text>
 
-          <mj-table width="300px" padding-bottom="0px">
+          <mj-table width="150px" padding-bottom="0px">
             <tr>
                   <!--td class="mobile" style="font-size:12px; line-height:18px;" width="75" align="center">
 
@@ -163,7 +163,7 @@
                       <!-- End Content -->
 
                   </td>
-                  <td class="mobile" style="font-size:12px; line-height:14px;" width="220" align="center" valign="bottom">
+                  <td class="mobile" style="font-size:12px; line-height:14px;" width="75px" align="center" valign="bottom">
                     <div>
                       <span style="padding-left:5px;color:#333333;font-family:Helvetica Neue,​Helvetica,Arial,​sans-serif;font-size:11px;text-align:left;display:block">Provided by <b>Book</b>metrix </span>
                     </div>
