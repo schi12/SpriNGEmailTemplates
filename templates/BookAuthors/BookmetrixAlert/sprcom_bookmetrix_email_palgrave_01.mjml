@@ -179,9 +179,8 @@
           <mj-button align="left" font-size="15px" href="$ABPR_download_link" background-color="#0176c3" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" background-color="#f45e43" color="white" border="1px solid #0176c3">
             Explore your Book Overview Page on MySpringer
           </mj-button>
-          <mj-text color="#0176c3" font-weight="100" line-height="14px" padding-top="0" padding-bottom="0" font-size="11px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
-            
-            &raquo; <b>see all live metrics</b> &raquo; <b>download pdf</b> &raquo; <b>Book status informations</b>. 
+          <mj-text color="#0176c3" line-height="14px" padding-top="0" padding-bottom="0" font-size="11px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+            &raquo; see all live metrics &raquo; download pdf &raquo; Book status informations. 
           </mj-text>
 
 
@@ -256,7 +255,7 @@
           <mj-image src="https://resource-cms.springer.com/springer-cms/rest/v1/content/54978/data/v1" width="110px" align="left"/>
         </mj-column>
         <mj-column width="80%">
-          <mj-text font-weight="200" color="#444" text-decoration="underline">
+          <mj-text font-weight="200" color="#444" text-decoration="underline" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
             <a style="text-decoration:none;color:#444" href="https://www.springer.com/gp/authors-editors/book-authors-editors/bookmetrix">More information about bookmetrix</a>
           </mj-text>
         </mj-column>
