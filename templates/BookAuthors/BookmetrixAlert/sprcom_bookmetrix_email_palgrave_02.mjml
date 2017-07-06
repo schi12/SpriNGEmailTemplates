@@ -89,15 +89,15 @@
              Psychologie der Werte 
           </mj-text>
           
-          <mj-text align="left" color="#333" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" padding="0px 25px 10px 25px">
+          <mj-text align="left" color="#333" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" padding="0px 25px 14px 25px">
             Frey, Dieter (Hrsg.) 
           </mj-text>
 
-          <mj-text font-weight="bold" color="#000" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" padding="0px 25px 10px 25px">
+          <mj-text font-weight="bold" color="#000" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" padding="0px 25px 0px 25px" line-height="16px">
             Book metrics
           </mj-text>
 
-          <mj-table width="150px" padding-bottom="0px">
+          <mj-table width="150px" padding-bottom="0px" padding-top="10px">
             <tr>
                   <!--td class="mobile" style="font-size:12px; line-height:18px;" width="75" align="center">
 
@@ -172,19 +172,16 @@
               </tr>
           </mj-table>
 
-
-          
-
           
           <mj-button align="left" font-size="15px" href="$ABPR_download_link" background-color="#0176c3" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" background-color="#f45e43" color="white" border="1px solid #0176c3" padding="25px 25px 10px 25px">
-            Explore your Book Overview Page on MySpringer
+            Explore your Book Overview Page on MyPalgrave
           </mj-button>
-          <mj-text color="#0176c3" line-height="14px" padding="5px 25px 10px 25px" font-size="11px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+          <mj-text color="#666" line-height="14px" padding="0px 25px 10px 25px" font-size="11px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
             &raquo; see all live metrics &raquo; download pdf &raquo; Book status informations. 
           </mj-text>
 
-          <mj-text font-size="11px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" padding-top="15px" padding-bottom="0px">
-            &#9432; Live metrics available for your other book publications on MySpringer 
+          <mj-text font-size="11px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" padding-top="0px" padding-bottom="15px">
+            &#9432; Live metrics available for your other book publications on MyPalgrave 
           </mj-text>
 
 
@@ -206,8 +203,8 @@
 
       <mj-section>
         <mj-column width="90%" background-color="#fff" border-left="4px solid #D83B5B">
-          <mj-text font-size="16px" color="#000" font-weight="800" padding="5px 0px 15px 25px" font-family="Georgia,Helvetica Neue,Arial">
-            MySpringer account information
+          <mj-text font-size="16px" color="#000" font-weight="800" padding="5px 0px 10px 25px" font-family="Georgia,Helvetica Neue,Arial">
+            MyPalgrave account information
           </mj-text>
           
           <mj-text padding-bottom="0px" color="#333" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" padding-top="0">
