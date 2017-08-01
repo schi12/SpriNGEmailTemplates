@@ -39,7 +39,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="100%">
-          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#F4F4F4" />
+          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
         </mj-column>
       </mj-section>
 
