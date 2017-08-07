@@ -255,7 +255,7 @@
         </mj-column>
         <mj-column width="80%">
           <mj-text font-weight="200" color="#333" text-decoration="underline" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
-            <a style="text-decoration:none;color:#333" href="https://www.springer.com/gp/authors-editors/book-authors-editors/bookmetrix">More information about bookmetrix</a>
+            <a style="text-decoration:none;color:#333" href="https://www.springer.com/gp/authors-editors/book-authors-editors/bookmetrix">More information about Bookmetrix</a>
           </mj-text>
         </mj-column>
           
