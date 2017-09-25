@@ -1,0 +1,195 @@
+<mjml>
+  <mj-head>
+     <mj-font name="Encode Sans" href="https://fonts.googleapis.com/css?family=Encode+Sans" />
+   </mj-head>
+  <mj-body>
+    <mj-container width="640px" >
+
+    <mj-wrapper border="1px solid #DBDBDB" padding-bottom="0px" padding-top="0px">
+
+      <!-- Header1 -->
+      <mj-section padding-bottom="0px" background-color="#ECEDEC" padding-top="15px">
+        <mj-column width="50%">
+          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png" width="150px" padding-top="0" padding-bottom="10" />
+          
+        </mj-column>
+        <mj-column width="50%">
+          <!--mj-image align="right" src="https://s3.eu-central-1.amazonaws.com/springpics/175Jahre_Logo_60px.png" width="150px" padding-top="0" padding-bottom="10" /-->
+          
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
+        </mj-column>
+      </mj-section>
+      
+      
+      
+
+      <!-- Intro -->
+      <mj-section background-color="white" padding-bottom="0px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" font-size="24px" color="#333" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+             Welcome,
+          </mj-text>
+          <mj-text align="left" font-size="14px" color="#333" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+             You successfully subscribed to the Springer Alerts. You will stay up to date on
+             daily deals, discount promotions, events and new releases in the following categories:
+          </mj-text>
+      
+        </mj-column>
+        
+      </mj-section>
+
+      <!-- Subscription List -->
+      <mj-section background-color="white" padding="0px">
+        
+        <mj-column width="50%">
+           <mj-text align="left" font-size="13px" color="#333" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif" padding-top="0px" padding-bottom="0px">
+             <ul>
+             <li>
+              Apple & iOS
+             </li>
+             <li>
+              Hardware & Maker
+             </li>
+             <li>
+              Big Data & Analysis
+             </li>
+             <li>
+              Enterprise Software
+             </li>
+             <li>
+              Cloud Computing
+             </li>
+             </ul>
+          </mj-text>
+      
+          
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text align="left" font-size="13px" color="#333" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif" padding-top="0px" padding-bottom="0px">
+             <ul>
+             <li>
+              Apple & iOS
+             </li>
+             <li>
+              Hardware & Maker
+             </li>
+             <li>
+              Big Data & Analysis
+             </li>
+             <li>
+              Enterprise Software
+             </li>
+             <li>
+              Cloud Computing
+             </li>
+             </ul>
+          </mj-text>
+      
+          <mj-text align="left" color="#333" font-family="Encode Sans,Georgia,Helvetica Neue,Arial">
+            
+          </mj-text>
+        </mj-column>
+        
+      </mj-section>
+
+
+      <!-- Account Information -->
+
+      <mj-section>
+        <mj-column width="90%" background-color="#fff" border-left="4px solid #71ab0b">
+          <mj-text font-size="16px" font-weight="800" padding-top="5px" font-family="Georgia,Helvetica Neue,Arial">
+            MySpringer account information
+          </mj-text>
+          
+          <mj-text padding-bottom="0px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif" padding-top="0">
+            Your login user name: markus.schilde036@springer.com
+          </mj-text>
+          <mj-text padding-top="0px" padding-bottom="5px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+            If you want to activate your account, click the following link: <a style="color:#0176c3;text-decoration:underline;font-family:Helvetica Neue,​Arial,​Helvetica,​sans-serif" href="https://www.springer.com/generic/registration/login?SGWID=1-40107-27-961104-0">Activate here</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Coupon Apress -->
+
+      <mj-section background-color="white" padding-left="20px" padding-right="20px" padding-top="0px" padding-bottom="40px">
+        <mj-column width="100%" background-color="#FFC63E">
+          <mj-text padding-top="20px" font-size="14px" font-family="Encode Sans,Georgia,Helvetica Neue,Arial">
+            <b>Your 10% Apress Gift Card </b>
+          </mj-text>
+          <mj-text font-size="14px" font-family="Encode Sans,Georgia,Helvetica Neue,Arial">
+            Discover the vast selection of over 2,700 IT titles in our Apress Shop and get 10% discount
+            on your next eBook purchase until the end of the year.
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%" background-color="#FFC63E">
+          <mj-button font-family="Encode Sans,Georgia,Helvetica Neue,Arial" background-color="#333" border-radius="22px" color="white" align="right">
+            Redeem your 10% Gift Card now
+          </mj-button>
+        </mj-column>
+
+
+      </mj-section>
+
+     
+
+      
+      <!--Footer Palgrave-->
+      <mj-section background-color="#1a1a1a" padding-left="0" padding-right="0" padding-bottom="0" padding-top="5px">
+        <mj-column width="100%">
+          <mj-social inner-padding="1px" padding-bottom="0px" padding-top="0px" align="right" mode="horizontal" display="twitter facebook" facebook-icon-color="#1a1a1a" facebook-content="" twitter-content="" twitter-icon-color="#1a1a1a" color="#999"/>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="5px" font-size="10px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif"> 
+            If you have any questions, please contact the Springer Nature Customer Service
+        <br/>
+        <a style="text-decoration:none;" href="mailto:customerservice@springer.com">
+                <font color="#999" face="Helvetica Neue,​Arial,​Helvetica,​sans-serif" style="font-size:10px;">
+                customerservice@springer.com
+                </font>
+              </a> </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text  align="left" color="#999" padding-bottom="0" padding-top="5px" font-size="10px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+          Springer Nature, 
+                Tiergartenstr. 15-17,
+                69121 Heidelberg,
+                Germany
+                <br/>
+                Phone: +49 6221 345 0, Fax: +49 6221 345 4229
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text  align="left" color="#999" padding-bottom="0" padding-top="5px" font-size="10px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+          Springer Nature, 233 Spring Street, New York, NY 10013, USA
+                <br/>
+                Phone: +1 212 460 1500 or 800-SPRINGER
+                <br/>
+                (Weekdays 8.30am - 5.30pm ET) Fax: +1 201 348 4505
+          </mj-text>
+        </mj-column>
+
+
+
+        <mj-column width="100%">
+          <mj-text align="left" color="#999" padding-bottom="5px" padding-top="10" font-size="10px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif"> 
+            &#169; Apress 2017,
+                <a style="text-decoration:none;" href="https://www.apress.com/">
+                  <font color="#999" face="Helvetica Neue,​Arial,​Helvetica,​sans-serif" >apress.com</font>
+                </a>
+          </mj-text>
+        </mj-column>
+        
+      </mj-section>
+      
+
+
+      
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>
