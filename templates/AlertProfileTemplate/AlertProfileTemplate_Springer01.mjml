@@ -88,9 +88,7 @@
              </ul>
           </mj-text>
       
-          <mj-text align="left" color="#333" font-family="Encode Sans,Georgia,Helvetica Neue,Arial">
-            
-          </mj-text>
+          
         </mj-column>
         
       </mj-section>
@@ -114,47 +112,42 @@
       </mj-section>
 
 
-      <!-- Coupon Apress -->
+      <!-- Coupon Springer -->
 
-      <mj-section background-color="white" padding-left="20px" padding-right="20px" padding-top="0px" padding-bottom="40px">
-        <mj-column width="100%" background-color="#FFC63E">
-          <mj-text padding-top="20px" font-size="14px" font-family="Encode Sans,Georgia,Helvetica Neue,Arial">
-            <b>Your 10% Apress Gift Card </b>
+      <mj-section  >
+        <mj-column width="90%" border-left="4px solid #FF7527" background-color="#ffcfa5">
+          <mj-text font-size="16px" font-weight="800" padding-top="10px" font-family="Georgia,Helvetica Neue,Arial">
+            	Sie erhalten einen 5 EUR Gutschein für den Springer Shop! 
           </mj-text>
-          <mj-text font-size="14px" font-family="Encode Sans,Georgia,Helvetica Neue,Arial">
-            Discover the vast selection of over 2,700 IT titles in our Apress Shop and get 10% discount
-            on your next eBook purchase until the end of the year.
+          
+          <mj-text padding-bottom="0px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif" padding-top="0">
+             Discover the vast selection of over 250,000 scientific titles in our Springer Shop and save $5 on your next eBook purchase until the end of the year.  
           </mj-text>
+          
+        	<mj-button background-color="#FF7527" padding-top="5px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif" background-color="#0176c3" border-radius="4px" color="white" align="right">
+          	Redeem $5 Gift Card now!
+        	</mj-button>
+        
         </mj-column>
-        <mj-column width="100%" background-color="#FFC63E">
-          <mj-button font-family="Encode Sans,Georgia,Helvetica Neue,Arial" background-color="#333" border-radius="22px" color="white" align="right">
-            Redeem your 10% Gift Card now
-          </mj-button>
-        </mj-column>
-
-
       </mj-section>
 
      
 
       
-      <!--Footer Palgrave-->
-      <mj-section background-color="#1a1a1a" padding-left="0" padding-right="0" padding-bottom="0" padding-top="5px">
+      <!--Footer Springer-->
+      <mj-section background-color="#ededed" padding-left="0" padding-right="0" padding-bottom="0">
         <mj-column width="100%">
-          <mj-social inner-padding="1px" padding-bottom="0px" padding-top="0px" align="right" mode="horizontal" display="twitter facebook" facebook-icon-color="#1a1a1a" facebook-content="" twitter-content="" twitter-icon-color="#1a1a1a" color="#999"/>
-        </mj-column>
-        <mj-column width="100%">
-          <mj-text align="left" color="#999" padding-bottom="0" padding-top="5px" font-size="10px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif"> 
+          <mj-text align="left" color="#999" padding-bottom="0" padding-top="5px" font-size="12px" line-height="14px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif"> 
             If you have any questions, please contact the Springer Nature Customer Service
         <br/>
         <a style="text-decoration:none;" href="mailto:customerservice@springer.com">
-                <font color="#999" face="Helvetica Neue,​Arial,​Helvetica,​sans-serif" style="font-size:10px;">
+                <font color="#2D8CCC" face="Arial" style="font-size:13px;">
                 customerservice@springer.com
                 </font>
               </a> </mj-text>
         </mj-column>
         <mj-column width="100%">
-          <mj-text  align="left" color="#999" padding-bottom="0" padding-top="5px" font-size="10px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+          <mj-text  align="left" color="#999" padding-bottom="0" padding-top="5px" font-size="12px" line-height="14px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
           Springer Nature, 
                 Tiergartenstr. 15-17,
                 69121 Heidelberg,
@@ -164,7 +157,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="100%">
-          <mj-text  align="left" color="#999" padding-bottom="0" padding-top="5px" font-size="10px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif">
+          <mj-text  align="left" color="#999" padding-bottom="0" padding-top="5px" font-size="12px" line-height="14px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
           Springer Nature, 233 Spring Street, New York, NY 10013, USA
                 <br/>
                 Phone: +1 212 460 1500 or 800-SPRINGER
@@ -176,10 +169,10 @@
 
 
         <mj-column width="100%">
-          <mj-text align="left" color="#999" padding-bottom="5px" padding-top="10" font-size="10px" line-height="14px" font-family="Helvetica Neue,​Arial,​Helvetica,​sans-serif"> 
-            &#169; Apress 2017,
-                <a style="text-decoration:none;" href="https://www.apress.com/">
-                  <font color="#999" face="Helvetica Neue,​Arial,​Helvetica,​sans-serif" >apress.com</font>
+          <mj-text align="left" color="#999" padding-bottom="5px" padding-top="10" font-size="12px" line-height="14px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif"> 
+            &#169; Springer 2017,
+                <a style="text-decoration:none;" href="https://www.springer.com/">
+                  <font color="#2D8CCC" face="Arial" size="1">springer.com</font>
                 </a>
           </mj-text>
         </mj-column>
