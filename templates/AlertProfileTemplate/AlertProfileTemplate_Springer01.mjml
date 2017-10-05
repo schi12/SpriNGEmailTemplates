@@ -28,7 +28,7 @@
              Welcome,
           </mj-text>
           <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" color="#555555" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
-             You successfully subscribed to the Apress Newsletter. You will stay up to date on
+             You successfully subscribed to the Springer Alerts. You will stay up to date on
              daily deals, discount promotions, events and new releases in the following categories:
           </mj-text>
       
@@ -110,15 +110,15 @@
 
       <mj-section background-color="white" padding-left="30px" padding-right="30px" padding-top="30px" padding-bottom="30px">
         <mj-column width="100%" background-color="#FFCFA5" border-left="4px solid #FF7527;">
-          <mj-text font-size="18px" color="#333333" line-height="22px" font-weight="600" padding-left="30px" padding-top="30px" font-family="Georgia,Helvetica Neue,Arial">
-            <b>Your 10% Apress Gift Card </b>
+          <mj-text font-size="20px" color="#333333" line-height="22px" font-weight="normal" padding-left="30px" padding-top="30px" font-family="Georgia,Helvetica Neue,Arial">
+            Your $5 Gift Card for The Springer Shop
           </mj-text>
           <mj-text font-size="14px" color="#555555" line-height="22px" padding-left="30px" padding-bottom="0px" font-family="Helvetica Neue,Arial">
-            Discover the vast selection of over 2,700 IT titles in our Apress Shop and get 10% discount
-            on your next eBook purchase until the end of the year.
+            Discover the vast selection of over 250,000 scientific titles in our Springer 
+                Shop and save $5 on your next eBook purchase until the end of the year.
           </mj-text>
           <mj-button font-family="Helvetica Neue,Arial" line-height="17px" padding-left="30px" padding-bottom="20px" font-size="14px" background-color="#FF7527"  border-radius="3px" color="#FFFFFF" align="left">
-            Redeem your 10% Gift Card now
+            Redeem $5 Gift Card now
           </mj-button>
         </mj-column>
         
