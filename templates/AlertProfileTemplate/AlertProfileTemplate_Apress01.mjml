@@ -92,7 +92,7 @@
       <mj-section background-color="white"  padding-left="30px" padding-right="30px" padding-top="0px" padding-bottom="0px">
         <mj-column width="100%" background-color="#e6e6e6">
           <mj-text font-size="18px" color="#333333" line-height="22px" font-weight="600" padding-left="30px" padding-top="30px" font-family="Encode Sans,Georgia,Helvetica Neue,Arial">
-            <b>Your account information</b>
+            Your account information
           </mj-text>
           <mj-text font-size="14px" color="#555555" line-height="22px" padding-left="30px" font-family="Encode Sans,Georgia,Helvetica Neue,Arial">
             You'll receive emails in html format to the following mail address:
