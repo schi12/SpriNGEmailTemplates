@@ -1,6 +1,7 @@
 <mjml>
   <mj-head>
      <mj-font name="Encode Sans" href="https://fonts.googleapis.com/css?family=Encode+Sans" />
+     <mj-font name="Encode Sans Condensed" href="https://fonts.googleapis.com/css?family=Encode+Sans+Condensed:600" />
    </mj-head>
   <mj-body>
     <mj-container width="640px" background-color="#F7F7F7">
@@ -24,7 +25,7 @@
       <mj-section background-color="white" padding-bottom="0px" padding-top="30px" padding-left="30px" padding-right="30px">
         
         <mj-column width="100%">
-          <mj-text align="left" padding-left="0px" font-size="24px" color="#333333" font-weight="600" line-height="22px" font-family="Encode Sans,Helvetica Neue,​Helvetica,Arial,​sans-serif">
+          <mj-text align="left" padding-left="0px" font-size="24px" font-weight="600" color="#333333" line-height="22px" font-family="Encode Sans Condensed,Helvetica Neue,​Helvetica,Arial,​sans-serif">
              Welcome,
           </mj-text>
           <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" color="#555555" font-family="Encode Sans,Helvetica Neue,​Helvetica,Arial,​sans-serif">
@@ -91,7 +92,7 @@
 
       <mj-section background-color="white"  padding-left="30px" padding-right="30px" padding-top="0px" padding-bottom="0px">
         <mj-column width="100%" background-color="#e6e6e6">
-          <mj-text font-size="18px" color="#333333" line-height="22px" font-weight="600" padding-left="30px" padding-top="30px" font-family="Encode Sans,Georgia,Helvetica Neue,Arial">
+          <mj-text font-size="18px" color="#333333" line-height="22px" font-weight="600" padding-left="30px" padding-top="30px" font-family="Encode Sans Condensed,Georgia,Helvetica Neue,Arial">
             Your account information
           </mj-text>
           <mj-text font-size="14px" color="#555555" line-height="22px" padding-left="30px" font-family="Encode Sans,Georgia,Helvetica Neue,Arial">
@@ -113,7 +114,7 @@
 
       <mj-section background-color="white" padding-left="30px" padding-right="30px" padding-top="30px" padding-bottom="30px">
         <mj-column width="100%" background-color="#FFC63E">
-          <mj-text font-size="18px" color="#333333" line-height="22px" font-weight="600" padding-left="30px" padding-top="30px" font-family="Encode Sans,Georgia,Helvetica Neue,Arial">
+          <mj-text font-size="18px" color="#333333" line-height="22px" font-weight="600" padding-left="30px" padding-top="30px" font-family="Encode Sans Condensed,Georgia,Helvetica Neue,Arial">
             <b>Your 10% Apress Gift Card </b>
           </mj-text>
           <mj-text font-size="14px" color="#555555" line-height="22px" padding-left="30px" font-family="Encode Sans,Georgia,Helvetica Neue,Arial">
@@ -168,7 +169,22 @@
           </mj-text>
         </mj-column>
         <mj-column width="20%">
-          <mj-social inner-padding="1px" padding-bottom="0px" padding-top="0px" line-height="35px" align="right" mode="horizontal" display="twitter facebook" facebook-icon-color="#999" border-radius="30px" facebook-content="" twitter-content="" twitter-icon-color="#999" color="#999"/>
+          <mj-social 
+            mode="horizontal" 
+            text-mode="true"
+            padding="0px"
+            icon-size="35px"
+            inner-padding="0px"
+            display="mytwitterc myfacebookc"
+            myfacebookc-icon-color="none"
+            myfacebookc-icon="https://s3.eu-central-1.amazonaws.com/springpics/si_fb_ap.png"
+            myfacebookc-href="https://www.facebook.com/objectway/"
+            myfacebookc-content="&nbsp;"
+            mytwitterc-icon-color="none"
+            mytwitterc-icon="https://s3.eu-central-1.amazonaws.com/springpics/si_twi_ap.png" 
+            mytwitterc-href="https://www.youtube.com/user/objectway"
+            mytwitterc-content="&nbsp;" />
+          
         </mj-column>
         <mj-column width="100%">
           <mj-text>
