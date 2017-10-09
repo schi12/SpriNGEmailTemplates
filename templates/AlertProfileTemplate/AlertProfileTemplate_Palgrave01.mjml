@@ -118,7 +118,7 @@ Copyright (C) JT Types Ltd.
             You'll receive emails in html format to the following mail address:
             jane.doe@blindspot.com
           </mj-text>
-          <mj-button font-family="Bliss Bold, Gill Sans, Calibri, Helvetica Neue, Arial, sans-serif" line-height="17px" padding-left="30px" padding-bottom="20px" font-size="14px" background-color="#008CA4" border-radius="0px" color="#FFFFFF" align="left">
+          <mj-button font-family="Bliss Bold, Gill Sans, Calibri, Helvetica Neue, Arial, sans-serif" line-height="17px" padding-left="30px" padding-bottom="30px" font-size="14px" background-color="#008CA4" border-radius="0px" color="#FFFFFF" align="left">
             Activate your account now
           </mj-button>
         </mj-column>
@@ -128,7 +128,7 @@ Copyright (C) JT Types Ltd.
 
       <!-- Coupon Apress -->
 
-      <mj-section background-color="white" padding-left="30px" padding-right="30px" padding-top="20px" padding-bottom="20px">
+      <mj-section background-color="white" padding-left="30px" padding-right="30px" padding-top="30px" padding-bottom="30px">
         <mj-column width="100%" background-color="#DC506D">
           <mj-text font-size="20px" color="#FFFFFF" line-height="22px" font-weight="normal" padding-left="30px" padding-top="20px" font-family="Bliss Bold, Gill Sans, Calibri, Helvetica Neue, Arial, sans-serif">
             Your £5 Palgrave Gift Card 
@@ -137,7 +137,7 @@ Copyright (C) JT Types Ltd.
             Discover the vast selection of over 2,700 IT titles in our Palgrave Shop and get £5 discount
             on your next eBook purchase until the end of the year.
           </mj-text>
-          <mj-button font-family="Bliss Bold, Gill Sans, Calibri, Helvetica Neue, Arial, sans-serif" line-height="17px" padding-left="30px" padding-bottom="20px" font-size="14px" background-color="#FFFFFF" border-radius="0px" color="#2B2B2B" align="left">
+          <mj-button font-family="Bliss Bold, Gill Sans, Calibri, Helvetica Neue, Arial, sans-serif" line-height="17px" padding-left="30px" padding-bottom="30px" font-size="14px" background-color="#FFFFFF" border-radius="0px" color="#2B2B2B" align="left">
             Redeem your Gift Card now
           </mj-button>
         </mj-column>

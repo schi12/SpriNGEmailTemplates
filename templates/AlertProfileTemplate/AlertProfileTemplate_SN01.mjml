@@ -1,6 +1,5 @@
 <mjml>
   <mj-head>
-          <mj-font name="Encode Sans" href="https://fonts.googleapis.com/css?family=Ubuntu" />
    </mj-head>
   <mj-body>
     <mj-container width="640px" background-color="#EBF1F5">
@@ -24,10 +23,10 @@
       <mj-section background-color="white" padding-bottom="0px" padding-top="30px" padding-left="30px" padding-right="30px">
         
         <mj-column width="100%">
-          <mj-text align="left" padding-left="0px" font-size="24px" font-weight="normal" color="#486A7E" line-height="22px" font-family="Ubuntu, sans-serif, Arial, sans-serif">
+          <mj-text align="left" padding-left="0px" font-size="24px" font-weight="normal" color="#486A7E" line-height="22px" font-family="Bliss Bold,Calibri, Arial, sans-serif">
              Welcome,
           </mj-text>
-          <mj-text align="left" padding-left="0px" font-size="15px" line-height="22px" color="#444444" font-family="Ubuntu, sans-serif">
+          <mj-text align="left" padding-left="0px" font-size="15px" line-height="22px" color="#444444" font-family="Bliss Bold,Calibri, Arial, sans-serif">
              You successfully subscribed to the Palgrave Newsletter. You will stay up to date on
              daily deals, discount promotions, events and new releases in the following categories:
           </mj-text>
@@ -40,7 +39,7 @@
       <mj-section background-color="white" padding-left="30px" padding-right="30px" padding-top="0px">
         
         <mj-column width="50%">
-           <mj-text align="left" font-size="15px" color="#444444" line-height="32px" font-family="Ubuntu, sans-serif" padding="0px" >
+           <mj-text align="left" font-size="15px" color="#444444" line-height="32px" font-family="Bliss Bold,Calibri, Arial, sans-serif" padding="0px" >
              <ul>
              <li>
               Apple & iOS
@@ -63,7 +62,7 @@
           
         </mj-column>
         <mj-column width="50%">
-          <mj-text align="left" font-size="15px" color="#444444" line-height="32px" font-family="Ubuntu, sans-serif" padding="0px" >
+          <mj-text align="left" font-size="15px" color="#444444" line-height="32px" font-family="Bliss Bold,Calibri, Arial, sans-serif" padding="0px" >
              <ul>
              <li>
               Apple & iOS
@@ -91,14 +90,14 @@
 
       <mj-section background-color="white"  padding-left="30px" padding-right="30px" padding-top="0px" padding-bottom="10px">
         <mj-column width="100%" background-color="#EBF1F5" border-radius="0 0 0 10px">
-          <mj-text font-size="20px" color="#0088CC" line-height="22px" font-weight="normal" padding-left="30px" padding-top="30px" font-family="Ubuntu, sans-serif">
+          <mj-text font-size="20px" color="#0088CC" line-height="22px" font-weight="normal" padding-left="30px" padding-top="30px" font-family="Bliss Bold,Calibri, Arial, sans-serif">
             Your account information
           </mj-text>
-          <mj-text font-size="14px" color="#555555" line-height="22px" padding-left="30px" padding-bottom="0px" font-family="Ubuntu, sans-serif">
+          <mj-text font-size="14px" color="#555555" line-height="22px" padding-left="30px" padding-bottom="0px" font-family="Bliss Bold,Calibri, Arial, sans-serif">
             You'll receive emails in html format to the following mail address:
             jane.doe@blindspot.com
           </mj-text>
-          <mj-button font-family="Ubuntu, sans-serif" line-height="17px" padding-left="30px" padding-bottom="30px" font-size="15px" background-color="#0088CC" border-radius="5px" color="#F7F7F7" align="left">
+          <mj-button font-family="Bliss Bold,Calibri, Arial, sans-serif" line-height="17px" padding-left="30px" padding-bottom="30px" font-size="15px" background-color="#0088CC" border-radius="5px" color="#F7F7F7" align="left">
             Activate your account now
           </mj-button>
         </mj-column>
@@ -110,13 +109,13 @@
 
       <mj-section background-color="white" padding-left="30px" padding-right="30px" padding-top="20px" padding-bottom="30px">
         <mj-column width="100%" background-color="#0088CC" border-radius="0 0 0 10px">
-          <mj-text font-size="20px" color="#FFFFFF" line-height="22px" font-weight="normal" padding-left="30px" padding-top="20px" font-family="Ubuntu, sans-serif">
+          <mj-text font-size="20px" color="#FFFFFF" line-height="22px" font-weight="normal" padding-left="30px" padding-top="20px" font-family="Bliss Bold,Calibri, Arial, sans-serif">
             27 September, 2-5pm Conference Room 14 Berlin Office
           </mj-text>
-          <mj-text font-size="14px" color="#FFFFFF" line-height="22px" padding-left="30px" padding-bottom="0px" font-family="Ubuntu, sans-serif">
+          <mj-text font-size="14px" color="#FFFFFF" line-height="22px" padding-left="30px" padding-bottom="0px" font-family="Bliss Bold,Calibri, Arial, sans-serif">
             With little over a week to go, our final list of startups to pitch during our Afternoon of Innovation is complete and it is no longer possible for startups to apply.
           </mj-text>
-          <mj-button font-family="Ubuntu, sans-serif" line-height="17px" padding-left="30px" padding-bottom="30px" font-size="15px" background-color="#FFFFFF" border-radius="5px" color="#0088CC" align="left">
+          <mj-button font-family="Bliss Bold,Calibri, Arial, sans-serif" line-height="17px" padding-left="30px" padding-bottom="30px" font-size="15px" background-color="#FFFFFF" border-radius="5px" color="#0088CC" align="left">
             Join us for an afternoon of innovation in Berlin...
           </mj-button>
         </mj-column>
@@ -132,15 +131,15 @@
       <mj-section padding-right="30px" padding-left="30px" padding-bottom="0" padding-top="30px">
         
         <mj-column width="80%">
-          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Ubuntu, sans-serif"> 
+          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Bliss Bold,Calibri, Arial, sans-serif"> 
             If you have any questions, please contact the Springer Nature Customer Service
         <br/>
         <a style="text-decoration:none;" href="mailto:customerservice@springer.com">
-                <font color="#0088CC" face="Ubuntu, sans-serif" style="font-size:12px;line-height:14px">
+                <font color="#0088CC" face="Bliss Bold,Calibri, Arial, sans-serif" style="font-size:12px;line-height:14px">
                 customerservice@springer.com
                 </font>
               </a> </mj-text>
-              <mj-text  align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px"  font-family="Ubuntu, sans-serif">
+              <mj-text  align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px"  font-family="Bliss Bold,Calibri, Arial, sans-serif">
           Springer Nature, 
                 Tiergartenstr. 15-17,
                 69121 Heidelberg,
@@ -148,14 +147,14 @@
                 <br/>
                 Phone: +49 6221 345 0, Fax: +49 6221 345 4229
           </mj-text>
-          <mj-text  align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px"  font-family="Ubuntu, sans-serif">
+          <mj-text  align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px"  font-family="Bliss Bold,Calibri, Arial, sans-serif">
           Springer Nature, 233 Spring Street, New York, NY 10013, USA
                 <br/>
                 Phone: +1 212 460 1500 or 800-SPRINGER
                 <br/>
                 (Weekdays 8.30am - 5.30pm ET) Fax: +1 201 348 4505
           </mj-text>
-          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="5px" padding-top="10" font-size="12px" line-height="18px"  font-family="Ubuntu, sans-serif"> 
+          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="5px" padding-top="10" font-size="12px" line-height="18px"  font-family="Bliss Bold,Calibri, Arial, sans-serif"> 
             &#169; Springer Nature 2017,
                 
           </mj-text>
