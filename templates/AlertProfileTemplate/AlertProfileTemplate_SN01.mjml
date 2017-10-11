@@ -26,7 +26,7 @@
           <mj-text align="left" padding-left="0px" font-size="24px" font-weight="normal" color="#486A7E" line-height="22px" font-family="Bliss Bold,Calibri, Arial, sans-serif">
              Welcome,
           </mj-text>
-          <mj-text align="left" padding-left="0px" font-size="15px" line-height="22px" color="#444444" font-family="Bliss Bold,Calibri, Arial, sans-serif">
+          <mj-text align="left" padding-left="0px" font-size="15px" line-height="22px" color="#555555" font-family="Bliss Bold,Calibri, Arial, sans-serif">
              You successfully subscribed to the Palgrave Newsletter. You will stay up to date on
              daily deals, discount promotions, events and new releases in the following categories:
           </mj-text>
@@ -39,7 +39,7 @@
       <mj-section background-color="white" padding-left="30px" padding-right="30px" padding-top="0px">
         
         <mj-column width="50%">
-           <mj-text align="left" font-size="15px" color="#444444" line-height="32px" font-family="Bliss Bold,Calibri, Arial, sans-serif" padding="0px" >
+           <mj-text align="left" font-size="15px" color="#555555" line-height="32px" font-family="Bliss Bold,Calibri, Arial, sans-serif" padding="0px" >
              <ul>
              <li>
               Apple & iOS
@@ -62,7 +62,7 @@
           
         </mj-column>
         <mj-column width="50%">
-          <mj-text align="left" font-size="15px" color="#444444" line-height="32px" font-family="Bliss Bold,Calibri, Arial, sans-serif" padding="0px" >
+          <mj-text align="left" font-size="15px" color="#555555" line-height="32px" font-family="Bliss Bold,Calibri, Arial, sans-serif" padding="0px" >
              <ul>
              <li>
               Apple & iOS
