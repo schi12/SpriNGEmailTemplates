@@ -94,8 +94,10 @@
             Current Versions
           </mj-text>
           <mj-text align="left" font-size="12px" color="#373237">
-            - <a href="https://morning-escarpment-87852.herokuapp.com/AlertProfileTemplate/html/AlertProfileTemplate_Apress01.html" target="_blank">Version 0.1a</a>: <i>initial Apress version</i><br/>
-            - <a href="https://morning-escarpment-87852.herokuapp.com/AlertProfileTemplate/html/AlertProfileTemplate_Springer01.html" target="_blank">Version 0.1b</a>: <i>initial Springer version</i><br/>
+            - <a href="/AlertProfileTemplate/html/AlertProfileTemplate_Apress01.html" target="_blank">Version 0.1a</a>: <i>initial Apress version</i><br/>
+            - <a href="/AlertProfileTemplate/html/AlertProfileTemplate_Springer01.html" target="_blank">Version 0.1b</a>: <i>initial Springer version</i><br/>
+            - <a href="/AlertProfileTemplate/html/AlertProfileTemplate_SN01.html" target="_blank">Version 0.1c</a>: <i>initial Springer Nature version</i><br/>
+            - <a href="/AlertProfileTemplate/html/AlertProfileTemplate_Palgrave01.html" target="_blank">Version 0.1d</a>: <i>initial Palgrave version</i><br/>
           </mj-text>
 
         </mj-column>

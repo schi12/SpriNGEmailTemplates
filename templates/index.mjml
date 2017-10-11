@@ -63,9 +63,9 @@
           </mj-text>
           <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
           <ol>
-             <li><a style="font-family:Helvetica Neue,Arial;text-decoration:none" href="https://morning-escarpment-87852.herokuapp.com/ArticleAuthors/ArticleAuthorOnlineFirst/index.html">ArticleAuthorOnlineFirst</a>´</li>
-             <li><a style="font-family:Helvetica Neue,Arial;text-decoration:none" href="https://morning-escarpment-87852.herokuapp.com/BookAuthors/BookmetrixAlert/index.html">'Bookmetrix Alert'</li>
-             <li><a style="font-family:Helvetica Neue,Arial;text-decoration:none" href="https://morning-escarpment-87852.herokuapp.com/AlertProfileTemplate/index.html">Alert Profile Confirmation</li>
+             <li><a style="font-family:Helvetica Neue,Arial;text-decoration:none" href="/ArticleAuthors/ArticleAuthorOnlineFirst/index.html">ArticleAuthorOnlineFirst</a>´</li>
+             <li><a style="font-family:Helvetica Neue,Arial;text-decoration:none" href="/BookAuthors/BookmetrixAlert/index.html">'Bookmetrix Alert'</li>
+             <li><a style="font-family:Helvetica Neue,Arial;text-decoration:none" href="/AlertProfileTemplate/index.html">Alert Profile Confirmation</li>
            </ol>
 
 
