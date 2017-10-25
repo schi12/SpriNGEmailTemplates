@@ -29,13 +29,13 @@
       <!-- Subject line -->
       <mj-section background-color="white" padding-bottom="0" padding-top="0">
         <mj-column width="60%">
-          <mj-text align="left" font-size="15" color="#333" font-family="Georgia,Helvetica Neue,Arial">
+          <mj-text align="left" font-size="15" color="#333333" font-family="Georgia,Helvetica Neue,Arial">
             
           </mj-text>
         </mj-column>
         <mj-column width="40%">
-          <mj-text align="right" font-size="12" color="#333" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
-            01/08/2017
+          <mj-text align="right" font-size="12" color="#333333" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+            ${currentDate}
           </mj-text>
         </mj-column>
         <mj-column width="100%">

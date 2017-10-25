@@ -7,7 +7,7 @@
       <!-- Header1 -->
       <mj-section padding-bottom="0px" background-color="#E7E7E8" padding-top="0px">
         <mj-column width="100%">
-          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/apress_logo.png"  width="125px" padding-top="0" padding-bottom="0" />
+          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/part_of_springernature_head.png"  width="125px" padding-top="0" padding-bottom="0" />
           
         </mj-column>
         
@@ -21,11 +21,15 @@
         <mj-column width="80%">
           &nbsp;
         </mj-column>
+      </mj-section>
+      
+      <mj-section padding="0" >
         <mj-column width="100%">
           <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
         </mj-column>
       </mj-section>
-      
+
+
       <!-- Subject line -->
       <mj-section background-color="white" padding-bottom="0" padding-top="0">
         <mj-column width="60%">
@@ -34,10 +38,14 @@
           </mj-text>
         </mj-column>
         <mj-column width="40%">
-          <mj-text align="right" font-size="12" color="#333" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
-            01/08/2017
+          <mj-text align="right" font-size="12" padding-bottom="10px" color="#333" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+            ${currentDate}
           </mj-text>
         </mj-column>
+        
+      </mj-section>
+
+      <mj-section padding="0" >
         <mj-column width="100%">
           <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
         </mj-column>
@@ -149,10 +157,16 @@
                       <table class="container" width="74" cellspacing="0" cellpadding="0" border="0" align="center">
                           <tbody><tr>
                               <td class="mobile" style="font-size:12px; line-height:18px;" width="74" align="center">
-                                  <div style="padding:10px;height:36px;color:#666;background:#e0e0e0;border-right:1px solid #f0f0f0;">
-                                    <span style="color:#333;font-family:Helvetica Neue,​Helvetica,Arial,​sans-serif;font-size:11px;text-align:left;display:block">Downloads</span>
-                                    <span style="display:block;color:#666;font-family:Helvetica;font-size:15px;text-align:left;">150188</span>
-                                  </div>
+                                  <table class="container" width="74" cellspacing="0" cellpadding="0" border="0" align="center">
+                                    <tbody>
+                                      <tr>
+                                        <td class="mobile" width="74" align="center" style="padding:10px;height:36px;color:#666;background:#e0e0e0;border-right:1px solid #f0f0f0;">
+                                          <span style="color:#333333;font-family:Helvetica Neue,​Helvetica,Arial,​sans-serif;font-size:11px;text-align:left;display:block">Downloads</span>
+                                          <span style="display:block;color:#666666;font-family:Helvetica;font-size:15px;text-align:left;">150188</span>  
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>                                  
                               </td>
                           </tr>
                       </tbody></table>
@@ -249,17 +263,23 @@
 
       <!-- Bookmetrix Info -->
 
-      <mj-section padding-top="0px" padding-bottom="0" background-color="#fff" border-top="1px solid #D4D4D4" >
+      <mj-section padding-top="0px" padding-bottom="0" background-color="#ffffff" border-top="1px solid #D4D4D4" >
         <mj-column width="20%">
           <mj-image src="https://resource-cms.springer.com/springer-cms/rest/v1/content/54978/data/v1" width="110px" align="left"/>
         </mj-column>
         <mj-column width="80%">
-          <mj-text font-weight="200" color="#333" text-decoration="underline" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
-            <a style="text-decoration:none;color:#333" href="https://www.springer.com/gp/authors-editors/book-authors-editors/bookmetrix">More information about Bookmetrix</a>
+          <mj-text font-weight="200" color="#333333" text-decoration="underline" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+            <a style="text-decoration:none;color:#333333" href="https://www.springer.com/gp/authors-editors/book-authors-editors/bookmetrix">More information about Bookmetrix</a>
           </mj-text>
         </mj-column>
-          
-          <mj-divider padding-left="25" padding-right="25" padding-top="5px" padding-bottom="0px" border-width="1px" border-color="#D4D4D4"/>
+        
+        
+      </mj-section>
+
+      <mj-section padding="0">
+
+        <mj-column width="100%">
+          <mj-divider padding-left="0" padding-right="0" padding-top="5px" padding-bottom="0px" border-width="1px" border-color="#D4D4D4"/>
 
         </mj-column>
       </mj-section>
