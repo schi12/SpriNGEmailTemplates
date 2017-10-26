@@ -229,7 +229,7 @@ Copyright (C) JT Types Ltd.
       <!--Footer Palgrave-->
       <mj-section padding-right="30px" padding-left="30px" padding-bottom="0" padding-top="30px">
         
-        <mj-column width="80%">
+        <mj-column>
           <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Verdana, Arial, sans-serif"> 
             If you have any questions, please contact the Springer Nature Customer Service
         	<br/>
@@ -260,7 +260,7 @@ Copyright (C) JT Types Ltd.
                 
           </mj-text>
         </mj-column>
-        <mj-column width="20%">
+        <!--mj-column width="20%">
           <mj-social 
             mode="horizontal" 
             text-mode="true"
@@ -277,7 +277,7 @@ Copyright (C) JT Types Ltd.
             mytwitterc-href="https://www.youtube.com/user/objectway"
             mytwitterc-content="&nbsp;" />
           
-        </mj-column>
+        </mj-column-->
         
         
       </mj-section>

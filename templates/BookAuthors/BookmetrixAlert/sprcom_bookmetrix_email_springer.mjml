@@ -153,7 +153,7 @@
         </mj-column>
         <mj-column width="80%">
           <mj-text font-weight="200" color="#444444" text-decoration="underline">
-            <a style="text-decoration:none;color:#444" href="https://www.springer.com/gp/authors-editors/book-authors-editors/bookmetrix">More information about bookmetrix</a>
+            <a style="text-decoration:none;color:#444" href="https://www.springer.com/gp/authors-editors/book-authors-editors/bookmetrix">More information about Bookmetrix</a>
           </mj-text>
         </mj-column>
 
@@ -167,7 +167,7 @@
       <!--Footer Springer-->
       <mj-section padding-right="30px" padding-left="30px" padding-bottom="0" padding-top="30px">
         
-        <mj-column width="80%">
+        <mj-column>
           <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0px" padding-top="0px" font-size="12px" line-height="18px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif"> 
             If you have any questions, please contact the Springer Nature Customer Service
         <br/>
@@ -199,7 +199,7 @@
                 
           </mj-text>
         </mj-column>
-        <mj-column width="20%">
+        <!--mj-column width="20%">
           <mj-social 
             mode="horizontal" 
             text-mode="true"
@@ -215,7 +215,7 @@
             mytwitterc-icon="https://s3.eu-central-1.amazonaws.com/springpics/si_twi_sp.png" 
             mytwitterc-href="https://www.youtube.com/user/objectway"
             mytwitterc-content="&nbsp;" />
-        </mj-column>        
+        </mj-column-->        
         
       </mj-section>
 
