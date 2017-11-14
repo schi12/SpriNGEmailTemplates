@@ -91,13 +91,13 @@ Copyright (C) JT Types Ltd.
       <mj-section background-color="#F4F4F4" padding-top="30px" padding-left="30px" >
         
         
-        <mj-column width="170px" background-color="#E8E8E8">
+        <mj-column width="28%" background-color="#E8E8E8">
                  
           <mj-image padding-top="20px" padding-left="20px" padding-bottom="20px" padding-right="0px" align="left"  src="https://images.springer.com/sgw/books/medium/978-1-349-94860-4.jpg" width="108px" border="1px solid #dbdbdb">
           </mj-image>
         </mj-column>
         
-        <mj-column width="102px" background-color="#E8E8E8">
+        <mj-column width="22%" background-color="#E8E8E8">
                  
           <mj-image padding-left="0px" padding-top="20px" padding-right="30px" src="https://s3.eu-central-1.amazonaws.com/springpics/allert_illu_pal.png" width="60px">
           </mj-image>  
@@ -105,7 +105,7 @@ Copyright (C) JT Types Ltd.
           <mj-text padding-left="0px" padding-right="30px" padding-top="0px" padding-bottom="36px" color="#0CAD42" font-size="24px" line-height="28px" font-family="Verdana, Arial, sans-serif" align="center">512</mj-text>
          
         </mj-column>
-        <mj-column width="320px">
+        <mj-column width="50%">
           <!--mj-text padding-top="0px" padding-bottom="0px" align="left" color="#373237" font-size="12px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
             <a style="color:#0176c3;text-decoration:none;" href="http://link.springer.com/journal/216">Analytical and Bioanalytical Chemistry</a>
           </mj-text-->
@@ -122,14 +122,66 @@ Copyright (C) JT Types Ltd.
             &copy; 2017
           </mj-text>
                 
-          <mj-button padding-left="30px" href="http://www.palgrave.com/gp/" font-family="Verdana, Arial, sans-serif" line-height="17px" padding-left="25px" padding-bottom="10px" inner-padding="10px 5px 10px 5px" padding-top="15px" font-size="14px" background-color="#DC506D" border-radius="0px" color="#FFFFFF" align="left">
-            Explore your metrics on MyPalgrave
+          <mj-button padding-left="30px" href="http://www.palgrave.com/gp/" font-family="Verdana, Arial, sans-serif" line-height="17px" padding-left="25px" padding-bottom="10px" inner-padding="10px 10px 10px 10px" padding-top="15px" font-size="13px" background-color="#DC506D" border-radius="0px" color="#FFFFFF" align="left">
+            MyPalgrave: Explore your metrics 
           </mj-button>
           
 
         </mj-column>
 
       </mj-section>
+
+
+      <!-- Social media -->
+      <mj-section background-color="#F4F4F4" border-top="1px solid #D7D7D7">
+        <mj-column width="40%"> 
+          <mj-text font-family="Verdana, Arial, sans-serif" font-size="20px" color="2B2B2B">
+            Share your success: 
+          </mj-text>
+        </mj-column>
+         <mj-column width="25%">
+
+          <mj-table container-background-color="#DDDDDD" padding="8px 10px 8px 10px">
+              <tr>
+                <td style="border-right:1px solid #BBBBBB">
+                  <image src="https://s3.eu-central-1.amazonaws.com/springpics/pal_share_tw.png" width="14px"/>
+                </td>
+                <td>
+                  <span style="padding-left:20px;font-family:Verdana, Arial, sans-serif;line-height:17px;font-size:14px;color:#2B2B2B">
+                    Twitter
+                  </span>          
+                </td>
+              </tr>
+          </mj-table>
+        </mj-column>
+        <mj-column width="5%">
+        </mj-column>
+
+        <mj-column width="25%"> 
+          <mj-table container-background-color="#DDDDDD" padding="8px 10px 8px 10px">
+            <tr>
+              <td style="border-right:1px solid #BBBBBB;width:25px">
+                <image src="https://s3.eu-central-1.amazonaws.com/springpics/pal_share_fb.png" width="8px"/>
+              </td>
+              <td>
+                <span style="padding-left:20px;font-family:Verdana, Arial, sans-serif;line-height:17px;font-size:14px;color:#2B2B2B">
+                  Facebook
+                </span>          
+              </td>
+            </tr>
+        </mj-table>         
+        </mj-column>
+        <mj-column width="5%">
+        </mj-column>
+         
+
+
+        </mj-column>
+
+      </mj-section>
+
+
+
 
       <!-- Account Information --> 
 
