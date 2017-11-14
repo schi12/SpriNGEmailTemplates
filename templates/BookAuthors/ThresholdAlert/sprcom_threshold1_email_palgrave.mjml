@@ -135,7 +135,7 @@ Copyright (C) JT Types Ltd.
       <!-- Social media -->
       <mj-section background-color="#F4F4F4" border-top="1px solid #D7D7D7">
         <mj-column width="40%"> 
-          <mj-text font-family="Verdana, Arial, sans-serif" font-size="20px" color="2B2B2B">
+          <mj-text font-family="Verdana, Arial, sans-serif" font-size="18px" color="2B2B2B">
             Share your success: 
           </mj-text>
         </mj-column>
