@@ -58,15 +58,10 @@ Copyright (C) JT Types Ltd.
         
         <mj-column>
           <mj-text align="left" padding-left="0px" font-size="24px" font-weight="600" color="#333333" line-height="22px" font-family="Bliss Bold, Gill Sans, Calibri, Helvetica Neue, Arial, sans-serif">
-             Dear Dr. Wagner,
+             Congratulations Dr. Wagner,
           </mj-text>
           <mj-text align="left" padding-left="0px" font-size="14px" color="#555555" font-family="Verdana, Arial, sans-serif">
-             We are pleased to update you on your eBook, Global Risk Agility and Decision Making, published recently 
-             as part of the SpringerLink Economics and Finance eBook Collection.<br/><br/>
-             Our search engine optimization strategies, market-leading metadata practices and targeted 
-             promotion of your book (through our New Book Alert and eCampaigns) lead to optimum 
-             visibility—advancing discovery at institutions around the world, reaching researchers, 
-             students and professionals.
+             Your book is performing very well. The download figures for your eBook are above the average of it’s main discipline Economics and Finance.
           </mj-text>
 	              
         </mj-column>
@@ -76,14 +71,14 @@ Copyright (C) JT Types Ltd.
       <!-- Book & metrix Section -->
 
       <!-- Bookmetrix part 1 -->
-      <mj-section background-color="#F4F4F4" padding-top="30px" padding-bottom="0px">
+      <!--mj-section background-color="#F4F4F4" padding-top="30px" padding-bottom="0px">
         <mj-column>       
           <mj-text padding-left="30px" padding-top="0px" align="left" padding-bottom="0px" font-size="24px" font-family="Verdana, Arial, sans-serif" color="#2B2B2B">
-            Alert Heading
+            Your book is above average of main discipline!
           </mj-text>
         </mj-column>
 
-      </mj-section>
+      </mj-section-->
 
       <!-- Bookmetrix part 2 -->
 
@@ -186,7 +181,6 @@ Copyright (C) JT Types Ltd.
       <!-- Account Information --> 
 
       
-
       <mj-section background-color="white"  padding-left="30px" padding-right="30px" padding-top="30px" padding-bottom="30px">
         <mj-column width="100%" background-color="#F4F4F4">
            <mj-text font-size="20px" color="#333333" line-height="22px" font-weight="normal" padding-left="30px" padding-top="20px" font-family="Bliss Bold, Gill Sans, Calibri, Helvetica Neue, Arial, sans-serif">
@@ -287,7 +281,7 @@ Copyright (C) JT Types Ltd.
                 69121 Heidelberg,
                 Germany
                 <br/>
-                Phone: +49 6221 345 0, Fax: +49 6221 345 4229
+                Phone: +49 6221 345 4301, Fax: +49 6221 345 4229
              <br/>       
           
           Springer Nature, 233 Spring Street, New York, NY 10013, USA
