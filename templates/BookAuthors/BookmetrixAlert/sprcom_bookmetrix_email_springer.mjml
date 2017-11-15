@@ -123,29 +123,29 @@
         
       </mj-section>
 
-      <!-- Intro -->
-          <mj-section background-color="white" padding-bottom="30px" padding-top="30px" padding-left="30px" padding-right="30px">
-            
-            <mj-column width="100%">
-              <mj-text align="left" padding-left="0px" font-size="14px" padding-bottom="0px" line-height="22px" color="#555555" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
-                 Performance metrics (powered by Bookmetrix) are also available for any previously published books.
-              </mj-text>
-              <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" padding-bottom="0px" color="#555555" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
-                 Thank you again for publishing with Springer!
-              </mj-text>
-              <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" padding-bottom="0px" color="#555555" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
-                 With best wishes,
-                 
-              </mj-text>
-              <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" color="#555555" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
-                 Your Author Marketing Team
-              </mj-text>
-          
-            </mj-column>
-            
-          </mj-section>
+      <!-- Thank you text -->
+      <mj-section background-color="white" padding-bottom="30px" padding-top="30px" padding-left="30px" padding-right="30px">
+        
+        <mj-column width="100%">
+          <mj-text align="left" padding-left="0px" font-size="14px" padding-bottom="0px" line-height="22px" color="#555555" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+              Performance metrics (powered by Bookmetrix) are also available for any previously published books.
+          </mj-text>
+          <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" padding-bottom="0px" color="#555555" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+              Thank you again for publishing with Springer!
+          </mj-text>
+          <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" padding-bottom="0px" color="#555555" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+              With best wishes,
+              
+          </mj-text>
+          <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" color="#555555" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+              Your Author Marketing Team
+          </mj-text>
+      
+        </mj-column>
+        
+      </mj-section>
 
-          <!-- Bookmetrix Info -->
+      <!-- Bookmetrix Info -->
 
       <mj-section padding-top="0px" padding-bottom="0" background-color="#fff" border-top="1px solid #D4D4D4" >
         <mj-column width="20%">
