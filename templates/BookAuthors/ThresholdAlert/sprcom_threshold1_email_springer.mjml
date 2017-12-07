@@ -56,6 +56,9 @@
         <mj-column width="56%" background-color="#E8E8E8">
           <mj-image padding-top="20px" padding-bottom="20px" padding-right="0px" align="left"  src="https://images.springer.com/sgw/books/medium/9781846282294.jpg" width="108px" height="140px" border="1px solid #dbdbdb">
           </mj-image>
+          <mj-text container-background-color="#F4F4F4" padding-left="0" font-family="Verdana, Arial, sans-serif" font-size="11px" line-height="17px" color="#333333">
+              Provided by <b>Book</b>metrix
+          </mj-text>
         </mj-column>
 
         <mj-column width="44%" background-color="#E8E8E8">
@@ -64,13 +67,7 @@
           <mj-text padding-left="0px" padding-right="30px" padding-top="0px" padding-bottom="0px" align="center" color="#555555" line-height="22px" font-size="13px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">Downloads</mj-text>
           <mj-text padding-left="0px" padding-right="30px" padding-top="0px" padding-bottom="14px" color="#0CAD42" font-size="24px" line-height="28px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" align="center">4936</mj-text>
         </mj-column>
-        <mj-column width="100%">
-          <mj-text padding-left="0" font-family="Georgia,Helvetica Neue,Arial" font-size="11px" line-height="17px" color="#333333">
-            Provided by <b>Book</b>metrix
-          </mj-text>
-        </mj-column>
         </mj-group>
-
         <mj-column width="50%">
           <!--mj-text padding-top="0px" padding-bottom="0px" align="left" color="#373237" font-size="12px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
             <a style="color:#0176c3;text-decoration:none;" href="http://link.springer.com/journal/216">Analytical and Bioanalytical Chemistry</a>
@@ -93,6 +90,7 @@
 
 
         </mj-column>
+
 
       </mj-section>
 
