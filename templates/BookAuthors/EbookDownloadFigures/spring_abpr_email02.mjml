@@ -40,29 +40,24 @@
 
 
       <!-- Intro -->
-      <mj-section padding-bottom="0px">
+      <mj-section padding-bottom="25px">
 
         <mj-column width="100%">
-          <mj-text align="left" font-size="20px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          <mj-text align="left" font-size="20px" color="#373237" font-family="Georgia,Helvetica Neue,Arial" padding-right="30px" padding-left="30px">
             Dear Author,
           </mj-text>
-          <mj-text align="left" font-size="14px" line-height="22px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          <mj-text align="left" font-size="14px" line-height="22px" color="#373237" font-family="Georgia,Helvetica Neue,Arial" padding-right="30px" padding-left="30px">
             Below please find the link to your personal <b>Annual Book Performance Report</b>, which shows the number of chapter downloads in 2016* and a few additional related numbers and topics as applicable.
-          </mj-text>
-          <mj-text align ="left" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
-
           </mj-text>
         </mj-column>
 
       </mj-section>
 
       <!-- Book Section -->
-
-
-      <mj-section background-color="#f1f1f1" padding-top="40px" padding-bottom="40px">
+      <mj-section background-color="#f1f1f1" padding="40px 5px">
 
         <mj-column width="30%">
-          <mj-image padding-right="5px" src="http://images.springer.com/sgw/books/medium/978-3-8349-2206-9.jpg" width="135px">
+          <mj-image align="left" src="http://images.springer.com/sgw/books/medium/978-3-8349-2206-9.jpg" width="135px">
           </mj-image>
         </mj-column>
         <mj-column width="70%">
@@ -91,7 +86,7 @@
 
       <!-- Account Information -->
 
-      <mj-section background-color="#fff" padding-left="30px" padding-right="30px" padding-top="30px" padding-bottom="0px">
+      <mj-section padding-left="30px" padding-right="30px" padding-top="30px" padding-bottom="0px">
         <mj-column border-left="4px solid #71ab0b">
           <mj-text font-size="20px" font-weight="400" padding-bottom="0px" padding-left="30px" padding-top="20px" font-family="Georgia,Helvetica Neue,Arial">
             MySpringer account information
@@ -114,17 +109,16 @@
 
 
       <!-- Thank you text -->
-
-      <mj-section  background-color="#fff">
+      <mj-section>
         <mj-column>
-          <mj-text font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          <mj-text font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial"  padding-right="30px" padding-left="30px">
           Thank you again for publishing with Springer! We hope to be your partner of choice again for your future publications.
 
           </mj-text>
-          <mj-text padding-top="0px" padding-bottom="0px" font-family="Georgia,Helvetica Neue,Arial">
+          <mj-text padding-top="0px" padding-bottom="0px" font-family="Georgia,Helvetica Neue,Arial" padding-right="30px" padding-left="30px">
             Best regards,
           </mj-text>
-          <mj-text padding-top="0px" padding-bottom="0px" font-family="Georgia,Helvetica Neue,Arial">
+          <mj-text padding-top="0px" padding-bottom="0px" font-family="Georgia,Helvetica Neue,Arial" padding-right="30px" padding-left="30px">
             Your Author Marketing Team
           </mj-text>
         </mj-column>
@@ -134,7 +128,7 @@
       <!-- Footnote -->
       <mj-section>
         <mj-column width="100%">
-           <mj-text padding-top="0px" font-size="10px" line-height="12px" color="#555555" padding-bottom="0px" font-family="Verdana, Arial, sans-serif">
+           <mj-text padding="0px 30px" font-size="10px" line-height="12px" color="#555555" font-family="Verdana, Arial, sans-serif">
              *This report covers only your eBook’s performance on SpringerLink (eBook package
              activities); it does not include individual eBook sales and/or print book sales. To see
              the results for your print book and/or eBook sales, please consult the royalty statement
@@ -149,7 +143,8 @@
       <mj-section padding-right="30px" padding-left="30px" padding-bottom="0" padding-top="30px">
 
         <mj-column>
-          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Verdana, Arial, sans-serif">
+          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px"
+          font-size="12px" line-height="18px" font-family="Verdana, Arial, sans-serif">
             If you have any questions, please contact the Springer Nature Customer Service <br/>
             <a style="text-decoration:none;" href="mailto:customerservice@springer.com">
                 <font color="#148CA4" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
