@@ -6,24 +6,24 @@
 
       <!-- Header -->
       <mj-section padding-bottom="0px" background-color="#ECEDEC" padding-top="15px">
-        <mj-column width="50%">
+        <mj-column width="100%">
           <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png" width="150px" padding-top="0" padding-bottom="10" />
-          
+
         </mj-column>
-        <mj-column width="50%">
+        <!-- mj-column width="50%">
           <mj-image align="right" src="https://s3.eu-central-1.amazonaws.com/springpics/175Jahre_Logo_60px.png" width="150px" padding-top="0" padding-bottom="10" />
-          
-        </mj-column>
+
+        </mj-column-->
         <mj-column width="100%">
           <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
         </mj-column>
       </mj-section>
-      
-      <!-- Subject line -->
+
+      <!-- Subject line
       <mj-section background-color="white" padding-bottom="0" padding-top="0">
         <mj-column width="60%">
           <mj-text align="left" font-size="15" color="grey" font-family="Georgia,Helvetica Neue,Arial">
-            
+
           </mj-text>
         </mj-column>
         <mj-column width="40%">
@@ -36,30 +36,31 @@
         </mj-column>
       </mj-section>
 
+      -->
+
 
       <!-- Intro -->
       <mj-section background-color="white" padding-bottom="0px">
-        
+
         <mj-column width="100%">
-          <mj-text align="left" font-size="20" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          <mj-text align="left" font-size="20px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
             Dear Author,
           </mj-text>
-          <mj-text align="left" font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
+          <mj-text align="left" font-size="14px" line-height="22px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
             Below please find the link to your personal <b>Annual Book Performance Report</b>, which shows the number of chapter downloads in 2016* and a few additional related numbers and topics as applicable.
-
           </mj-text>
           <mj-text align ="left" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
-            
+
           </mj-text>
         </mj-column>
-        
+
       </mj-section>
 
       <!-- Book Section -->
 
 
       <mj-section background-color="#f1f1f1" padding-top="40px" padding-bottom="40px">
-        
+
         <mj-column width="30%">
           <mj-image padding-right="5px" src="http://images.springer.com/sgw/books/medium/978-3-8349-2206-9.jpg" width="135px">
           </mj-image>
@@ -81,24 +82,24 @@
           <mj-text font-size="14px" line-height="26px" padding-top="10px" padding-bottom="0px" font-family="Georgia,Helvetica Neue,Arial">
             <a style="line-height:26px;padding-bottom:4px;color:#0176c3;text-decoration:underline;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_viewarticle_icon.png);background-size:16px 16px;background-repeat:no-repeat; " href="https://www.springer.com/gp/myspringer/book-publications">MySpringer: Your personal book overview page</a>
           </mj-text>
-          
+
 
         </mj-column>
 
       </mj-section>
 
 
-      <!-- Account Information --> 
+      <!-- Account Information -->
 
-      <mj-section>
+      <mj-section background-color="#fff" >
         <mj-column width="90%" background-color="#fff" border-left="4px solid #71ab0b">
           <mj-text font-size="16px" font-weight="800" font-family="Georgia,Helvetica Neue,Arial">
             MySpringer account information
           </mj-text>
           <mj-text font-family="Georgia,Helvetica Neue,Arial">
-            Log in to your personal MySpringer account on springer.com. In addition to the Book 
+            Log in to your personal MySpringer account on springer.com. In addition to the Book
             Performance Report, you will find a free copy of your eBook and your eBook&#39;s current
-            performance metrics (provided by Bookmetrix). You can also order any book from the 
+            performance metrics (provided by Bookmetrix). You can also order any book from the
             Springer Shop at a 40% discount.
           </mj-text>
           <mj-text padding-bottom="0px" font-family="Georgia,Helvetica Neue,Arial">
@@ -107,15 +108,15 @@
           <mj-text padding-top="0px" font-family="Georgia,Helvetica Neue,Arial">
           If you forgot your password: <a href="https://www.springer.com/generic/registration/login?SGWID=1-40107-27-961104-0">reset password here</a>
           </mj-text>
-          
-          
+
+
         </mj-column>
       </mj-section>
 
 
       <!-- Thank you text -->
 
-      <mj-section>
+      <mj-section  background-color="#fff">
         <mj-column>
           <mj-text font-size="14px" color="#373237" font-family="Georgia,Helvetica Neue,Arial">
           Thank you again for publishing with Springer! We hope to be your partner of choice again for your future publications.
@@ -133,18 +134,18 @@
 
 
       <!-- Footnote -->
-      <mj-section>
+      <mj-section  background-color="#fff">
         <mj-column width="100%">
           <mj-text align="left" color="#000" padding-bottom="0" padding-top="10" font-size="11px" line-height="14px" font-family="Georgia,Helvetica Neue,Arial">
-            *This report covers only your eBook’s performance on SpringerLink (eBook package 
-            activities); it does not include individual eBook sales and/or print book sales. To see 
+            *This report covers only your eBook’s performance on SpringerLink (eBook package
+            activities); it does not include individual eBook sales and/or print book sales. To see
             the results for your print book and/or eBook sales, please consult the royalty statement
             provided by our royalty team in April (only applicable if your contract includes sales-based
             royalties).
           </mj-text>
         </mj-column>
       </mj-section>
-      
+
       <!--Footer -->
       <mj-section background-color="#ededed" padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
         <mj-column width="100%">
@@ -156,12 +157,12 @@
         <mj-column width="100%">
           <mj-text align="left" color="#999" padding-bottom="0" padding-top="10" font-size="12px" line-height="14px" font-family="Georgia,Helvetica Neue,Arial">Springer respects your privacy and does not disclose, sell or rent your personal information to any nonaffiliated third parties without your consent. Please visit the Springer Privacy Statement.</mj-text>
         </mj-column>
-        
+
         <mj-column width="100%">
           <mj-text align="left" color="#999" padding-bottom="10" padding-top="10" font-size="12px" line-height="14px" font-family="Georgia,Helvetica Neue,Arial">© Springer 2017, springer.com </mj-text>
         </mj-column>
       </mj-section>
-      
+
       <!-- Social Media -->
       <!--mj-section background-color="#767676" padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
         <mj-column width="50%">
@@ -172,7 +173,7 @@
 
 
 
-      
+
       </mj-wrapper>
     </mj-container>
   </mj-body>
