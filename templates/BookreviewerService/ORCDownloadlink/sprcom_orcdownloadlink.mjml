@@ -17,7 +17,7 @@
       </mj-section>
 
       <!-- Header Springer Palgrave -->
-      <mj-section padding-bottom="0px" background-color="#FFFFFF">
+      <mj-section padding-bottom="0px">
         <mj-column width="35%">
           <mj-image align="left" padding-left="25px" padding-bottom="25px" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png"  width="125px" padding-top="0" padding-bottom="0" />
         </mj-column>
@@ -29,7 +29,7 @@
         </mj-column>
       </mj-section>
 
-      <!-- Header Toppic and Date -->
+      <!-- Header Toppic and Date
       <mj-section padding="0">
         <mj-column width="100%">
           <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
@@ -54,9 +54,10 @@
           <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
         </mj-column>
       </mj-section>
+      -->
 
       <!-- Intro -->
-      <mj-section padding="25px">
+      <mj-section padding="0 25px">
         <mj-column width="100%">
           <mj-text align="left" padding-left="0px" font-size="24px" color="#333333" font-weight="normal" line-height="22px" font-family="Georgia,Helvetica Neue,​Helvetica,Arial,​sans-serif">
              Dear Reviewer,
@@ -65,9 +66,9 @@
             Thank you for requesting this title for the purpose of reviewing in an academic journal, magazine or other media. We are happy to provide you with immediate access to the online copy of the book.
           </mj-text>
         </mj-column>
-        <mj-column width="100%">
+        <!-- mj-column width="100%">
           <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
-        </mj-column>
+        </mj-column -->
       </mj-section>
 
      <!-- Book Section -->
