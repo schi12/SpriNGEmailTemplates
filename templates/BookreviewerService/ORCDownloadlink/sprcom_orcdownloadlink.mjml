@@ -154,8 +154,8 @@
           <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
             If you have any questions, please contact the Springer Nature Customer Service
         	<br/>
-        	<a style="text-decoration:none;" href="mailto:customerservice@springer.com">
-                <font color="#0176c3" face="Arial, Helvetica, sans-serif" style="font-size:12px;line-height:14px">
+        	<a style="text-decoration:underline;" href="mailto:customerservice@springer.com">
+                <font color="#999999" face="Arial, Helvetica, sans-serif" style="font-size:12px;line-height:14px">
                 customerservice@springer.com
                 </font>
               </a>
