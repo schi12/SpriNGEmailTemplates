@@ -2,12 +2,10 @@
   <mj-body>
     <mj-container width="640px" background-color="#FFFFFF">
 
-    <mj-wrapper border="1px solid #DBDBDB" padding-bottom="0px" padding-top="0px">
-
       <!-- Header -->
-      <mj-section padding-bottom="0px" background-color="#ECEDEC" padding-top="15px">
+      <mj-section padding-bottom="0px" padding-top="15px">
         <mj-column width="100%">
-          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png" width="150px" padding-top="0" padding-bottom="10px" />
+          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png" width="150px" padding-top="0" padding-bottom="15px" />
 
         </mj-column>
         <!-- mj-column width="50%">
@@ -19,6 +17,7 @@
         </mj-column>
       </mj-section>
 
+   <mj-wrapper border="1px solid #DBDBDB" padding-bottom="0px" padding-top="0px">
       <!-- Subject line
       <mj-section background-color="white" padding-bottom="0" padding-top="0">
         <mj-column width="60%">
@@ -40,7 +39,7 @@
 
 
       <!-- Intro -->
-      <mj-section>
+      <mj-section padding-top="10px">
         <mj-column width="100%">
           <mj-text align="left" font-size="20px" color="#373237" font-family="Georgia, serif">
             Dear Author,
@@ -52,7 +51,7 @@
       </mj-section>
 
       <!-- Book Section -->
-      <mj-section background-color="#f1f1f1" padding="25px 0">
+      <mj-section background-color="#f1f1f1" padding="20px 0">
         <mj-column width="30%">
           <mj-image align="left" src="http://images.springer.com/sgw/books/medium/978-3-8349-2206-9.jpg" width="135px">
           </mj-image>
@@ -129,6 +128,7 @@
           </mj-text>
         </mj-column>
       </mj-section>
+
       </mj-wrapper>
 
 
