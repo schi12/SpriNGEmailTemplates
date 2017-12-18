@@ -128,7 +128,7 @@ Copyright (C) JT Types Ltd.
       </mj-section>
 
 
-      <!-- Social media -->
+      <!-- Social media
       <mj-section background-color="#F4F4F4" border-top="1px solid #D7D7D7">
         <mj-column width="36%">
           <mj-text padding-left="30px" padding-right="0" font-family="Georgia,Helvetica Neue,Arial" font-size="20px" color="#333333">
@@ -170,6 +170,28 @@ Copyright (C) JT Types Ltd.
 
 
 
+        </mj-column>
+
+      </mj-section>
+
+    -->
+
+      <!-- Social media New-->
+      <mj-section background-color="#F4F4F4" border-top="1px solid #D7D7D7">
+
+        <mj-column width="36%" background-color="#F2F2F2">
+          <mj-text  padding-right="0" font-family="Georgia, serif" font-size="20px" color="#333333">
+            Share your success:
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="32%">
+          <mj-image align="left" padding-top="2px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_twitter.png" alt="Twitter-Link" title="Twitter Link" href="http://twitter.com/Palgrave_">
+          </mj-image>
+        </mj-column>
+        <mj-column width="32%">
+          <mj-image align="left" padding-top="2px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_facebook.png" alt="Facebook-Link" title="Facebook Link" href="https://www.facebook.com/PalgraveMacmillan">
+          </mj-image>
         </mj-column>
 
       </mj-section>
