@@ -45,7 +45,6 @@
           <mj-column width="56%" background-color="#E8E8E8">
             <mj-image padding-top="20px" padding-bottom="20px" padding-right="0px" align="left"  src="https://images.springer.com/sgw/books/medium/9781846282294.jpg" width="108px" height="140px" border="1px solid #dbdbdb">
             </mj-image>
-
             <mj-text container-background-color="#F4F4F4" padding="5px 0 0" font-family="Verdana, Arial, sans-serif" font-size="11px" line-height="13px" color="#333333">
               Provided by <b>Book</b>metrix
           </mj-text>
