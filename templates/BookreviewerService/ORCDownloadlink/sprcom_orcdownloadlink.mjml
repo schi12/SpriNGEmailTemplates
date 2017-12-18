@@ -57,11 +57,15 @@
         </mj-column>
       </mj-section>
       -->
-
-      <!-- Intro -->
-      <mj-section padding="25px">
+      <mj-section padding="0">
         <mj-column width="100%">
-          <mj-text align="left" padding-left="0px" font-size="24px" color="#333333" font-weight="normal" line-height="22px" font-family="Georgia, serif">
+          <mj-divider padding="0" border-width="1px" border-color="#D4D4D4"/>
+        </mj-column>
+      </mj-section>
+      <!-- Intro -->
+      <mj-section padding="12px 25px 10px">
+        <mj-column width="100%">
+          <mj-text align="left" padding-left="0px" font-size="24px" color="#333333" font-weight="normal" font-family="Georgia, serif">
              Dear Reviewer,
           </mj-text>
           <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" color="#555555" font-family="Arial, Helvetica, sans-serif">
@@ -74,7 +78,7 @@
       </mj-section>
 
      <!-- Book Section -->
-     <mj-section background-color="#f1f1f1" padding="25px 0 25px 25px">
+     <mj-section background-color="#f1f1f1" padding="12px 0 20px 25px">
        <mj-column width="30%">
          <mj-image align="left" padding-left="0px" padding-top="15px" src="https://images.springer.com/sgw/books/medium/9783834940995.jpg" width="130px">
          </mj-image>
@@ -107,7 +111,7 @@
 
 
      <!-- Hint Accessability -->
-     <mj-section background-color="transparent">
+     <mj-section padding="12px 0 20px 25px">
        <mj-column>
          <mj-text font-size="14px" color="#555555" line-height="22px" font-family="Arial, Helvetica, sans-serif">
            Once you access this online review copy it will be available to you for 180 days. During this period you will be able to access to it via your <a href="http://www.stage.sgw.springer.com/?SGWID=0-102-2001-0-0%0A%09?trackthis=schildema" style="color:#0176c3;">personal profile page</a> personal profile page on Springer.com.
