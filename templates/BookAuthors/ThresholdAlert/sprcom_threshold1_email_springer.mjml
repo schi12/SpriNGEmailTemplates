@@ -1,25 +1,25 @@
 <mjml>
   <mj-head>
   </mj-head>
-  <mj-body>
-    <mj-container width="640px" background-color="#FFFFFF">
+  <mj-body >
+    <mj-container width="640px" background-color="#FAFAFA">
 
       <!-- Header1 -->
-      <mj-section padding-bottom="0px" padding-top="0px">
+      <mj-section padding-bottom="12px" padding-top="12px">
         <mj-column width="100%">
           <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png"  width="125px"/>
         </mj-column>
       </mj-section>
 
-    <mj-wrapper border="1px solid #DBDBDB" padding-bottom="0px" padding-top="0px">
+    <mj-wrapper border="1px solid #DCDCDC" padding-bottom="0px" padding-top="0px">
 
       <!-- Intro -->
-      <mj-section padding="25px">
+      <mj-section padding="25px" background-color="#FFFFFF">
         <mj-column width="100%">
-          <mj-text align="left" padding-left="0px" font-size="24px" color="#333333" font-weight="normal" line-height="22px" font-family="Georgia, serif">
+          <mj-text align="left" padding-left="0px" font-size="26px" color="#333333" font-weight="normal" line-height="34px" font-family="Georgia, serif">
              Dear Dr. Goldrei,
           </mj-text>
-          <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" color="#555555" font-family="Arial, Helvetica, sans-serif">
+          <mj-text align="left" padding-left="0px" font-size="16px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
           Your book is performing very well. The download figures for your eBook are above the average of it’s main discipline Mathematics and Statistics.
           </mj-text>
         </mj-column>
@@ -43,7 +43,7 @@
         <mj-group>
 
           <mj-column width="56%" background-color="#E8E8E8">
-            <mj-image padding-top="20px" padding-bottom="20px" padding-right="0px" align="left"  src="https://images.springer.com/sgw/books/medium/9781846282294.jpg" width="108px" height="140px" border="1px solid #dbdbdb">
+            <mj-image padding-top="20px" padding-bottom="0px" padding-right="0px" align="left"  src="https://images.springer.com/sgw/books/medium/9781846282294.jpg" width="108px" height="140px" border="1px solid #DCDCDC">
             </mj-image>
             <mj-text container-background-color="#F0F0F0" padding="5px 0 0" font-family="Arial, Helvetica, sans-serif" font-size="11px" line-height="13px" color="#333333">
               Provided by <b>Book</b>metrix
@@ -54,7 +54,7 @@
           <mj-image padding-left="0px" padding-top="20px" src="https://s3.eu-central-1.amazonaws.com/springpics/alert_illu_spr.png" width="60px">
           </mj-image>
           <mj-text padding-left="0px" padding-top="0px" padding-bottom="0px" align="center" color="#555555" line-height="22px" font-size="13px" font-family="Arial, Helvetica, sans-serif">Downloads</mj-text>
-          <mj-text padding-left="0px" padding-top="0px" padding-bottom="14px" color="#0CAD42" font-size="24px" line-height="28px" font-family="Arial, Helvetica, sans-serif" align="center">4936</mj-text>
+          <mj-text padding-left="0px" padding-top="0px" padding-bottom="14px" color="#71AB0B" font-size="26px" line-height="28px" font-family="Arial, Helvetica, sans-serif" align="center">4936</mj-text>
         </mj-column>
 
       </mj-group>
@@ -64,16 +64,16 @@
           <!--mj-text padding-top="0px" padding-bottom="0px" align="left" color="#373237" font-size="12px" font-family="Arial, Helvetica, sans-serif">
             <a style="color:#0176c3;text-decoration:none;" href="http://link.springer.com/journal/216">Analytical and Bioanalytical Chemistry</a>
           </mj-text-->
-          <mj-text align="left" padding-left="0" padding-right="0" padding-top="5px" font-size="14px" color="#555555" line-height="18px" font-weight="800" font-family="Arial, Helvetica, sans-serif">
+          <mj-text align="left" padding-left="0" padding-right="0" padding-top="5px" font-size="14px" color="#666666" line-height="21px" font-weight="800" font-family="Arial, Helvetica, sans-serif">
             Propositional and Predicate Calculus
           </mj-text>
-          <mj-text align="left" padding-left="0" padding-right="0" padding-top="0px" font-size="14px" color="#555555" line-height="16px" font-weight="300" font-family="Arial, Helvetica, sans-serif">
+          <mj-text align="left" padding-left="0" padding-right="0" padding-top="0px" font-size="14px" color="#666666" line-height="21px" font-weight="300" font-family="Arial, Helvetica, sans-serif">
              Organizational Resilience in the Era of Man-Made Risk
           </mj-text>
-          <mj-text align="left" color="#555555" font-family="Arial, Helvetica, sans-serif" padding="0 20px 0 0">
+          <mj-text align="left" font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif" padding="0 20px 0 0">
             <b>Goldrei</b>, Derek
           </mj-text>
-          <mj-text align="left" color="#555555" font-family="Arial, Helvetica, sans-serif" padding="0 20px 14px 0">
+          <mj-text align="left" font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif" padding="0 20px 14px 0">
             &copy; 2005
           </mj-text>
           <mj-button align="left" font-size="14px" href="$ABPR_download_link" font-weight="200" background-color="#0176c3" font-family="Arial, Helvetica, sans-serif" color="white" border="1px solid #0176c3" padding="0">
@@ -84,7 +84,7 @@
       </mj-section>
 
       <!-- Social media
-      <mj-section background-color="#F0F0F0" border-top="1px solid #D7D7D7">
+      <mj-section background-color="#F0F0F0" border-top="1px solid #DCDCDC">
         <mj-column width="36%" background-color="#F0F0F0">
           <mj-text  padding-right="0" font-family="Arial, Helvetica, sans-serif" color="#333333">
             Share your success:
@@ -126,9 +126,12 @@
       -->
 
       <!-- Social media New-->
-      <mj-section background-color="#F0F0F0" border-top="1px solid #D7D7D7">
+      <mj-section background-color="#F0F0F0">
+        <mj-column width="100%">
+          <mj-divider padding="0 25px 25px" border-width="1px" border-color="#DCDCDC"/>
+        </mj-column>
 
-        <mj-column width="36%" background-color="#F0F0F0">
+        <mj-column width="36%">
           <mj-text  padding-right="0" font-family="Georgia, serif" font-size="20px" color="#333333">
             Share your success:
           </mj-text>
@@ -146,7 +149,7 @@
       </mj-section>
 
      <!-- Account Information -->
-      <mj-section padding="25px 25px 0">
+      <mj-section padding="25px 25px 0" background-color="#FFFFFF">
         <mj-column width="100%" border-left="4px solid #0176C3">
           <mj-text font-size="20px" color="#333333" line-height="22px" font-weight="normal" padding-bottom="0px" padding-top="20px" font-family="Georgia, serif">
             MySpringer account information
@@ -164,33 +167,32 @@
 
 
      <!-- Thank you text -->
-      <mj-section padding="12px 25px 0">
+      <mj-section padding="12px 25px 0" background-color="#FFFFFF">
 
         <mj-column width="100%">
-          <mj-text align="left" padding-left="0px" font-size="14px" padding-bottom="0px" line-height="22px" color="#555555" font-family="Arial, Helvetica, sans-serif">
+          <mj-text align="left" padding-left="0px" font-size="16px" padding-bottom="0px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
               Performance metrics (powered by Bookmetrix) are also available for any previously published books.
           </mj-text>
-          <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" padding-bottom="0px" color="#555555" font-family="Arial, Helvetica, sans-serif">
+          <mj-text align="left" padding-left="0px" font-size="16px" line-height="24px" padding-bottom="0px" color="#666666" font-family="Arial, Helvetica, sans-serif">
               Thank you again for publishing with Springer!
           </mj-text>
-          <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" padding-bottom="0px" color="#555555" font-family="Arial, Helvetica, sans-serif">
+          <mj-text align="left" padding-left="0px" font-size="16px" line-height="24px" padding-bottom="0px" color="#666666" font-family="Arial, Helvetica, sans-serif">
               With best wishes,
-
           </mj-text>
-          <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" color="#555555" font-family="Arial, Helvetica, sans-serif">
+          <mj-text align="left" padding-left="0px" font-size="16px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
               Your Author Marketing Team
           </mj-text>
-
         </mj-column>
 
       </mj-section>
 
 
       <!-- Footnote -->
-
-      <mj-section>
+      <mj-section background-color="#FFFFFF">
         <mj-column>
-           <mj-text padding-top="0px" font-size="10px" line-height="12px" color="#555555" padding-bottom="0px" font-family="Arial, Helvetica, sans-serif">
+          <mj-divider padding-top="0" border-width="1px" border-color="#DCDCDC"/>
+
+           <mj-text font-size="12px" line-height="18px" color="#666666" padding-bottom="0px" font-family="Arial, Helvetica, sans-serif">
             This update covers your eBook’s performance on SpringerLink; it does not include
             individual eBook and/or print book sales.
 
@@ -199,28 +201,16 @@
       </mj-section>
 
       <!-- Bookmetrix Info -->
-
-      <mj-section padding-top="0px" padding-bottom="0" border-top="1px solid #D4D4D4" >
+      <mj-section padding-top="0px" padding-bottom="0" border-top="1px solid #DCDCDC" background-color="#FFFFFF">
         <mj-column width="20%">
           <mj-image src="https://resource-cms.springer.com/springer-cms/rest/v1/content/54978/data/v1" width="110px" align="left" padding-top="14px"/>
         </mj-column>
         <mj-column width="80%">
-          <mj-text font-weight="200" color="#555555" text-decoration="underline" font-family="Arial, Helvetica, sans-serif">
-            <a style="text-decoration:none;color:#555555" href="https://www.springer.com/gp/authors-editors/book-authors-editors/bookmetrix">More information about Bookmetrix</a>
+          <mj-text font-weight="200" color="#0176C3" text-decoration="underline" font-family="Arial, Helvetica, sans-serif">
+            <a style="text-decoration:underline;color:#0176C3" href="https://www.springer.com/gp/authors-editors/book-authors-editors/bookmetrix">More information about Bookmetrix</a>
           </mj-text>
         </mj-column>
-
-
       </mj-section>
-
-      <mj-section padding="0">
-
-        <mj-column width="100%">
-          <mj-divider padding-left="0" padding-right="0" padding-top="5px" padding-bottom="0px" border-width="1px" border-color="#D4D4D4"/>
-
-        </mj-column>
-      </mj-section>
-
 
       </mj-wrapper>
 
