@@ -43,7 +43,7 @@
         <mj-group>
 
           <mj-column width="56%" background-color="#E8E8E8">
-            <mj-image padding-top="20px" padding-bottom="0px" padding-right="0px" align="left"  src="https://images.springer.com/sgw/books/medium/9781846282294.jpg" width="108px" height="140px" border="1px solid #DCDCDC">
+            <mj-image padding-top="20px" padding-bottom="20px" padding-right="0px" align="left"  src="https://images.springer.com/sgw/books/medium/9781846282294.jpg" width="108px" height="140px" border="1px solid #DCDCDC">
             </mj-image>
             <mj-text container-background-color="#F0F0F0" padding="5px 0 0" font-family="Arial, Helvetica, sans-serif" font-size="11px" line-height="13px" color="#333333">
               Provided by <b>Book</b>metrix
@@ -53,7 +53,7 @@
         <mj-column width="40%" background-color="#E8E8E8">
           <mj-image padding-left="0px" padding-top="20px" src="https://s3.eu-central-1.amazonaws.com/springpics/alert_illu_spr.png" width="60px">
           </mj-image>
-          <mj-text padding-left="0px" padding-top="0px" padding-bottom="0px" align="center" color="#555555" line-height="22px" font-size="13px" font-family="Arial, Helvetica, sans-serif">Downloads</mj-text>
+          <mj-text padding-left="0px" padding-top="0px" padding-bottom="0px" align="center" color="#666666" line-height="22px" font-size="13px" font-family="Arial, Helvetica, sans-serif">Downloads</mj-text>
           <mj-text padding-left="0px" padding-top="0px" padding-bottom="14px" color="#71AB0B" font-size="26px" line-height="28px" font-family="Arial, Helvetica, sans-serif" align="center">4936</mj-text>
         </mj-column>
 
@@ -76,7 +76,7 @@
           <mj-text align="left" font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif" padding="0 20px 14px 0">
             &copy; 2005
           </mj-text>
-          <mj-button align="left" font-size="14px" href="$ABPR_download_link" font-weight="200" background-color="#0176c3" font-family="Arial, Helvetica, sans-serif" color="white" border="1px solid #0176c3" padding="0">
+          <mj-button align="left" font-size="14px" line-height="18px" href="$ABPR_download_link" font-weight="200" background-color="#0176c3" font-family="Arial, Helvetica, sans-serif" color="white" border="1px solid #0176c3" padding="0">
             MySpringer: Explore your metrics
           </mj-button>
         </mj-column>
@@ -154,11 +154,11 @@
           <mj-text font-size="20px" color="#333333" line-height="22px" font-weight="normal" padding-bottom="0px" padding-top="20px" font-family="Georgia, serif">
             MySpringer account information
           </mj-text>
-          <mj-text font-size="14px" color="#555555" line-height="22px" font-family="Arial, Helvetica, sans-serif">
+          <mj-text font-size="14px" color="#666666" line-height="22px" font-family="Arial, Helvetica, sans-serif">
              Your login user name: markus.schilde036@springer.com<br/>
             If you forgot your password:
           </mj-text>
-          <mj-button font-family="Arial, Helvetica, sans-serif" line-height="17px" border="1px solid #BCBCBC" padding-bottom="20px" font-size="14px" background-color="#fff"  border-radius="3px" color="#333333" align="left">
+          <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" border="1px solid #BCBCBC" padding-bottom="20px" font-size="14px" background-color="#fff"  border-radius="3px" color="#0176C3" align="left">
             Reset your account now
           </mj-button>
         </mj-column>
