@@ -6,15 +6,14 @@
   </mj-head>
 
   <mj-body>
-    <mj-container width="640px" background-color="#FFFFFF">
-    <mj-wrapper border="1px solid #DBDBDB" padding-bottom="0px" padding-top="0px">
+    <mj-container width="640px" background-color="#FAFAFA">
 
-      <!-- Header Part of SN -->
-      <mj-section padding-bottom="0px" background-color="#E7E7E8" padding-top="0px">
-        <mj-column width="100%">
-          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/part_of_springernature_head.png"  width="125px" padding-top="0" padding-bottom="0" />
-        </mj-column>
-      </mj-section>
+      <!-- Header Full-width -->
+              <mj-section padding-bottom="5px" padding-top="0" background-color="#EBEBEB" full-width="full-width">
+                <mj-column width="100%">
+                  <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/part_of_springernature_head.png"  width="125px" padding-top="0" padding-bottom="0" />
+                </mj-column>
+              </mj-section>
 
       <!-- Header Springer Palgrave -->
       <mj-section padding-bottom="0px">
@@ -28,6 +27,8 @@
           &nbsp;
         </mj-column>
       </mj-section>
+
+      <mj-wrapper border="1px solid #DBDBDB" padding-bottom="0px" padding-top="0px">
 
       <!-- Header Toppic and Date
       <mj-section padding="0">
@@ -54,19 +55,19 @@
           <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
         </mj-column>
       </mj-section>
-      -->
+
       <mj-section padding="0">
         <mj-column width="100%">
           <mj-divider padding="0" border-width="1px" border-color="#D4D4D4"/>
         </mj-column>
-      </mj-section>
+      </mj-section>-->
       <!-- Intro -->
-      <mj-section padding="12px 25px 10px">
+      <mj-section padding="12px 25px 10px" background-color="#FFFFFF">
         <mj-column width="100%">
-          <mj-text align="left" padding-left="0px" font-size="24px" color="#333333" font-weight="normal" font-family="Georgia, serif">
+          <mj-text align="left" padding-left="0px" font-size="26px" line-height="34px" color="#000000" font-weight="normal" font-family="Georgia, serif">
              Dear Reviewer,
           </mj-text>
-          <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" color="#555555" font-family="Arial, Helvetica, sans-serif">
+          <mj-text align="left" padding-left="0px" font-size="16px" line-height="26px" color="#666666" font-family="Arial, Helvetica, sans-serif">
             Thank you for requesting this title for the purpose of reviewing in an academic journal, magazine or other media. We are happy to provide you with immediate access to the online copy of the book.
           </mj-text>
         </mj-column>
@@ -83,10 +84,10 @@
        </mj-column>
 
        <mj-column width="70%">
-         <mj-text align="left" padding-left="0px" font-size="22px" color="#000" line-height="26px" font-weight="400" font-family="Georgia, serif">
+         <mj-text align="left" padding-left="0px" font-size="22px" color="#000" line-height="28px" font-weight="400" font-family="Georgia, serif">
            Telefon-Fundraising
          </mj-text>
-         <mj-button align="left" padding-left="0px" font-size="16px" href="$ABPR_download_link" background-color="#0176c3" font-family="Arial, Helvetica, sans-serif" background-color="#f45e43" color="white" border="1px solid #0176c3">
+         <mj-button align="left" padding-left="0px" font-size="14px" line-height="18px" href="$ABPR_download_link" background-color="#0176c3" font-family="Arial, Helvetica, sans-serif" color="white">
            Access and Read Book
          </mj-button>
          <mj-text padding-left="0px" padding-top="0px" font-size="10px" line-height="12px" color="#555555" padding-bottom="0px" font-family="Arial, Helvetica, sans-serif">
@@ -99,26 +100,26 @@
          <mj-divider padding-left="0px" border-color="#ddd" border-width="1px"/>
 
          <mj-text font-size="14px" line-height="26px" padding="0" font-family="Arial, Helvetica, sans-serif">
-           <a style="line-height:26px;padding-bottom:4px;color:#0176c3;text-decoration:underline;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_viewarticle_icon.png);background-size:16px 16px;background-repeat:no-repeat; " href="http://www.springer.com/978-3-8349-4098-8?trackthis=schildema">View Book</a>
+           <a style="line-height:26px;padding-bottom:4px;color:#0176c3;text-decoration:none;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_viewarticle_icon.png);background-size:16px 16px;background-repeat:no-repeat; " href="http://www.springer.com/978-3-8349-4098-8?trackthis=schildema">View Book</a>
          </mj-text>
          <mj-text font-size="14px" line-height="26px" padding="0" font-family="Arial, Helvetica, sans-serif">
-           <a style="line-height:26px;padding-bottom:4px;color:#0176c3;text-decoration:underline;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_download_icon.png);background-size:16px 16px;background-repeat:no-repeat; " href="https://images.springer.com/sgw/books/raw/9783834940988.tif%0A%09?trackthis=schildema">Download HighRes Cover</a>
+           <a style="line-height:26px;padding-bottom:4px;color:#0176c3;text-decoration:none;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_download_icon.png);background-size:16px 16px;background-repeat:no-repeat; " href="https://images.springer.com/sgw/books/raw/9783834940988.tif%0A%09?trackthis=schildema">Download HighRes Cover</a>
          </mj-text>
        </mj-column>
      </mj-section>
 
 
      <!-- Hint Accessability -->
-     <mj-section padding="12px 0 20px 25px">
+     <mj-section padding="12px 0 20px 0" background-color="#FFFFFF">
        <mj-column>
-         <mj-text font-size="14px" color="#555555" line-height="22px" font-family="Arial, Helvetica, sans-serif">
+         <mj-text font-size="16px" color="#666666" line-height="24px" font-family="Arial, Helvetica, sans-serif">
            Once you access this online review copy it will be available to you for 180 days. During this period you will be able to access to it via your <a href="http://www.stage.sgw.springer.com/?SGWID=0-102-2001-0-0%0A%09?trackthis=schildema" style="color:#0176c3;">personal profile page</a> personal profile page on Springer.com.
          </mj-text>
        </mj-column>
      </mj-section>
 
      <!-- Service Pages-->
-     <mj-section padding="0 25px">
+     <mj-section padding="0 25px" background-color="#FFFFFF">
        <mj-column border-left="4px solid #EE7D11">
          <mj-text font-size="20px" font-weight="400" padding-bottom="0px" font-family="Georgia, serif">
            Bookreviewer Service Pages
@@ -136,9 +137,9 @@
      </mj-section>
 
      <!-- Closing -->
-     <mj-section padding="25px 0">
+     <mj-section padding="25px 0" background-color="#FFFFFF">
        <mj-column>
-         <mj-text font-size="14px" color="#555555" line-height="22px" font-family="Arial, Helvetica, sans-serif">
+         <mj-text font-size="16px" color="#666666" line-height="24px" font-family="Arial, Helvetica, sans-serif">
            With kind regards,<br/>
            Springer Book Review Team<br/>
            <a style="text-decoration:none; color:#0176c3;" href="mailto:BookReview@springer.com">
