@@ -38,7 +38,7 @@
         </mj-column>
       </mj-section>
 
-<mj-wrapper border="1px solid #DDDDDD" border-top="4px solid #DC506C" padding-bottom="0px" padding-top="0px">
+<mj-wrapper border-top="4px solid #DC506C" padding-bottom="0px" padding-top="0px">
       <!-- Intro -->
       <mj-section padding="25px" background-color="#FFFFFF">
 
@@ -66,7 +66,7 @@
       </mj-section-->
 
       <!-- Bookmetrix part 2 -->
-      <mj-section background-color="#EBEBEB" padding="25px 25px 20px">
+      <mj-section background-color="#EBEBEB" padding="25px 25px 15px">
 
         <mj-group>
         <mj-column width="56%" background-color="#DDDDDD">
@@ -78,10 +78,10 @@
         </mj-column>
 
         <mj-column width="40%" background-color="#DDDDDD">
-          <mj-image padding-left="0px" padding-top="20px" padding-right="30px" src="https://s3.eu-central-1.amazonaws.com/springpics/allert_illu_pal.png" width="60px">
+          <mj-image padding-left="0px" padding-top="22px" padding-right="30px" src="https://s3.eu-central-1.amazonaws.com/springpics/allert_illu_pal.png" width="60px">
           </mj-image>
           <mj-text padding-left="0px" padding-top="0px" padding-bottom="0px" align="center" color="#555555" line-height="22px" font-size="13px" font-family="Verdana, Arial, sans-serif">Downloads</mj-text>
-          <mj-text padding-left="0px" padding-top="0px" padding-bottom="39px" color="#0EB847" font-size="24px" line-height="28px" font-family="Verdana, Arial, sans-serif" align="center">512</mj-text>
+          <mj-text padding-left="0px" padding-top="0px" padding-bottom="37px" color="#0EB847" font-size="24px" line-height="28px" font-family="Verdana, Arial, sans-serif" align="center">512</mj-text>
         </mj-column>
 
         </mj-group>
@@ -102,7 +102,7 @@
           <mj-text align="left" padding-right="0" font-size="13px" color="#555555" line-height="21px" font-family="Verdana, Arial, sans-serif" padding="0 20px 14px 0">
             &copy; 2017
           </mj-text>
-          <mj-button href="http://www.palgrave.com/gp/" font-family="Calibri, Helvetica, Arial, sans-serif" line-height="17px" inner-padding="10px 10px 10px 10px" padding="0" font-size="13px" background-color="#DC506C" border-radius="0px" color="#FFFFFF" align="left">
+          <mj-button href="http://www.palgrave.com/gp/" font-family="Calibri, Helvetica, Arial, sans-serif" line-height="17px" inner-padding="10px 10px 10px 10px" padding="0" font-size="14px" background-color="#DC506C" border-radius="0px" color="#FFFFFF" align="left">
             MyPalgrave: Explore your metrics
           </mj-button>
 
@@ -163,27 +163,25 @@
       <mj-section background-color="#EBEBEB">
 
         <mj-column width="100%">
-           <mj-divider padding-top="0" padding-bottom="23px" border-width="1px" border-color="#DDDDDD"/>
+           <mj-divider padding-top="0" padding-bottom="18px" border-width="1px" border-color="#DDDDDD"/>
         </mj-column>
 
         <mj-column width="36%" background-color="#EBEBEB">
-          <mj-text  padding-right="0" font-family="Calibri, Helvetica, Arial, sans-serif" font-weight="bold" font-size="20px" line-height="25px" color="#2B2B2B">
+          <mj-text padding-top="10px" padding-right="0" font-family="Calibri, Helvetica, Arial, sans-serif" font-weight="bold" font-size="20px" line-height="25px" color="#2B2B2B">
             Share your success:
           </mj-text>
         </mj-column>
 
         <mj-column width="32%">
-          <mj-image align="left" padding-top="2px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_twitter.png" alt="Twitter-Link" title="Twitter Link" href="http://twitter.com/Palgrave_">
+          <mj-image align="left" padding-top="7px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_twitter.png?fake=it" alt="Twitter-Link" title="Twitter Link" href="http://twitter.com/Palgrave_">
           </mj-image>
         </mj-column>
         <mj-column width="32%">
-          <mj-image align="left" padding-top="2px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_facebook.png" alt="Facebook-Link" title="Facebook Link" href="https://www.facebook.com/PalgraveMacmillan">
+          <mj-image align="left" padding-top="7px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_facebook.png?fake=it" alt="Facebook-Link" title="Facebook Link" href="https://www.facebook.com/PalgraveMacmillan">
           </mj-image>
         </mj-column>
 
       </mj-section>
-
-
 
 
       <!-- Account Information -->
@@ -203,9 +201,6 @@
           </mj-button>
         </mj-column>
       </mj-section>
-
-
-
 
 
       <!-- Thank you text -->
@@ -237,9 +232,7 @@
         </mj-column>
         <mj-column width="100%">
            <mj-text padding-top="0px" font-size="10px" line-height="12px" line-height="18px" color="#999999" padding-bottom="0px" font-family="Verdana, Arial, sans-serif">
-            This update covers your eBook’s performance on SpringerLink; it does not include
-            individual eBook and/or print book sales.
-
+            This update covers your eBook’s performance on SpringerLink; it does not include individual eBook and/or print book sales.
           </mj-text>
         </mj-column>
       </mj-section>
