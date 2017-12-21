@@ -173,11 +173,11 @@
         </mj-column>
 
         <mj-column width="32%">
-          <mj-image align="left" padding-top="7px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_twitter.png?fake=it" alt="Twitter-Link" title="Twitter Link" href="http://twitter.com/Palgrave_">
+          <mj-image align="left" padding-top="7px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_palgrave_twitter.png" alt="Twitter-Link" title="Twitter Link" href="http://twitter.com/Palgrave_">
           </mj-image>
         </mj-column>
         <mj-column width="32%">
-          <mj-image align="left" padding-top="7px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_facebook.png?fake=it" alt="Facebook-Link" title="Facebook Link" href="https://www.facebook.com/PalgraveMacmillan">
+          <mj-image align="left" padding-top="7px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_palgrave_facebook.png" alt="Facebook-Link" title="Facebook Link" href="https://www.facebook.com/PalgraveMacmillan">
           </mj-image>
         </mj-column>
 
