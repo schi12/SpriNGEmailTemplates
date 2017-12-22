@@ -97,13 +97,13 @@
          (copy this link to your browser if button click isn't working)
         </mj-text>
 
-         <mj-divider padding-left="0px" border-color="#ddd" border-width="1px"/>
+         <mj-divider padding="20px 25px 20px 0"border-color="#ddd" border-width="1px"/>
 
-         <mj-text font-size="14px" line-height="26px" padding="0" font-family="Arial, Helvetica, sans-serif">
-           <a style="line-height:26px;padding-bottom:4px;color:#0176c3;text-decoration:none;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_viewarticle_icon.png);background-size:16px 16px;background-repeat:no-repeat; " href="http://www.springer.com/978-3-8349-4098-8?trackthis=schildema">View Book</a>
+         <mj-text font-size="14px" line-height="21px" padding="0" font-family="Arial, Helvetica, sans-serif">
+           <a style="font-size:14px;line-height:21px;padding-bottom:4px;color:#0176c3;text-decoration:none;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_viewarticle_icon.png);background-size:16px 16px;background-repeat:no-repeat; " href="http://www.springer.com/978-3-8349-4098-8?trackthis=schildema">View Book</a>
          </mj-text>
-         <mj-text font-size="14px" line-height="26px" padding="0" font-family="Arial, Helvetica, sans-serif">
-           <a style="line-height:26px;padding-bottom:4px;color:#0176c3;text-decoration:none;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_download_icon.png);background-size:16px 16px;background-repeat:no-repeat; " href="https://images.springer.com/sgw/books/raw/9783834940988.tif%0A%09?trackthis=schildema">Download HighRes Cover</a>
+         <mj-text font-size="14px" line-height="21px" padding="0" font-family="Arial, Helvetica, sans-serif">
+           <a style="font-size:14px;line-height:21px;padding-bottom:4px;color:#0176c3;text-decoration:none;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_download_icon.png);background-size:16px 16px;background-repeat:no-repeat; " href="https://images.springer.com/sgw/books/raw/9783834940988.tif%0A%09?trackthis=schildema">Download HighRes Cover</a>
          </mj-text>
        </mj-column>
      </mj-section>
@@ -121,17 +121,17 @@
      <!-- Service Pages-->
      <mj-section padding="0 25px" background-color="#FFFFFF">
        <mj-column border-left="4px solid #EE7D11">
-         <mj-text font-size="20px" font-weight="400" padding-bottom="0px" font-family="Georgia, serif">
+         <mj-text font-size="18px" line-height="25px" font-weight="400" padding-bottom="0px" font-family="Georgia, serif">
            Bookreviewer Service Pages
          </mj-text>
-         <mj-text font-size="14px" line-height="26px" padding="0 25px" font-family="Arial, Helvetica, sans-serif">
-           <a style="line-height:26px;padding-bottom:4px;color:#0176c3;text-decoration:underline;" href="http://www.springer.com/de/reviewers/online-besprechungsexemplare---wie-funktioniert-das-ganz-genau-/4894#c10566978">» Information about the Online Reader</a>
+         <mj-text font-size="14px" line-height="21px" padding="0 25px" font-family="Arial, Helvetica, sans-serif">
+           <a style="font-size:14px;line-height:21px;padding-bottom:4px;color:#0176c3;text-decoration:underline;" href="http://www.springer.com/de/reviewers/online-besprechungsexemplare---wie-funktioniert-das-ganz-genau-/4894#c10566978">Information about the Online Reader</a>
          </mj-text>
-         <mj-text font-size="14px" line-height="26px" padding="0 25px" font-family="Arial, Helvetica, sans-serif">
-           <a style="line-height:26px;padding-bottom:4px;color:#0176c3;text-decoration:underline;" href="http://www.springer.com/de/reviewers/online-besprechungsexemplare---wie-funktioniert-das-ganz-genau-/4894#c10566980">» Technical help</a>
+         <mj-text font-size="14px" line-height="21px" padding="0 25px" font-family="Arial, Helvetica, sans-serif">
+           <a style="font-size:14px;line-height:21px;padding-bottom:4px;color:#0176c3;text-decoration:underline;" href="http://www.springer.com/de/reviewers/online-besprechungsexemplare---wie-funktioniert-das-ganz-genau-/4894#c10566980">Technical help</a>
          </mj-text>
-         <mj-text font-size="14px" line-height="26px" padding="0 25px 11px" font-family="Arial, Helvetica, sans-serif">
-           <a style="line-height:26px;padding-bottom:4px;color:#0176c3;text-decoration:underline;" href="http://www.springer.com/de/reviewers">» General information about our book review services</a>
+         <mj-text font-size="14px" line-height="21px" padding="0 25px 11px" font-family="Arial, Helvetica, sans-serif">
+           <a style="font-size:14px;line-height:21px;padding-bottom:4px;color:#0176c3;text-decoration:underline;" href="http://www.springer.com/de/reviewers">General information about our book review services</a>
          </mj-text>
        </mj-column>
      </mj-section>

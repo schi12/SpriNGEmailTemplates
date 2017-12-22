@@ -45,7 +45,7 @@
           <mj-column width="56%" background-color="#E8E8E8">
             <mj-image padding-top="20px" padding-bottom="20px" padding-right="0px" align="left"  src="https://images.springer.com/sgw/books/medium/9781846282294.jpg" width="108px" height="140px" border="1px solid #DCDCDC">
             </mj-image>
-            <mj-text container-background-color="#F0F0F0" padding="5px 0 0" font-family="Arial, Helvetica, sans-serif" font-size="11px" line-height="13px" color="#333333">
+            <mj-text container-background-color="#F0F0F0" padding="5px 0 0" font-family="Arial, Helvetica, sans-serif" font-size="11px" line-height="13px" color="#999999">
               Provided by <b>Book</b>metrix
           </mj-text>
         </mj-column>
@@ -54,7 +54,7 @@
           <mj-image padding-left="0px" padding-top="20px" src="https://s3.eu-central-1.amazonaws.com/springpics/alert_illu_spr.png" width="60px">
           </mj-image>
           <mj-text padding-left="0px" padding-top="0px" padding-bottom="0px" align="center" color="#666666" line-height="22px" font-size="13px" font-family="Arial, Helvetica, sans-serif">Downloads</mj-text>
-          <mj-text padding-left="0px" padding-top="0px" padding-bottom="14px" color="#71AB0B" font-size="26px" line-height="28px" font-family="Arial, Helvetica, sans-serif" align="center">4936</mj-text>
+          <mj-text padding-left="0px" padding-top="0px" padding-bottom="14px" color="#71AB0B" font-size="24px" line-height="28px" font-family="Arial, Helvetica, sans-serif" align="center">4936</mj-text>
         </mj-column>
 
       </mj-group>
@@ -67,7 +67,7 @@
           <mj-text align="left" padding-left="0" padding-right="0" padding-top="5px" font-size="14px" color="#666666" line-height="21px" font-weight="800" font-family="Arial, Helvetica, sans-serif">
             Propositional and Predicate Calculus
           </mj-text>
-          <mj-text align="left" padding-left="0" padding-right="0" padding-top="0px" font-size="14px" color="#666666" line-height="21px" font-weight="300" font-family="Arial, Helvetica, sans-serif">
+          <mj-text align="left" padding-left="0" padding-right="0" padding-top="0px" font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif">
              Organizational Resilience in the Era of Man-Made Risk
           </mj-text>
           <mj-text align="left" font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif" padding="0 20px 0 0">
@@ -132,17 +132,17 @@
         </mj-column>
 
         <mj-column width="36%">
-          <mj-text  padding-right="0" font-family="Georgia, serif" font-size="20px" color="#333333">
+          <mj-text  padding-right="0" font-family="Georgia, serif" font-size="18px" line-height="25px" color="#333333">
             Share your success:
           </mj-text>
         </mj-column>
 
         <mj-column width="32%">
-          <mj-image align="left" padding-top="2px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_twitter.png" alt="Twitter-Link" title="Twitter Link" href="https://twitter.com/springernature">
+          <mj-image align="left" padding-top="7px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_twitter.png" alt="Twitter-Link" title="Twitter Link" href="https://twitter.com/springernature">
           </mj-image>
         </mj-column>
         <mj-column width="32%">
-          <mj-image align="left" padding-top="2px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_facebook.png" alt="Facebook-Link" title="Facebook Link" href="https://www.facebook.com/SpringerNature/">
+          <mj-image align="left" padding-top="7px" src="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_facebook.png" alt="Facebook-Link" title="Facebook Link" href="https://www.facebook.com/SpringerNature/">
           </mj-image>
         </mj-column>
 
@@ -151,10 +151,10 @@
      <!-- Account Information -->
       <mj-section padding="25px 25px 0" background-color="#FFFFFF">
         <mj-column width="100%" border-left="4px solid #0176C3">
-          <mj-text font-size="20px" color="#333333" line-height="22px" font-weight="normal" padding-bottom="0px" padding-top="20px" font-family="Georgia, serif">
+          <mj-text font-size="18px" color="#333333" line-height="25px" font-weight="normal" padding-bottom="0px" padding-top="20px" font-family="Georgia, serif">
             MySpringer account information
           </mj-text>
-          <mj-text font-size="14px" color="#666666" line-height="22px" font-family="Arial, Helvetica, sans-serif">
+          <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif">
              Your login user name: markus.schilde036@springer.com<br/>
             If you forgot your password:
           </mj-text>
@@ -206,8 +206,8 @@
           <mj-image src="https://resource-cms.springer.com/springer-cms/rest/v1/content/54978/data/v1" width="110px" align="left" padding-top="14px"/>
         </mj-column>
         <mj-column width="80%">
-          <mj-text font-weight="200" color="#0176C3" text-decoration="underline" font-family="Arial, Helvetica, sans-serif">
-            <a style="text-decoration:underline;color:#0176C3" href="https://www.springer.com/gp/authors-editors/book-authors-editors/bookmetrix">More information about Bookmetrix</a>
+          <mj-text font-weight="200" font-size="12px" line-height="21px" color="#0176C3" text-decoration="none" font-family="Arial, Helvetica, sans-serif">
+            <a style="text-decoration:none;color:#0176C3" href="https://www.springer.com/gp/authors-editors/book-authors-editors/bookmetrix">More information about Bookmetrix</a>
           </mj-text>
         </mj-column>
       </mj-section>
