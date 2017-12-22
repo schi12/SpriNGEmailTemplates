@@ -21,7 +21,7 @@
       <!-- Intro -->
       <mj-section padding="25px" background-color="#FFFFFF">
         <mj-column width="75%">
-          <mj-text align="left" padding-left="0px" font-size="26px" color="#333333" font-weight="normal" line-height="34px" font-family="Georgia, serif">
+          <mj-text align="left" padding-left="0px" font-size="26px" line-height="34px" color="#333333" font-family="Georgia, serif">
              Dear Reader,
           </mj-text>
           <mj-text align="left" padding-left="0px" font-size="16px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
@@ -30,7 +30,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="25%">
-          <mj-image padding="18px 0 0" align="right"  src="https://images.springer.com/sgw/books/medium/9781846282294.jpg" width="130px" border="1px solid #DCDCDC">
+          <mj-image padding="18px 0 0" align="right"  src="http://static-content.springer.com/cover/journal/10053/71/1.jpg" width="130px" height="172px" border="1px solid #DCDCDC">
           </mj-image>
         </mj-column>
       </mj-section>
@@ -42,7 +42,7 @@
              Important news!<br />
              Distinguished EPJ referees 2016 announced
            </mj-text>
-           <mj-text font-size="14px" color="#666666" line-height="22px" font-family="Arial, Helvetica, sans-serif">
+           <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif">
               The EPJ Steering Committee, all EPJ Editors and Editorial Office staff congratulate and express their deep appreciation for the invaluable contribution and support provided by these referees to the European Physical Journal.
            </mj-text>
            <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left">
@@ -90,13 +90,21 @@
 
          </mj-column>
          <mj-column width="100%">
-
+           <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70594-5/MediaObjects/10053_2016_1656_Fig1_HTML.jpg" />
          </mj-column>
 
 
          <mj-column width="100%">
            <mj-divider border-width="1px" border-color="#DCDCDC"/>
          </mj-column>
+       </mj-section>
+
+       <mj-section padding="25px" background-color="#FFFFFF">
+         <mj-column>
+           <mj-raw>
+             <img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" /><img src="/images/toc_button_fulltext.png" /><img src="" /><img src="" />
+           </mj-raw>
+          </mj-column>
        </mj-section>
 
     </mj-wrapper>
