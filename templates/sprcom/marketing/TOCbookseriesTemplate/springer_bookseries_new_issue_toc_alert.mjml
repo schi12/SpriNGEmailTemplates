@@ -1,0 +1,444 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container width="640px" background-color="#FAFAFA">
+
+      <!-- Header1 -->
+      <mj-section padding-bottom="12px" padding-top="12px">
+        <mj-column width="100%">
+          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png"  width="125px"/>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Header Toppic and Date -->
+      <mj-section padding="0" background-color="#FFFFFF" border="1px solid #DCDCDC" border-bottom="none">
+        <mj-column width="100%">
+          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-table>
+             <tr>
+               <td style="width: 66%;">
+                 <span style="padding-left: 0;font-family:Arial, Helvetica, sans-serif;line-height:24px;font-size:16px;color:#666666">
+                   New Issue Alert
+                 </span>
+               </td>
+               <td style="text-align:right; vertical-align:bottom; width: 33%;">
+                 <span style="font-family:Arial, Helvetica, sans-serif;line-height:24px;font-size:16px;color:#666666">
+                   Mai 19, 2017
+                 </span>
+               </td>
+             </tr>
+           </mj-table>
+           <mj-divider padding-top="0" border-width="1px" border-color="#DCDCDC"/>
+        </mj-column>
+
+      </mj-section>
+
+      <!-- Intro -->
+      <mj-section padding="25px" background-color="#FFFFFF" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+        <mj-column width="100%">
+          <mj-text align="left" padding-left="0px" font-size="26px" line-height="34px" color="#333333" font-family="Georgia, serif">
+             Dear Reader,
+          </mj-text>
+          <mj-text align="left" padding-left="0px" font-size="16px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+            <p>We are pleased to deliver your requested table of contents alert for a new volume of <strong>SpringerBriefs in Economics</strong>.</p>
+            <p>Series volume: <strong>Labor Markets and Multinational Enterprises in Puerto Rico</strong> by Ahmad H. Juma'h , Doris Morales-Rodriguez , Antonio Lloréns-Rivera is now available on the SpringerLink web site at <a href="http://link.springer.com/" style="color:#0176c3;text-decoration:none;">http://link.springer.com/</a></p>
+            <p>By clicking on the URLs below you can access the abstracts for each chapter.</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+        <!-- Video Teaser s CTA -->
+        <mj-wrapper padding="0 25px 25px" background-color="#FFFFFF" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+         <mj-section border-left="4px solid #0176C3" background-color="rgba(1,118,195,0.05)"> <!-- HTML Code sets background-color for div and including table so the alpha transparency set on half of the design value to compensate -->
+           <mj-column width="32%">
+             <mj-image src="http://www.springer.com/cda/content/image/cda_displayimage.jpg?SGWID=0-0-16-2607975-0" padding="5px 0 20px 25px" align="left"/>
+           </mj-column>
+           <mj-column width="68%">
+             <mj-text font-size="18px" color="#333333" line-height="25px" font-weight="normal" padding="0 25px" font-family="Georgia, serif">
+               The Top 5 Reasons Authors Choose Springer
+             </mj-text>
+             <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif" >
+                Discover the benefits of choosing Springer as your book publisher through author feedback in this short presentation.
+             </mj-text>
+             <mj-button padding-bottom="0" font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left">
+               More
+             </mj-button>
+           </mj-column>
+         </mj-section>
+        </mj-wrapper>
+
+       <!-- TOC Opening -->
+       <mj-section  padding="0" background-color="#FFFFFF" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+         <mj-column>
+           <mj-text font-size="26px" line-height="34px" color="#666666" font-family="Georgia, serif">
+             Table of Contents
+          </mj-text>
+           <mj-divider padding-top="0" border-width="1px" border-color="#DCDCDC"/>
+         </mj-column>
+       </mj-section>
+
+
+       <!-- TOC Listing -->
+       <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+         <mj-column width="100%">
+           <mj-text padding="5px 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+             Introduction
+           </mj-text>
+           <mj-text padding="0 25px 5px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+             Ahmad H. Juma’h , Doris Morales-Rodriguez , Antonio Lloréns-Rivera
+           </mj-text>
+         </mj-column>
+         <mj-column width="10%">
+           <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+             DOI:
+           </mj-text>
+         </mj-column>
+         <mj-column width="90%">
+           <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+             10.1007/978-3-319-17178-4_1
+           </mj-text>
+         </mj-column>
+         <mj-column width="10%">
+           <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+             Pages:
+           </mj-text>
+         </mj-column>
+         <mj-column width="90%">
+           <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+             1-5
+           </mj-text>
+         </mj-column>
+
+          <mj-column width="100%">
+            <mj-divider border-width="1px" border-color="#DCDCDC"/>
+          </mj-column>
+        </mj-section>
+
+
+        <!-- TOC Listing -->
+        <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+          <mj-column width="100%">
+            <mj-text padding="5px 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+              Structural Change in the Employment of Puerto Rico
+            </mj-text>
+            <mj-text padding="0 25px 5px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+              Ahmad H. Juma’h , Doris Morales-Rodriguez , Antonio Lloréns-Rivera
+            </mj-text>
+          </mj-column>
+          <mj-column width="10%">
+            <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+              DOI:
+            </mj-text>
+          </mj-column>
+          <mj-column width="90%">
+            <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+              10.1007/978-3-319-17178-4_1
+            </mj-text>
+          </mj-column>
+          <mj-column width="10%">
+            <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+              Pages:
+            </mj-text>
+          </mj-column>
+          <mj-column width="90%">
+            <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+              7 - 16
+            </mj-text>
+          </mj-column>
+
+           <mj-column width="100%">
+             <mj-divider border-width="1px" border-color="#DCDCDC"/>
+           </mj-column>
+         </mj-section>
+
+         <!-- TOC Listing -->
+         <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+           <mj-column width="100%">
+             <mj-text padding="5px 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+               Labor Market of Puerto Rico and FDI, Exports and GDP
+             </mj-text>
+             <mj-text padding="0 25px 5px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+               Ahmad H. Juma’h , Doris Morales-Rodriguez , Antonio Lloréns-Rivera
+             </mj-text>
+           </mj-column>
+           <mj-column width="10%">
+             <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+               DOI:
+             </mj-text>
+           </mj-column>
+           <mj-column width="90%">
+             <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+               10.1007/978-3-319-17178-4_1
+             </mj-text>
+           </mj-column>
+           <mj-column width="10%">
+             <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+               Pages:
+             </mj-text>
+           </mj-column>
+           <mj-column width="90%">
+             <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+               17 - 24
+             </mj-text>
+           </mj-column>
+
+            <mj-column width="100%">
+              <mj-divider border-width="1px" border-color="#DCDCDC"/>
+            </mj-column>
+          </mj-section>
+
+
+          <!-- TOC Listing -->
+          <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+            <mj-column width="100%">
+              <mj-text padding="5px 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+                Economic Incentives and Determinants to Attract FDI
+              </mj-text>
+              <mj-text padding="0 25px 5px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                Ahmad H. Juma’h , Doris Morales-Rodriguez , Antonio Lloréns-Rivera
+              </mj-text>
+            </mj-column>
+            <mj-column width="10%">
+              <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+                DOI:
+              </mj-text>
+            </mj-column>
+            <mj-column width="90%">
+              <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                10.1007/978-3-319-17178-4_1
+              </mj-text>
+            </mj-column>
+            <mj-column width="10%">
+              <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+                Pages:
+              </mj-text>
+            </mj-column>
+            <mj-column width="90%">
+              <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                25 - 32
+              </mj-text>
+            </mj-column>
+
+             <mj-column width="100%">
+               <mj-divider border-width="1px" border-color="#DCDCDC"/>
+             </mj-column>
+           </mj-section>
+
+
+           <!-- TOC Listing -->
+           <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+             <mj-column width="100%">
+               <mj-text padding="5px 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+                 Outsourcing and Labor in the Manufacturing Sector in Puerto Rico
+               </mj-text>
+               <mj-text padding="0 25px 5px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                 Ahmad H. Juma’h , Doris Morales-Rodriguez , Antonio Lloréns-Rivera
+               </mj-text>
+             </mj-column>
+             <mj-column width="10%">
+               <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+                 DOI:
+               </mj-text>
+             </mj-column>
+             <mj-column width="90%">
+               <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                 10.1007/978-3-319-17178-4_1
+               </mj-text>
+             </mj-column>
+             <mj-column width="10%">
+               <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+                 Pages:
+               </mj-text>
+             </mj-column>
+             <mj-column width="90%">
+               <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                 33 - 37
+               </mj-text>
+             </mj-column>
+
+              <mj-column width="100%">
+                <mj-divider border-width="1px" border-color="#DCDCDC"/>
+              </mj-column>
+            </mj-section>
+
+
+            <!-- TOC Listing -->
+            <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+              <mj-column width="100%">
+                <mj-text padding="5px 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+                  Pharmaceutical Industry and R&D in Puerto Rico
+                </mj-text>
+                <mj-text padding="0 25px 5px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                  Ahmad H. Juma’h , Doris Morales-Rodriguez , Antonio Lloréns-Rivera
+                </mj-text>
+              </mj-column>
+              <mj-column width="10%">
+                <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+                  DOI:
+                </mj-text>
+              </mj-column>
+              <mj-column width="90%">
+                <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                  10.1007/978-3-319-17178-4_1
+                </mj-text>
+              </mj-column>
+              <mj-column width="10%">
+                <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+                  Pages:
+                </mj-text>
+              </mj-column>
+              <mj-column width="90%">
+                <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                  39 - 47
+                </mj-text>
+              </mj-column>
+
+               <mj-column width="100%">
+                 <mj-divider border-width="1px" border-color="#DCDCDC"/>
+               </mj-column>
+             </mj-section>
+
+
+             <!-- TOC Listing -->
+             <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+               <mj-column width="100%">
+                 <mj-text padding="5px 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+                   A Global Perspective
+                 </mj-text>
+                 <mj-text padding="0 25px 5px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                   Ahmad H. Juma’h , Doris Morales-Rodriguez , Antonio Lloréns-Rivera
+                 </mj-text>
+               </mj-column>
+               <mj-column width="10%">
+                 <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+                   DOI:
+                 </mj-text>
+               </mj-column>
+               <mj-column width="90%">
+                 <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                   10.1007/978-3-319-17178-4_1
+                 </mj-text>
+               </mj-column>
+               <mj-column width="10%">
+                 <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+                   Pages:
+                 </mj-text>
+               </mj-column>
+               <mj-column width="90%">
+                 <mj-text padding="0 25px 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                   <!-- added padding-bottom for last element -->
+                   49 - 55
+                 </mj-text>
+               </mj-column>
+
+               <!-- divider not shown on last TOC Element
+               <mj-column width="100%">
+                 <mj-divider border-width="1px" border-color="#DCDCDC"/>
+               </mj-column> -->
+              </mj-section>
+
+
+              <!--Footer-->
+              <mj-section padding="12px 25px" border-top="1px solid #DCDCDC">
+
+                <mj-column width="80%">
+                  <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
+                    This e-mail has been sent to <%user.Email%>
+                    <br/><br/>
+                    You are receiving this email because you have opted to receive information from SpringerAlerts as a registered user of our Table of Content Alert for journals.
+                    <br/><br/>
+                    To modify your subscription (including change of email address etc.) please go to
+                    <a style="text-decoration:none;" href="http://springer.com/alertprofile">
+                      <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
+                        springer.com/alertprofile
+                      </font>
+                    </a>
+                    and log in with user name and password. If you do not remember either of them, write to
+                    <a style="text-decoration:none;" href="mailto:customerservice@springer.com">
+                      <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
+                        customerservice@springer.com
+                      </font>
+                    </a>.
+                    <br/><br/>
+                    To unsubscribe from this specific table of contents alert, please click
+                    <a style="text-decoration:none;" href="http://springer.com/here">
+                      <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
+                        here
+                      </font>
+                    </a>.
+                    <br/><br/>
+                    To unsubscribe from ALL table of contents alerts, please click
+                    <a style="text-decoration:none;" href="http://springer.com/here">
+                      <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
+                        here
+                      </font>
+                    </a>.
+                    <br/><br/>
+                    For all enquiries, problems or suggestions regarding this service, please contact
+                    <br/>
+                    <a style="text-decoration:none;" href="mailto:customerservice@springer.com">
+                      <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
+                        customerservice@springer.com
+                      </font>
+                    </a>.
+                    <br/><br/>
+                    Springer's New Book Alert is the best way to keep up to date with new developments in your field.
+                    <br/><br/>
+                    Sign-up today for notification on new books and related information in your subject areas:
+                    <a style="text-decoration:none;" href="http://springer.com/springeralerts/nba">
+                      <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
+                        springer.com/springeralerts/nba
+                      </font>
+                    </a>
+                    <br/><br/>
+                    Springer respects your privacy and does not disclose, sell or rent your personal information to any nonaffiliated third parties without your consent. Please visit the Springer Privacy Statement .
+                    <br/><br/>
+                    To ensure the delivery to your inbox, please add the sender address
+                    <a style="text-decoration:none;" href="mailto:springer@alerts.springer.com">
+                      <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
+                        springer@alerts.springer.com
+                      </font>
+                    </a>
+                    to your allow list.
+                    <br/><br/>
+                    Springer-Verlag GmbH Heidelberg, Tiergartenstrasse 17, 69121 Heidelberg, Germany,
+                    <br/>
+                    phone: +49 6221 487 0, fax: +49 6221 487 8366
+                    <br/><br/>
+                    &#169; Springer 2015, springer.com
+                  </mj-text>
+                </mj-column>
+                <mj-column width="20%">
+                  <mj-social
+                    align="right"
+                    mode="horizontal"
+                    text-mode="true"
+                    padding="0px"
+                    icon-size="35px"
+                    inner-padding="0px"
+                    display="mytwitterc myfacebookc"
+                    myfacebookc-icon-color="none"
+                    myfacebookc-icon="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_facebook_circle.png"
+                    myfacebookc-href="https://www.facebook.com/objectway/"
+                    myfacebookc-content="&nbsp;"
+                    mytwitterc-icon-color="none"
+                    mytwitterc-icon="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_twitter_circle.png"
+                    mytwitterc-href="https://www.youtube.com/user/objectway"
+                    mytwitterc-content="&nbsp;" />
+
+                </mj-column>
+              </mj-section>
+
+
+    </mj-container>
+  </mj-body>
+</mjml>

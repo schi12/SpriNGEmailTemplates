@@ -64,7 +64,7 @@
 
        <!-- TOC Article -->
        <mj-section background-color="#FFFFFF" padding-top="0">
-         <mj-column width="100%" background-color="red">
+         <mj-column width="100%">
            <mj-text padding="0 25px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
              Regular Article
            </mj-text>
@@ -75,37 +75,203 @@
              Slawomir Werbowy & Laurentius Windholz
            </mj-text>
          </mj-column>
-         <mj-column width="22%" background-color="green">
-           <mj-button align="left" padding="15px 5px 15px 25px" font-size="14px" line-height="16px" color="#0176C3" font-family="Arial, Helvetica, sans-serif" background-color="#fff" border="1px solid #BCBCBC" inner-padding="9px 25px">
-             Abstract
-           </mj-button>
-         </mj-column>
-         <mj-column width="28%" background-color="yellow">
-           <mj-button align="left" padding="15px 15px 15px 15px" font-size="14px" line-height="16px" color="#0176C3" font-family="Arial, Helvetica, sans-serif" background-color="#fff" border="1px solid #BCBCBC" inner-padding="9px 25px">
-             Full text PDF
-           </mj-button>
-         </mj-column>
-
-         <mj-column width="50%">
-
-         </mj-column>
-         <mj-column width="100%">
-           <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70594-5/MediaObjects/10053_2016_1656_Fig1_HTML.jpg" />
-         </mj-column>
-
 
          <mj-column width="100%">
-           <mj-divider border-width="1px" border-color="#DCDCDC"/>
-         </mj-column>
-       </mj-section>
-
-       <mj-section padding="25px" background-color="#FFFFFF">
-         <mj-column>
            <mj-raw>
-             <img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" /><img src="/images/toc_button_fulltext.png" /><img src="" /><img src="" />
+             <div style="padding:20px 25px;">
+               <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" style="padding-right:15px;"/></a>
+               <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_fulltext.png" style="padding-right:15px;"/></a>
+               <a href="https://www.facebook.com/SpringerNature/"><img src="/opt/data/SpriNGEmailTemplates/images/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
+               <a href="https://twitter.com/springernature"><img src="/opt/data/SpriNGEmailTemplates/images/sm_twitter_icon.png" alt="Twitter-Link" title="Twitter Link" height="35" width="35" /></a>
+           </div>
            </mj-raw>
           </mj-column>
-       </mj-section>
+
+          <mj-column width="100%">
+            <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70594-5/MediaObjects/10053_2016_1656_Fig1_HTML.jpg" />
+          </mj-column>
+
+          <mj-column width="100%">
+            <mj-divider border-width="1px" border-color="#DCDCDC"/>
+          </mj-column>
+        </mj-section>
+
+
+       <!-- TOC Article -->
+       <mj-section background-color="#FFFFFF" padding-top="0">
+         <mj-column width="100%">
+           <mj-text padding="0 25px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+             Regular Article
+           </mj-text>
+           <mj-text padding="0 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+             Theoretical study of resonances and recombination in low-energy collisions of three identical bosons
+           </mj-text>
+           <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+             Chi Hong Yuen & Viatcheslav Kokoouline
+           </mj-text>
+         </mj-column>
+
+         <mj-column width="100%">
+           <mj-raw>
+             <div style="padding:20px 25px;">
+               <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" style="padding-right:15px;"/></a>
+               <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_fulltext.png" style="padding-right:15px;"/></a>
+               <!-- a href="https://www.facebook.com/SpringerNature/"><img src="/opt/data/SpriNGEmailTemplates/images/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
+               <a href="https://twitter.com/springernature"><img src="/opt/data/SpriNGEmailTemplates/images/sm_twitter_icon.png" alt="Twitter-Link" title="Twitter Link" height="35" width="35" /></a -->
+           </div>
+           </mj-raw>
+          </mj-column>
+
+          <mj-column width="100%">
+            <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70645-y/MediaObjects/10053_2016_1654_Fig1_HTML.jpg" />
+          </mj-column>
+
+          <mj-column width="100%">
+            <mj-divider border-width="1px" border-color="#DCDCDC"/>
+          </mj-column>
+        </mj-section>
+
+
+       <!-- TOC Article -->
+       <mj-section background-color="#FFFFFF" padding-top="0">
+         <mj-column width="100%">
+           <mj-text padding="0 25px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+             Regular Article
+           </mj-text>
+           <mj-text padding="0 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+             Finite size effects and equilibration in Bose-Hubbard chains with central well dephasing
+           </mj-text>
+           <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+             Florian Martinet & Murray K. Olsen
+           </mj-text>
+         </mj-column>
+
+         <mj-column width="100%">
+           <mj-raw>
+             <div style="padding:20px 25px;">
+               <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" style="padding-right:15px;"/></a>
+               <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_fulltext.png" style="padding-right:15px;"/></a>
+               <!-- a href="https://www.facebook.com/SpringerNature/"><img src="/opt/data/SpriNGEmailTemplates/images/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a -->
+               <a href="https://twitter.com/springernature"><img src="/opt/data/SpriNGEmailTemplates/images/sm_twitter_icon.png" alt="Twitter-Link" title="Twitter Link" height="35" width="35" /></a>
+           </div>
+           </mj-raw>
+          </mj-column>
+
+          <mj-column width="100%">
+            <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70663-9/MediaObjects/10053_2016_1655_Fig1_HTML.jpg" />
+          </mj-column>
+
+          <mj-column width="100%">
+            <mj-divider border-width="1px" border-color="#DCDCDC"/>
+          </mj-column>
+        </mj-section>
+
+
+        <!-- TOC Article -->
+        <mj-section background-color="#FFFFFF" padding-top="0">
+          <mj-column width="100%">
+            <mj-text padding="0 25px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+              Regular Article
+            </mj-text>
+            <mj-text padding="0 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+              Theoretical study of (e, 2e) process of atomic and molecular targets*
+            </mj-text>
+            <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+              Salim Houamer, Mehdi Chinoune & Claude Dal Cappello
+            </mj-text>
+          </mj-column>
+
+          <mj-column width="100%">
+            <mj-raw>
+              <div style="padding:20px 25px;">
+                <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" style="padding-right:15px;"/></a>
+                <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_fulltext.png" style="padding-right:15px;"/></a>
+                <!-- a href="https://www.facebook.com/SpringerNature/"><img src="/opt/data/SpriNGEmailTemplates/images/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
+                <a href="https://twitter.com/springernature"><img src="/opt/data/SpriNGEmailTemplates/images/sm_twitter_icon.png" alt="Twitter-Link" title="Twitter Link" height="35" width="35" /></a -->
+            </div>
+            </mj-raw>
+           </mj-column>
+
+           <mj-column width="100%">
+             <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70596-3/MediaObjects/10053_2016_1653_Fig1_HTML.jpg" />
+           </mj-column>
+
+           <mj-column width="100%">
+             <mj-divider border-width="1px" border-color="#DCDCDC"/>
+           </mj-column>
+         </mj-section>
+
+
+         <!-- TOC Article Open Access-->
+         <mj-section background-color="#FFFFFF" padding-top="0">
+           <mj-column width="100%">
+             <mj-text padding="0 25px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+               Regular Article <div style="float:right;color:#FFFFFF;background-color:#EE7D11;border-radius:3px;font-size:11px;padding:0 5px;">Open Access</div>
+             </mj-text>
+             <mj-text padding="0 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+               Studies of Landé g J -factors of singly ionized neodymium isotopes (142, 143 and 145) at relatively small magnetic fields up to 334 G by collinear laser ion beam spectroscopy
+             </mj-text>
+             <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+               Slawomir Werbowy & Laurentius Windholz
+             </mj-text>
+           </mj-column>
+
+           <mj-column width="100%">
+             <mj-raw>
+               <div style="padding:20px 25px;">
+                 <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" style="padding-right:15px;"/></a>
+                 <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_fulltext.png" style="padding-right:15px;"/></a>
+                 <a href="https://www.facebook.com/SpringerNature/"><img src="/opt/data/SpriNGEmailTemplates/images/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
+                 <a href="https://twitter.com/springernature"><img src="/opt/data/SpriNGEmailTemplates/images/sm_twitter_icon.png" alt="Twitter-Link" title="Twitter Link" height="35" width="35" /></a>
+             </div>
+             </mj-raw>
+            </mj-column>
+
+            <mj-column width="100%">
+              <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70641-3/MediaObjects/10053_2016_1652_Fig1_HTML.jpg" />
+            </mj-column>
+
+            <mj-column width="100%">
+              <mj-divider border-width="1px" border-color="#DCDCDC"/>
+            </mj-column>
+          </mj-section>
+
+
+          <!-- TOC Article -->
+          <mj-section background-color="#FFFFFF" padding-top="0">
+            <mj-column width="100%">
+              <mj-text padding="0 25px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                Regular Article
+              </mj-text>
+              <mj-text padding="0 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+                Exact solutions of optical pulse propagation in nonlinear meta-materials
+              </mj-text>
+              <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                Lipsa Nanda
+              </mj-text>
+            </mj-column>
+
+            <mj-column width="100%">
+              <mj-raw>
+                <div style="padding:20px 25px;">
+                  <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" style="padding-right:15px;"/></a>
+                  <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_fulltext.png" style="padding-right:15px;"/></a>
+                  <!-- a href="https://www.facebook.com/SpringerNature/"><img src="/opt/data/SpriNGEmailTemplates/images/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
+                  <a href="https://twitter.com/springernature"><img src="/opt/data/SpriNGEmailTemplates/images/sm_twitter_icon.png" alt="Twitter-Link" title="Twitter Link" height="35" width="35" /></a -->
+              </div>
+              </mj-raw>
+             </mj-column>
+
+             <mj-column width="100%">
+               <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70196-3/MediaObjects/10053_2016_1649_Fig1_HTML.jpg" />
+             </mj-column>
+
+             <!-- divider not shown on last TOC Element
+             <mj-column width="100%">
+               <mj-divider border-width="1px" border-color="#DCDCDC"/>
+             </mj-column> -->
+           </mj-section>
+
 
     </mj-wrapper>
     <!-- End Content -->
