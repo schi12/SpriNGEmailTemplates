@@ -52,7 +52,7 @@
              <tr>
                <td style="width: 80%;">
                  <span style="padding-left: 0;font-family:Calibri, Helvetica, Arial, sans-serif;line-height:25px;font-size:18px;color:#2B2B2B">
-                   Your book - Palgrave’s Book Author Satisfaction Program
+                   How was your publishing experience?
                  </span>
                </td>
                <td style="text-align:right; vertical-align:bottom; width: 20%;">
@@ -75,7 +75,7 @@
 
           <mj-text align="left" padding-left="0" font-size="14px" line-height="23px" color="#555555" font-weight="400" font-family="Verdana, Arial, sans-serif">
             Dear Author,<br/><br/>
-            We aim to provide you with the best possible publishing experience. To help us do that and now that your book has been published online we would like to ask your opinion on how we did.
+            We aim to provide you with the best possible publishing experience. To help us do that and now that your article has been published online we would like to ask your opinion on how we did.
           </mj-text>
       </mj-section>
 
@@ -100,7 +100,7 @@
        <mj-section background-color="#FFFFFF">
          <mj-column>
            <mj-text font-size="16px" line-height="24px" color="#555555" font-family="Verdana, Arial, sans-serif">
-             Your recently published book:
+             Your recently published paper:
           </mj-text>
            <mj-divider padding-top="7px" border-width="1px" border-color="#DCDCDC"/>
          </mj-column>
@@ -108,22 +108,22 @@
 
        <!-- TBook Section -->
        <mj-section background-color="#FFFFFF" padding="0 0 12px">
-         <mj-column width="25%">
-           <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="https://images.springer.com/sgw/books/medium/9781137456441.jpg" width="130px" />
+         <mj-column width="20%">
+           <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="https://images.springer.com/sgw/journals/medium/702.jpg" width="130px" />
           </mj-column>
 
-          <mj-column width="75%">
+          <mj-column width="80%">
             <mj-text padding="0 25px" font-size="13px" line-height="21px" color="#555555" font-family="Verdana, Arial, sans-serif" font-weight="bold">
-              Title
+              Article
             </mj-text>
             <mj-text padding="0 25px" font-size="13px" line-height="21px" color="#555555" font-family="Verdana, Arial, sans-serif">
-              Masculinity, Media, and the American Presidency
+              Effects of GDF5 overexpression on embryonic rat dopaminergic neurones in vitro and in vivo
             </mj-text>
             <mj-text padding="0 25px" font-size="13px" line-height="21px" color="#555555" font-family="Verdana, Arial, sans-serif" font-weight="bold">
-              ISBN
+              Journal
             </mj-text>
             <mj-text padding="0 25px" font-size="13px" line-height="21px" color="#555555" font-family="Verdana, Arial, sans-serif">
-              978-1-137-45645-8
+              Journal of Neural Transmission
             </mj-text>
           </mj-column>
 
