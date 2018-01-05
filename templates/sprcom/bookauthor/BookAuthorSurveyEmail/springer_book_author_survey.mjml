@@ -83,7 +83,7 @@
          </mj-column>
        </mj-section>
 
-       <!-- TBook Section -->
+       <!-- Book Section -->
        <mj-section background-color="#FFFFFF" padding="0 0 12px">
          <mj-column width="25%">
            <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-3-319-01079-3.jpg" width="130px" />
