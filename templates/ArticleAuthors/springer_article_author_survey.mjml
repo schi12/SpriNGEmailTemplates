@@ -86,7 +86,7 @@
        <!-- Book Section -->
        <mj-section background-color="#FFFFFF" padding="0 0 12px">
          <mj-column width="20%">
-           <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-3-319-01079-3.jpg" width="130px" />
+           <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="https://static-content.springer.com/cover/journal/40469/2/1.jpg" width="130px" />
           </mj-column>
 
           <mj-column width="80%">
