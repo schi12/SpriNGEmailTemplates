@@ -108,11 +108,11 @@
 
        <!-- TBook Section -->
        <mj-section background-color="#FFFFFF" padding="0 0 12px">
-         <mj-column width="20%">
+         <mj-column width="25%">
            <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="https://images.springer.com/sgw/journals/medium/702.jpg" width="130px" />
           </mj-column>
 
-          <mj-column width="80%">
+          <mj-column width="75%">
             <mj-text padding="0 25px" font-size="13px" line-height="21px" color="#555555" font-family="Verdana, Arial, sans-serif" font-weight="bold">
               Article
             </mj-text>

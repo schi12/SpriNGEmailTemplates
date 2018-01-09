@@ -27,12 +27,12 @@
           <mj-table>
              <tr>
                <td style="width: 80%;">
-                 <span style="padding-left: 0;font-family:Arial, Helvetica, sans-serif;line-height:24px;font-size:16px;color:#666666">
+                 <span style="padding-left: 0;font-family:Arial, Helvetica, sans-serif;line-height:24px;font-size:16px;color:#333333">
                    Your article - Springer’s Book Author Satisfaction Program
                  </span>
                </td>
                <td style="text-align:right; vertical-align:bottom; width: 20%;">
-                 <span style="font-family:Arial, Helvetica, sans-serif;line-height:24px;font-size:16px;color:#666666">
+                 <span style="font-family:Arial, Helvetica, sans-serif;line-height:21px;font-size:14px;color:#999999">
                    Mai 19, 2017
                  </span>
                </td>
@@ -44,7 +44,7 @@
       </mj-section>
 
       <!-- Intro -->
-      <mj-section padding="0 25px 25px" background-color="#FFFFFF">
+      <mj-section padding="25px" background-color="#FFFFFF">
         <mj-column width="100%">
           <mj-text align="left" padding-left="0px" font-size="26px" line-height="34px" color="#333333" font-family="Georgia, serif">
              We love feedback. Really!
@@ -85,15 +85,16 @@
 
        <!-- Book Section -->
        <mj-section background-color="#FFFFFF" padding="0 0 12px">
-         <mj-column width="20%">
+         <mj-column width="25%">
            <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="https://static-content.springer.com/cover/journal/40469/2/1.jpg" width="130px" />
           </mj-column>
 
-          <mj-column width="80%">
+          <mj-column width="75%">
             <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
               Article
             </mj-text>
-            <mj-text padding="0 25px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif">
+            <!--mj-text padding="0 25px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif" -->
+            <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
               An extended analysis of factors contributing to opinion formation in a bipartite society of mavens and laypeople
             </mj-text>
             <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
@@ -113,7 +114,7 @@
           <!-- Questions Ending -->
           <mj-section background-color="#FFFFFF" padding-top="0">
              <mj-column width="100%">
-               <mj-text padding="0 25px" font-size="16px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+               <mj-text padding="0 25px 25px" font-size="16px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
                  If you have any questions about this survey, please contact
                  <a style="text-decoration:none;" href="mailto:heino.haase@springer.com">
                    <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:16px;line-height:24px">
