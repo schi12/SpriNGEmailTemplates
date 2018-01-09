@@ -53,7 +53,7 @@
        </mj-section>
 
        <!-- TOC Opening -->
-       <mj-section background-color="#FFFFFF">
+       <mj-section background-color="#FFFFFF" padding-top="10px">
          <mj-column>
            <mj-text font-size="26px" line-height="34px" color="#666666" font-family="Georgia, serif">
              In this issue
@@ -78,7 +78,7 @@
 
          <mj-column width="100%">
            <mj-raw>
-             <div style="padding:20px 25px;">
+             <div style="padding:5px 25px 20px;">
                <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" style="padding-right:15px;"/></a>
                <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_fulltext.png" style="padding-right:15px;"/></a>
                <a href="https://www.facebook.com/SpringerNature/"><img src="/opt/data/SpriNGEmailTemplates/images/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
@@ -113,7 +113,7 @@
 
          <mj-column width="100%">
            <mj-raw>
-             <div style="padding:20px 25px;">
+             <div style="padding:5px 25px 20px;">
                <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" style="padding-right:15px;"/></a>
                <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_fulltext.png" style="padding-right:15px;"/></a>
                <!-- a href="https://www.facebook.com/SpringerNature/"><img src="/opt/data/SpriNGEmailTemplates/images/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
@@ -148,7 +148,7 @@
 
          <mj-column width="100%">
            <mj-raw>
-             <div style="padding:20px 25px;">
+             <div style="padding:5px 25px 20px;">
                <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" style="padding-right:15px;"/></a>
                <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_fulltext.png" style="padding-right:15px;"/></a>
                <!-- a href="https://www.facebook.com/SpringerNature/"><img src="/opt/data/SpriNGEmailTemplates/images/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a -->
@@ -183,7 +183,7 @@
 
           <mj-column width="100%">
             <mj-raw>
-              <div style="padding:20px 25px;">
+              <div style="padding:5px 25px 20px;">
                 <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" style="padding-right:15px;"/></a>
                 <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_fulltext.png" style="padding-right:15px;"/></a>
                 <!-- a href="https://www.facebook.com/SpringerNature/"><img src="/opt/data/SpriNGEmailTemplates/images/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
@@ -205,7 +205,7 @@
          <!-- TOC Article Open Access-->
          <mj-section background-color="#FFFFFF" padding-top="0">
            <mj-column width="100%">
-             <mj-text padding="0 25px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+             <mj-text padding="0 25px 5px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
                Regular Article <div style="float:right;color:#FFFFFF;background-color:#EE7D11;border-radius:3px;font-size:11px;padding:0 5px;">Open Access</div>
              </mj-text>
              <mj-text padding="0 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
@@ -218,7 +218,7 @@
 
            <mj-column width="100%">
              <mj-raw>
-               <div style="padding:20px 25px;">
+               <div style="padding:5px 25px 20px;">
                  <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" style="padding-right:15px;"/></a>
                  <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_fulltext.png" style="padding-right:15px;"/></a>
                  <a href="https://www.facebook.com/SpringerNature/"><img src="/opt/data/SpriNGEmailTemplates/images/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
@@ -238,7 +238,8 @@
 
 
           <!-- TOC Article -->
-          <mj-section background-color="#FFFFFF" padding-top="0">
+          <!-- last TOC element spacing at the end-->
+          <mj-section background-color="#FFFFFF" padding-top="0" padding-bottom="42px">
             <mj-column width="100%">
               <mj-text padding="0 25px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
                 Regular Article
@@ -253,7 +254,7 @@
 
             <mj-column width="100%">
               <mj-raw>
-                <div style="padding:20px 25px;">
+                <div style="padding:5px 25px 20px;">
                   <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_abstract.png" style="padding-right:15px;"/></a>
                   <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="/opt/data/SpriNGEmailTemplates/images/toc_button_fulltext.png" style="padding-right:15px;"/></a>
                   <!-- a href="https://www.facebook.com/SpringerNature/"><img src="/opt/data/SpriNGEmailTemplates/images/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
@@ -261,6 +262,7 @@
               </div>
               </mj-raw>
              </mj-column>
+
 
              <mj-column width="100%">
                <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70196-3/MediaObjects/10053_2016_1649_Fig1_HTML.jpg" />
