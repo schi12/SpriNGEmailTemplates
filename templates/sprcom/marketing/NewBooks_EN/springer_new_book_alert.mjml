@@ -55,7 +55,8 @@
             With best regards, <br/>
             Your SpringerAlerts Team
             <br/><br/>
-            P.S.: Click here to find out more about Springer eBooks for Institutions.
+            P.S.: <a href="http://www.springer.com/e-content/ebooks?SGWID=0-40791-0-0-0" style="text-decoration:none;color:#0176C3;">Click here</a> to find out more about Springer eBooks for Institutions.
+
           </mj-text>
 
       </mj-section>
@@ -83,14 +84,23 @@
              New print & eBooks
           </mj-text>
          </mj-column>
-         <mj-column width="50%">
-           <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif">
-             foo
+         <mj-column width="50%" border-right="1px solid #DCDCDC">
+           <mj-text font-size="16px" color="#666666" line-height="32px" font-family="Arial, Helvetica, sans-serif">
+             Applied Linguistics<br/>
+             Bilingualism<br/>
+             Chinese<br/>
+             Comparative Linguistics<br/>
+             Computational Linguistics<br/>
+             Corpus Linguistics
            </mj-text>
          </mj-column>
          <mj-column width="50%">
-           <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif">
-             bar
+           <mj-text font-size="16px" color="#666666" line-height="24px" font-family="Arial, Helvetica, sans-serif">
+             Discourse Analysis<br/>
+             English<br/>
+             Historical Linguistics<br/>
+             Philology<br/>
+             Semiotics
            </mj-text>
          </mj-column>
        </mj-section>
@@ -104,36 +114,82 @@
          </mj-column>
        </mj-section>
 
-       <!-- Book Section -->
+       <!-- Book List Entry -->
        <mj-section background-color="#FFFFFF" padding="0 0 12px">
-         <mj-column width="25%">
+         <mj-column width="20%">
            <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="https://static-content.springer.com/cover/journal/40469/2/1.jpg" width="130px" />
           </mj-column>
 
-          <mj-column width="75%">
-            <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
-              Article
+          <mj-column width="80%">
+            <mj-text padding="0 25px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif">
+              Interactional Competences in Institutional Settings
             </mj-text>
             <!--mj-text padding="0 25px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif" -->
             <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
-              An extended analysis of factors contributing to opinion formation in a bipartite society of mavens and laypeople
+              <span style="font-weight:bold;">Müller</span>, Michael<br/>
+              Editor/s: Author/s: Hitchcock, David<br/>
+              <span style="font-weight:bold;">ISBN</span> 978-3-319-01079-3
             </mj-text>
             <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
-              Journal
+              From 69.99 USD
             </mj-text>
-            <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
-              Computational Cognitive Science
-            </mj-text>
+            <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left">
+              View details
+            </mj-button>
           </mj-column>
-
           <mj-column width="100%">
-            <mj-divider border-width="1px" border-color="#DCDCDC"/>
+            <mj-divider padding-top="0" border-width="1px" border-color="#DCDCDC"/>
           </mj-column>
         </mj-section>
 
+        <!-- News Green CTA -->
+         <mj-section padding="0 25px" background-color="#FFFFFF">
+           <mj-column width="100%" border-left="4px solid #71AB0B" 	background-color="rgba(113,171,11,0.1)">
+             <mj-text font-size="18px" color="#333333" line-height="25px" font-weight="normal" padding-bottom="0px" padding-top="20px" font-family="Georgia, serif">
+               Important news!<br/>
+               Free access to all latest special issues
+             </mj-text>
+             <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif">
+               Browse our recently published special issues in Education - Enjoy free access to all articles until May 20th!
+             </mj-text>
+             <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" border="1px solid #BCBCBC" padding-bottom="20px" font-size="14px" background-color="transparent"  border-radius="3px" color="#0176C3" align="left">
+               Learn more
+             </mj-button>
+           </mj-column>
+         </mj-section>
+
+         <!-- News Grey CTA -->
+         <mj-section background-color="#FFFFFF" padding="25px 0">
+           <mj-column width="100%">
+           </mj-column>
+         </mj-section>
+          <mj-section padding="25px 0" background-color="#F0F0F0">
+            <mj-column width="25%">
+              <mj-image align="left" padding="25px 0 15px 25px" src="https://static-content.springer.com/cover/book/978-3-319-02258-1.jpg" width="130px" />
+             </mj-column>
+            <mj-column width="75%">
+              <mj-text font-size="22px" color="#333333" line-height="28px" font-weight="normal" padding-bottom="0px" padding-top="20px" font-family="Georgia, serif">
+                Bilingual and Multilingual Education
+              </mj-text>
+              <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif">
+                García, Ofelia, Lin, Angel M. Y., May, Stephen (Eds.)
+              </mj-text>
+              <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left">
+                Start reading on link.springer.com
+              </mj-button>
+              <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif">
+                Recommend to your librarian.
+              </mj-text>
+            </mj-column>
+          </mj-section>
+          <mj-section background-color="#FFFFFF" padding="25px 0">
+            <mj-column width="100%">
+            </mj-column>
+          </mj-section>
+
 
           <!-- Questions Ending -->
-          <mj-section background-color="#FFFFFF" padding-top="0">
+          <mj-section background-color="#FFFFFF">
              <mj-column width="100%">
                <mj-text font-size="22px" line-height="28px" color="#333333" font-family="Georgia, serif">
                  Linguistik & Sprachwissenschaften - Bücher und Zeitschriften
