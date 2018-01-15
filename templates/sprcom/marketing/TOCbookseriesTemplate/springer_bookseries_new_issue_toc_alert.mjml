@@ -60,7 +60,7 @@
         <mj-wrapper padding="0 25px 25px" background-color="#FFFFFF" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
          <mj-section border-left="4px solid #0176C3" background-color="rgba(1,118,195,0.05)"> <!-- HTML Code sets background-color for div and including table so the alpha transparency set on half of the design value to compensate -->
            <mj-column width="32%">
-             <mj-image src="http://www.springer.com/cda/content/image/cda_displayimage.jpg?SGWID=0-0-16-2607975-0" padding="5px 0 20px 25px" align="left"/>
+             <mj-image src="http://www.springer.com/cda/content/image/cda_displayimage.jpg?SGWID=0-0-16-2607975-0" padding="5px 0 20px 25px" align="left" href="https://www.springer.com/authors/video.html"/>
            </mj-column>
            <mj-column width="68%">
              <mj-text font-size="18px" color="#333333" line-height="25px" font-weight="normal" padding="0 25px" font-family="Georgia, serif">
@@ -69,7 +69,7 @@
              <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif" >
                 Discover the benefits of choosing Springer as your book publisher through author feedback in this short presentation.
              </mj-text>
-             <mj-button padding-bottom="0" font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left">
+             <mj-button padding-bottom="0" font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left" href="https://www.springer.com/authors">
                More
              </mj-button>
            </mj-column>
