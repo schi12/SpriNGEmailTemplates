@@ -21,9 +21,6 @@
       <!-- Header Toppic and Date -->
       <mj-section padding="0" background-color="#FFFFFF">
         <mj-column width="100%">
-          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
-        </mj-column>
-        <mj-column width="100%">
           <mj-table>
              <tr>
                <td style="width: 80%;">
