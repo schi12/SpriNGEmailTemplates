@@ -45,9 +45,6 @@
       <!-- Header Toppic and Date -->
       <mj-section padding="0" background-color="#FFFFFF">
         <mj-column width="100%">
-          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
-        </mj-column>
-        <mj-column width="100%">
           <mj-table>
              <tr>
                <td style="width: 80%;">
@@ -62,7 +59,7 @@
                </td>
              </tr>
            </mj-table>
-           <mj-divider padding-top="0" border-width="1px" border-color="#DCDCDC"/>
+           <mj-divider width="100%" padding-top="0" border-width="1px" border-color="#DCDCDC"/>
         </mj-column>
       </mj-section>
 
@@ -98,7 +95,7 @@
 
        <!-- Authors Opening -->
        <mj-section background-color="#FFFFFF">
-         <mj-column>
+         <mj-column width="100%">
            <mj-text font-size="16px" line-height="24px" color="#555555" font-family="Verdana, Arial, sans-serif">
              Your recently published paper:
           </mj-text>
@@ -107,7 +104,7 @@
        </mj-section>
 
        <!-- TBook Section -->
-       <mj-section background-color="#FFFFFF" padding="0 0 12px">
+       <mj-section background-color="#FFFFFF" padding="0">
          <mj-column width="25%">
            <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="https://images.springer.com/sgw/journals/medium/702.jpg" width="130px" />
           </mj-column>
@@ -126,9 +123,10 @@
               Journal of Neural Transmission
             </mj-text>
           </mj-column>
-
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="0 0 12px">
           <mj-column width="100%">
-            <mj-divider border-width="1px" border-color="#DCDCDC"/>
+            <mj-divider width="100%" border-width="1px" border-color="#DCDCDC"/>
           </mj-column>
         </mj-section>
 
