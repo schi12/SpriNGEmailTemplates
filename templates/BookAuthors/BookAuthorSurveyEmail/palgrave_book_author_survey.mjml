@@ -42,15 +42,12 @@
 
   <mj-wrapper border-top="4px solid #DC506C" padding-bottom="0px" padding-top="0px">
 
-      <!-- Header Toppic and Date -->
+      <!-- Header Toppic and Date
       <mj-section padding="0" background-color="#FFFFFF">
-        <mj-column width="100%">
-          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
-        </mj-column>
         <mj-column width="100%">
           <mj-table>
              <tr>
-               <td style="width: 80%;">
+               <td style="width:80%;">
                  <span style="padding-left: 0;font-family:Calibri, Helvetica, Arial, sans-serif;line-height:25px;font-size:18px;color:#444444">
                    Your book - Palgrave’s Book Author Satisfaction Program
                  </span>
@@ -64,7 +61,29 @@
            </mj-table>
            <mj-divider padding-top="0" border-width="1px" border-color="#DCDCDC"/>
         </mj-column>
-      </mj-section>
+      </mj-section>-->
+
+
+          <!-- Header Toppic and Date -->
+          <mj-section padding="0" background-color="#FFFFFF">
+            <mj-column width="100%">
+              <mj-table>
+                 <tr>
+                   <td style="width: 80%;">
+                     <span style="padding-left: 0;font-family:Calibri, Helvetica, Arial, sans-serif;line-height:25px;font-size:18px;color:#444444">
+                       Your book - Palgrave’s Book Author Satisfaction Program
+                     </span>
+                   </td>
+                   <td style="text-align:right; vertical-align:bottom; width: 20%;">
+                     <span style="font-family:Verdana, Arial, sans-serif;line-height:21px;font-size:13px;color:#999999">
+                       Mai 19, 2017
+                     </span>
+                   </td>
+                 </tr>
+               </mj-table>
+               <mj-divider width="100%" padding-top="0" border-width="1px" border-color="#DCDCDC"/>
+            </mj-column>
+          </mj-section>
 
       <!-- Intro -->
       <mj-section padding="25px" background-color="#FFFFFF">
