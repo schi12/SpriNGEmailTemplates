@@ -62,12 +62,12 @@
 
             <b>Müller</b>, Michael
           </mj-text>
-          <mj-button align="left" padding-bottom="20px" font-size="14px" line-height="18px" color="#FFFFFF" href="$ABPR_download_link" background-color="#0176c3" font-family="Arial, Helvetica, sans-serif">
+          <mj-button align="left" padding-bottom="20px" font-size="14px" line-height="18px" color="#FFFFFF" href="$ABPR_download_link" background-color="#0176C3" font-family="Arial, Helvetica, sans-serif">
             Download Book Performance Report
           </mj-button>
           <mj-divider border-color="#DCDCDC" border-width="1px"/>
-          <mj-text font-size="14px" line-height="21px" color="#0176c3" padding-top="10px" padding-bottom="2px" font-family="Arial, Helvetica, sans-serif">
-            <a style="line-height:26px;padding-bottom:4px;color:#0176c3;text-decoration:none;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_viewarticle_icon.png);background-size:16px 16px;background-repeat:no-repeat; " href="https://www.springer.com/gp/myspringer/book-publications">MySpringer: Your personal book overview page</a>
+          <mj-text font-size="14px" line-height="21px" color="#0176C3" padding-top="10px" padding-bottom="2px" font-family="Arial, Helvetica, sans-serif">
+            <a style="line-height:26px;padding-bottom:4px;color:#0176C3;text-decoration:none;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_viewarticle_icon.png);background-size:16px 16px;background-repeat:no-repeat; " href="https://www.springer.com/gp/myspringer/book-publications">MySpringer: Your personal book overview page</a>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -75,7 +75,7 @@
 
       <!-- Account Information -->
       <mj-section padding="25px 25px 0">
-        <mj-column border-left="4px solid #71ab0b">
+        <mj-column border-left="4px solid #71AB0B">
           <mj-text font-size="18px" line-height="25px" color="#333333"  font-weight="400" padding-bottom="0px" padding-top="20px" font-family="Georgia, serif">
             MySpringer account information
           </mj-text>
@@ -89,7 +89,7 @@
              Your login user name: markus.schilde036@springer.com<br/>
             If you forgot your password:
           </mj-text>
-          <mj-button href="https://www.springer.com/generic/registration/login?SGWID=1-40107-27-961104-0" font-size="14px" line-height="18px" color="#0176C3" font-family="Arial, Helvetica, sans-serif" border="1px solid #BCBCBC" padding-bottom="20px" background-color="#fff" border-radius="3px" align="left">
+          <mj-button href="https://www.springer.com/generic/registration/login?SGWID=1-40107-27-961104-0" font-size="14px" line-height="18px" color="#0176C3" font-family="Arial, Helvetica, sans-serif" border="1px solid #BCBCBC" padding-bottom="20px" background-color="#FFFFFF" border-radius="3px" align="left">
             Reset your account now
           </mj-button>
         </mj-column>
