@@ -20,7 +20,7 @@
 
       <!-- Intro -->
       <mj-section padding="25px" background-color="#FFFFFF">
-        <mj-column width="75%">
+        <mj-column width="78%">
           <mj-text align="left" padding-left="0px" font-size="26px" line-height="34px" color="#333333" font-family="Georgia, serif">
              Dear Reader,
           </mj-text>
@@ -29,8 +29,8 @@
           <!--img alt="Litmus" src="hero@2x.png" width="600" style="width: 100%; max-width: 600px; font-family: sans-serif; color: #ffffff; font-size: 20px; display: block; border: 0px;" border="0"-->
           </mj-text>
         </mj-column>
-        <mj-column width="25%">
-          <mj-image padding="18px 0 0" align="right"  src="http://static-content.springer.com/cover/journal/10053/71/1.jpg" width="130px" height="172px" border="1px solid #DCDCDC">
+        <mj-column width="22%">
+          <mj-image padding="18px 0 0" align="left" src="http://static-content.springer.com/cover/journal/10053/71/1.jpg" width="130px" height="172px" border="1px solid #DCDCDC">
           </mj-image>
         </mj-column>
       </mj-section>
@@ -63,7 +63,7 @@
        </mj-section>
 
        <!-- TOC Article -->
-       <mj-section background-color="#FFFFFF" padding-top="0">
+       <mj-section padding-top="0" background-color="#FFFFFF">
          <mj-column width="100%">
            <mj-text padding="0 25px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
              Regular Article
@@ -75,10 +75,11 @@
              Slawomir Werbowy & Laurentius Windholz
            </mj-text>
          </mj-column>
-
+        </mj-section>
+        <mj-section padding="0"  background-color="#FFFFFF">
          <mj-column width="100%">
            <mj-raw>
-             <div style="padding:5px 25px 20px;">
+             <div style="padding:0 25px 13px;">
                <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="https://s3.eu-central-1.amazonaws.com/springpics/toc_button_abstract.png" style="padding-right:15px;"/></a>
                <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="https://s3.eu-central-1.amazonaws.com/springpics/toc_button_fulltext.png" style="padding-right:15px;"/></a>
                <a href="https://www.facebook.com/SpringerNature/"><img src="https://s3.eu-central-1.amazonaws.com/springpics/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
@@ -86,13 +87,14 @@
            </div>
            </mj-raw>
           </mj-column>
-
+        </mj-section>
+        <mj-section padding-top="0"  background-color="#FFFFFF">
           <mj-column width="100%">
-            <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70594-5/MediaObjects/10053_2016_1656_Fig1_HTML.jpg" />
+            <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70594-5/MediaObjects/10053_2016_1656_Fig1_HTML.jpg"/>
           </mj-column>
 
           <mj-column width="100%">
-            <mj-divider border-width="1px" border-color="#DCDCDC"/>
+            <mj-divider border-width="1px" border-color="#DCDCDC" padding-bottom="0"/>
           </mj-column>
         </mj-section>
 
@@ -110,10 +112,11 @@
              Chi Hong Yuen & Viatcheslav Kokoouline
            </mj-text>
          </mj-column>
-
+       </mj-section>
+       <mj-section padding="0"  background-color="#FFFFFF">
          <mj-column width="100%">
            <mj-raw>
-             <div style="padding:5px 25px 20px;">
+             <div style="padding:5px 25px 13px;">
                <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="https://s3.eu-central-1.amazonaws.com/springpics/toc_button_abstract.png" style="padding-right:15px;"/></a>
                <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="https://s3.eu-central-1.amazonaws.com/springpics/toc_button_fulltext.png" style="padding-right:15px;"/></a>
                <!-- a href="https://www.facebook.com/SpringerNature/"><img src="https://s3.eu-central-1.amazonaws.com/springpics/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
@@ -121,19 +124,19 @@
            </div>
            </mj-raw>
           </mj-column>
-
+        </mj-section>
+        <mj-section padding-top="0"  background-color="#FFFFFF">
           <mj-column width="100%">
             <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70645-y/MediaObjects/10053_2016_1654_Fig1_HTML.jpg" />
           </mj-column>
-
           <mj-column width="100%">
-            <mj-divider border-width="1px" border-color="#DCDCDC"/>
+            <mj-divider border-width="1px" border-color="#DCDCDC" padding-bottom="0"/>
           </mj-column>
         </mj-section>
 
 
        <!-- TOC Article -->
-       <mj-section background-color="#FFFFFF" padding-top="0">
+       <mj-section padding-top="0" background-color="#FFFFFF" >
          <mj-column width="100%">
            <mj-text padding="0 25px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
              Regular Article
@@ -145,10 +148,11 @@
              Florian Martinet & Murray K. Olsen
            </mj-text>
          </mj-column>
-
+       </mj-section>
+       <mj-section padding-top="0" background-color="#FFFFFF">
          <mj-column width="100%">
            <mj-raw>
-             <div style="padding:5px 25px 20px;">
+             <div style="padding:5px 25px 13px;">
                <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="https://s3.eu-central-1.amazonaws.com/springpics/toc_button_abstract.png" style="padding-right:15px;"/></a>
                <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="https://s3.eu-central-1.amazonaws.com/springpics/toc_button_fulltext.png" style="padding-right:15px;"/></a>
                <!-- a href="https://www.facebook.com/SpringerNature/"><img src="https://s3.eu-central-1.amazonaws.com/springpics/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a -->
@@ -156,13 +160,13 @@
            </div>
            </mj-raw>
           </mj-column>
-
+        </mj-section>
+        <mj-section padding-top="0" background-color="#FFFFFF">
           <mj-column width="100%">
             <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70663-9/MediaObjects/10053_2016_1655_Fig1_HTML.jpg" />
           </mj-column>
-
           <mj-column width="100%">
-            <mj-divider border-width="1px" border-color="#DCDCDC"/>
+            <mj-divider border-width="1px" border-color="#DCDCDC" padding-bottom="0"/>
           </mj-column>
         </mj-section>
 
@@ -180,10 +184,11 @@
               Salim Houamer, Mehdi Chinoune & Claude Dal Cappello
             </mj-text>
           </mj-column>
-
+        </mj-section>
+        <mj-section padding-top="0" background-color="#FFFFFF">
           <mj-column width="100%">
             <mj-raw>
-              <div style="padding:5px 25px 20px;">
+              <div style="padding:5px 25px 13px;">
                 <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="https://s3.eu-central-1.amazonaws.com/springpics/toc_button_abstract.png" style="padding-right:15px;"/></a>
                 <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="https://s3.eu-central-1.amazonaws.com/springpics/toc_button_fulltext.png" style="padding-right:15px;"/></a>
                 <!-- a href="https://www.facebook.com/SpringerNature/"><img src="https://s3.eu-central-1.amazonaws.com/springpics/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
@@ -191,13 +196,13 @@
             </div>
             </mj-raw>
            </mj-column>
-
+         </mj-section>
+         <mj-section padding-top="0" background-color="#FFFFFF">
            <mj-column width="100%">
              <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70596-3/MediaObjects/10053_2016_1653_Fig1_HTML.jpg" />
            </mj-column>
-
            <mj-column width="100%">
-             <mj-divider border-width="1px" border-color="#DCDCDC"/>
+             <mj-divider border-width="1px" border-color="#DCDCDC" padding-bottom="0"/>
            </mj-column>
          </mj-section>
 
@@ -206,7 +211,7 @@
          <mj-section background-color="#FFFFFF" padding-top="0">
            <mj-column width="100%">
              <mj-text padding="0 25px 5px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
-               Regular Article <div style="float:right;color:#FFFFFF;background-color:#EE7D11;border-radius:3px;font-size:11px;padding:0 5px;">Open Access</div>
+               Regular Article <span style="float:right;color:#FFFFFF;background-color:#EE7D11;border-radius:3px;font-size:11px;padding:0 5px;">Open Access</span>
              </mj-text>
              <mj-text padding="0 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
                Studies of Landé g J -factors of singly ionized neodymium isotopes (142, 143 and 145) at relatively small magnetic fields up to 334 G by collinear laser ion beam spectroscopy
@@ -215,10 +220,11 @@
                Slawomir Werbowy & Laurentius Windholz
              </mj-text>
            </mj-column>
-
+         </mj-section>
+         <mj-section padding-top="0" background-color="#FFFFFF">
            <mj-column width="100%">
              <mj-raw>
-               <div style="padding:5px 25px 20px;">
+               <div style="padding:5px 25px 13px;">
                  <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="https://s3.eu-central-1.amazonaws.com/springpics/toc_button_abstract.png" style="padding-right:15px;"/></a>
                  <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="https://s3.eu-central-1.amazonaws.com/springpics/toc_button_fulltext.png" style="padding-right:15px;"/></a>
                  <a href="https://www.facebook.com/SpringerNature/"><img src="https://s3.eu-central-1.amazonaws.com/springpics/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
@@ -226,13 +232,13 @@
              </div>
              </mj-raw>
             </mj-column>
-
+          </mj-section>
+          <mj-section  padding-top="0" background-color="#FFFFFF">
             <mj-column width="100%">
               <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70641-3/MediaObjects/10053_2016_1652_Fig1_HTML.jpg" />
             </mj-column>
-
             <mj-column width="100%">
-              <mj-divider border-width="1px" border-color="#DCDCDC"/>
+              <mj-divider border-width="1px" border-color="#DCDCDC" padding-bottom="0"/>
             </mj-column>
           </mj-section>
 
@@ -251,10 +257,11 @@
                 Lipsa Nanda
               </mj-text>
             </mj-column>
-
+          </mj-section>
+          <mj-section padding-top="0" background-color="#FFFFFF">
             <mj-column width="100%">
               <mj-raw>
-                <div style="padding:5px 25px 20px;">
+                <div style="padding:5px 25px 13px;">
                   <a href="http://link.springer.com/article/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="https://s3.eu-central-1.amazonaws.com/springpics/toc_button_abstract.png" style="padding-right:15px;"/></a>
                   <a href="http://link.springer.com/content/pdf/10.1140/epjd/e2016-70594-5?wt_mc=alerts.TOCjournals"><img src="https://s3.eu-central-1.amazonaws.com/springpics/toc_button_fulltext.png" style="padding-right:15px;"/></a>
                   <!-- a href="https://www.facebook.com/SpringerNature/"><img src="https://s3.eu-central-1.amazonaws.com/springpics/sm_facebook_icon.png" alt="Facebook-Link" title="Facebook Link" height="35" width="35" style="padding-right:15px;"/></a>
@@ -262,15 +269,15 @@
               </div>
               </mj-raw>
              </mj-column>
-
-
+           </mj-section>
+           <mj-section  padding-top="0" background-color="#FFFFFF">
              <mj-column width="100%">
                <mj-image src="http://static-content.springer.com/image/art%3A10.1140%2Fepjd%2Fe2016-70196-3/MediaObjects/10053_2016_1649_Fig1_HTML.jpg" />
              </mj-column>
 
              <!-- divider not shown on last TOC Element
              <mj-column width="100%">
-               <mj-divider border-width="1px" border-color="#DCDCDC"/>
+               <mj-divider border-width="1px" border-color="#DCDCDC" padding-bottom="0"/>
              </mj-column> -->
            </mj-section>
 
@@ -281,7 +288,7 @@
     <!--Footer-->
     <mj-section padding="12px 25px">
 
-      <mj-column>
+      <mj-column  width="80%">
         <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
           If you have any questions, please contact the Springer Nature Customer Service
         <br/>
