@@ -78,7 +78,7 @@
        </mj-section>
 
        <!-- Opening and Links -->
-       <mj-section background-color="#FFFFFF">
+       <mj-section background-color="#FFFFFF" padding-bottom="5px">
          <mj-column width="100%">
            <mj-text font-size="26px" line-height="34px" color="#666666" font-family="Georgia, serif">
              New print & eBooks
@@ -86,61 +86,278 @@
          </mj-column>
          <mj-column width="50%" border-right="1px solid #DCDCDC">
            <mj-text font-size="16px" color="#666666" line-height="32px" font-family="Arial, Helvetica, sans-serif">
-             Applied Linguistics<br/>
-             Bilingualism<br/>
-             Chinese<br/>
-             Comparative Linguistics<br/>
-             Computational Linguistics<br/>
-             Corpus Linguistics
+             <a href="#appl_ling" style="text-decoration:none;color:#0176C3;">Applied Linguistics</a><br/>
+             <a href="#biling" style="text-decoration:none;color:#0176C3;">Bilingualism</a><br/>
+             <a href="#chinese" style="text-decoration:none;color:#0176C3;">Chinese</a><br/>
+             <a href="#comparative_ling" style="text-decoration:none;color:#0176C3;">Comparative Linguistics</a><br/>
+             <a href="#comput_ling" style="text-decoration:none;color:#0176C3;">Computational Linguistics</a><br/>
+             <a href="#corp_ling" style="text-decoration:none;color:#0176C3;">Corpus Linguistics</a>
            </mj-text>
          </mj-column>
          <mj-column width="50%">
-           <mj-text font-size="16px" color="#666666" line-height="24px" font-family="Arial, Helvetica, sans-serif">
-             Discourse Analysis<br/>
-             English<br/>
-             Historical Linguistics<br/>
-             Philology<br/>
-             Semiotics
+           <mj-text font-size="16px" color="#666666" line-height="32px" font-family="Arial, Helvetica, sans-serif">
+             <a href="#discourse_analysis" style="text-decoration:none;color:#0176C3;">Discourse Analysis</a><br/>
+             <a href="#english" style="text-decoration:none;color:#0176C3;">English</a><br/>
+             <a href="#historical_ling" style="text-decoration:none;color:#0176C3;">Historical Linguistics</a><br/>
+             <a href="#philosophy" style="text-decoration:none;color:#0176C3;">Philology</a><br/>
+             <a href="#semiotics" style="text-decoration:none;color:#0176C3;">Semiotics</a>
            </mj-text>
          </mj-column>
        </mj-section>
 
        <!--Category Opening -->
-       <mj-section background-color="#FFFFFF">
+       <mj-section background-color="#FFFFFF" padding-bottom="12px">
          <mj-column width="100%">
            <mj-text font-size="22px" line-height="28px" color="#333333" font-family="Georgia, serif">
-             Linguistics <span style="color:#999999;">· Applied Linguistics</span>
+             Linguistics <a name="#appl_ling" style="color:#999999;text-decoration:none;">· Applied Linguistics</a>
           </mj-text>
+         </mj-column>
+         <mj-column width="100%">
+           <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
          </mj-column>
        </mj-section>
 
        <!-- Book List Entry -->
        <mj-section background-color="#FFFFFF" padding="0 0 12px">
          <mj-column width="20%">
-           <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="https://static-content.springer.com/cover/journal/40469/2/1.jpg" width="130px" />
+           <!--Book Cover-->
+           <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-3-319-46866-2.jpg" width="130px" />
           </mj-column>
 
           <mj-column width="80%">
-            <mj-text padding="0 25px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif">
-              Interactional Competences in Institutional Settings
+            <!--Book Title-->
+            <mj-text padding="2px 25px 5px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif">
+              <a href="https://www.qa.sgw.springer.com/gp/book/9783319468662" style="text-decoration:none;color:#0176C3;">Interactional Competences in Institutional Settings</a>
             </mj-text>
-            <!--mj-text padding="0 25px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif" -->
+            <!--Book Subtitle / Issue Information-->
+            <mj-text padding="0 25px 10px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+              From School to the Workplace
+            </mj-text>
+            <!--Book Authors/Editors-->
             <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
-              <span style="font-weight:bold;">Müller</span>, Michael<br/>
-              Editor/s: Author/s: Hitchcock, David<br/>
-              <span style="font-weight:bold;">ISBN</span> 978-3-319-01079-3
+              Editor/s: <strong>Pekarek Doehler</strong>, S.,
+              <strong>Bangerter</strong>, A.,
+              <strong>de Weck</strong>, G.,
+              <strong>Filliettaz</strong>, L.,
+              <strong>González-Martínez</strong>, E.,
+              <strong>Petitjean</strong>, C. (Eds.)
             </mj-text>
-            <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+            <!--Price Information-->
+            <mj-text padding="5px 25px 0" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
               From 69.99 USD
             </mj-text>
-            <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left">
+            <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left" href="https://www.qa.sgw.springer.com/gp/book/9783319468662">
               View details
             </mj-button>
           </mj-column>
           <mj-column width="100%">
-            <mj-divider padding-top="0" border-width="1px" border-color="#DCDCDC"/>
+            <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
           </mj-column>
         </mj-section>
+
+        <!-- Book List Entry -->
+        <mj-section background-color="#FFFFFF" padding="2px 0 12px">
+          <mj-column width="20%">
+            <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-3-319-55394-8.jpg" width="130px" />
+           </mj-column>
+
+           <mj-column width="80%">
+             <mj-text padding="0 25px 5px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif">
+               <a href="https://www.qa.sgw.springer.com/gp/book/9783319553924#otherversion=9783319553948" style="text-decoration:none;color:#0176C3;">A Practical Guide to Sentiment Analysis</a>
+             </mj-text>
+             <!--Book Subtitle / Issue Information-->
+             <mj-text padding="0 25px 10px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+               Book Series: Socio-Affective Computing, Vol. 5
+             </mj-text>
+             <!--Book Authors/Editors-->
+             <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+               Editor/s:
+                <strong>Cambria</strong>, E.,
+                <strong>Das</strong>, D.,
+                <strong>Bandyopadhyay</strong>, S.,
+                <strong>Feraco</strong>, A. (Eds.)
+             </mj-text>
+             <!--Price Information-->
+             <mj-text padding="5px 25px 0" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+               From 149.00 USD
+             </mj-text>
+             <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left" href="https://www.qa.sgw.springer.com/gp/book/9783319553924#otherversion=9783319553948">
+               View details
+             </mj-button>
+           </mj-column>
+           <mj-column width="100%">
+             <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
+           </mj-column>
+         </mj-section>
+
+         <!-- Book List Entry -->
+         <mj-section background-color="#FFFFFF" padding="0 0 12px">
+           <mj-column width="20%">
+             <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-3-319-55154-8.jpg" width="130px" />
+            </mj-column>
+
+            <mj-column width="80%">
+              <mj-text padding="2px 25px 5px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif">
+                <a href="https://www.qa.sgw.springer.com/gp/book/9783319551548" style="text-decoration:none;color:#0176C3;">At the Crossroads: Challenges of Foreign Language Learning</a>
+              </mj-text>
+              <!--Book Subtitle / Issue Information-->
+              <mj-text padding="0 25px 10px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                Book Series: Second Language Learning and Teaching
+              </mj-text>
+              <!--Book Authors/Editors-->
+              <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                Editor/s: <strong>Piechurska-Kuciel</strong>, Ewa, <strong>Szymańska-Czaplak</strong>, Elżbieta, <strong>Szyszka</strong>, Magdalena (Eds.)
+              </mj-text>
+              <!--Price Information-->
+              <mj-text padding="5px 25px 0" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+                From 79.99 USD
+              </mj-text>
+              <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left" href="https://www.qa.sgw.springer.com/gp/book/9783319551548">
+                View details
+              </mj-button>
+            </mj-column>
+            <mj-column width="100%">
+              <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
+            </mj-column>
+          </mj-section>
+
+
+          <!-- Book List Entry -->
+          <mj-section background-color="#FFFFFF" padding="0 0 12px">
+            <mj-column width="20%">
+              <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-1-137-60279-4.jpg" width="130px" />
+             </mj-column>
+
+             <mj-column width="80%">
+               <mj-text padding="2px 25px 5px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif">
+                 <a href="https://www.qa.sgw.springer.com/gp/book/9781137602794" style="text-decoration:none;color:#0176C3;">Motivational Regulation in Foreign Language Learning</a>
+               </mj-text>
+
+               <!--Book Authors/Editors-->
+               <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                 Author/s: <strong>Li</strong>, Kun
+               </mj-text>
+               <!--Price Information-->
+               <mj-text padding="5px 25px 0" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+                 From 49.99 USD
+               </mj-text>
+               <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left" href="https://www.qa.sgw.springer.com/gp/book/9781137602794">
+                 View details
+               </mj-button>
+             </mj-column>
+             <mj-column width="100%">
+               <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
+             </mj-column>
+           </mj-section>
+
+
+          <!--Category Opening -->
+          <mj-section background-color="#FFFFFF" padding-bottom="12px">
+            <mj-column width="100%">
+              <mj-text font-size="22px" line-height="28px" color="#333333" font-family="Georgia, serif">
+                Linguistics <a name="#discourse_analysis" style="color:#999999;text-decoration:none;">· Discourse Analysis</a>
+             </mj-text>
+            </mj-column>
+            <mj-column width="100%">
+              <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
+            </mj-column>
+          </mj-section>
+
+          <!-- Book List Entry -->
+          <mj-section background-color="#FFFFFF" padding="0 0 12px">
+            <mj-column width="20%">
+              <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-0-230-25270-7.jpg" width="130px" />
+             </mj-column>
+
+             <mj-column width="80%">
+               <mj-text padding="2px 25px 5px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif">
+                 <a href="https://www.qa.sgw.springer.com/gp/book/9781137602794" style="text-decoration:none;color:#0176C3;">Exploring Discourse in Context and in Action</a>
+               </mj-text>
+               <!--Book Subtitle / Issue Information-->
+               <mj-text padding="0 25px 10px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                 Book Series: Research and Practice in Applied Linguistics
+               </mj-text>
+               <!--Book Authors/Editors-->
+               <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                 Author/s:
+                 <strong>Candlin</strong>, Christopher N.,
+                 <strong>Crichton</strong>, Jonathan,
+                 <strong>Moore</strong>, Stephen H.
+               </mj-text>
+               <!--Price Information-->
+               <mj-text padding="5px 25px 0" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+                 From 24.99 USD
+               </mj-text>
+               <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left" href="https://www.qa.sgw.springer.com/gp/book/9781137602794">
+                 View details
+               </mj-button>
+             </mj-column>
+             <mj-column width="100%">
+               <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
+             </mj-column>
+           </mj-section>
+
+           <!-- Book List Entry -->
+           <mj-section background-color="#FFFFFF" padding="0 0 12px">
+             <mj-column width="20%">
+               <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-1-137-48735-3.jpg" width="130px" />
+              </mj-column>
+
+              <mj-column width="80%">
+                <mj-text padding="2px 25px 5px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif">
+                  <a href="https://www.qa.sgw.springer.com/gp/book/9781137487353" style="text-decoration:none;color:#0176C3;">The Discourse of Peer Review</a>
+                </mj-text>
+                <!--Book Subtitle / Issue Information-->
+                <mj-text padding="0 25px 10px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                  Reviewing Submissions to Academic Journals
+                </mj-text>
+                <!--Book Authors/Editors-->
+                <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                  Author/s: <strong>Paltridge</strong>, Brian
+                </mj-text>
+                <!--Price Information-->
+                <mj-text padding="5px 25px 0" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+                  From 99.99 USD
+                </mj-text>
+                <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left" href="https://www.qa.sgw.springer.com/gp/book/9781137487353">
+                  View details
+                </mj-button>
+              </mj-column>
+              <mj-column width="100%">
+                <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
+              </mj-column>
+            </mj-section>
+
+            <!-- Book List Entry -->
+            <mj-section background-color="#FFFFFF" padding="0 0 12px">
+              <mj-column width="20%">
+                <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-1-137-47028-7.jpg" width="130px" />
+               </mj-column>
+
+               <mj-column width="80%">
+                 <mj-text padding="2px 25px 5px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif">
+                   <a href="https://www.qa.sgw.springer.com/gp/book/9781137470270#otherversion=9781137470287" style="text-decoration:none;color:#0176C3;">The Language of Suspense in Crime Fiction</a>
+                 </mj-text>
+                 <!--Book Subtitle / Issue Information-->
+                 <mj-text padding="0 25px 10px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                   A Linguistic Stylistic Approach
+                 </mj-text>
+                 <!--Book Authors/Editors-->
+                 <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                   Author/s: <strong>Dutta-Flanders</strong>, Reshmi
+                 </mj-text>
+                 <!--Price Information-->
+                 <mj-text padding="5px 25px 0" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+                   From 69.99 USD
+                 </mj-text>
+                 <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left" href="https://www.qa.sgw.springer.com/gp/book/9781137470270#otherversion=9781137470287">
+                   View details
+                 </mj-button>
+               </mj-column>
+               <mj-column width="100%">
+                 <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
+               </mj-column>
+             </mj-section>
 
         <!-- News Green CTA -->
          <mj-section padding="0 25px" background-color="#FFFFFF">
@@ -157,6 +374,10 @@
              </mj-button>
            </mj-column>
          </mj-section>
+
+
+
+
 
          <!-- News Grey CTA -->
          <mj-section background-color="#FFFFFF" padding="25px 0">
