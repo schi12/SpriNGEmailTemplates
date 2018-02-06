@@ -21,9 +21,6 @@
       <!-- Header Toppic and Date -->
       <mj-section padding="0" background-color="#FFFFFF">
         <mj-column width="100%">
-          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
-        </mj-column>
-        <mj-column width="100%">
           <mj-table>
              <tr>
                <td style="width: 80%;">
@@ -84,6 +81,8 @@
              New print & eBooks
           </mj-text>
          </mj-column>
+       </mj-section>
+       <mj-section background-color="#FFFFFF" padding="0">
          <mj-column width="50%" border-right="1px solid #DCDCDC">
            <mj-text font-size="16px" color="#666666" line-height="32px" font-family="Arial, Helvetica, sans-serif">
              <a href="#appl_ling" style="text-decoration:none;color:#0176C3;">Applied Linguistics</a><br/>
@@ -112,13 +111,15 @@
              Linguistics <a name="#appl_ling" style="color:#999999;text-decoration:none;">· Applied Linguistics</a>
           </mj-text>
          </mj-column>
+       </mj-section>
+       <mj-section background-color="#FFFFFF" padding="0">
          <mj-column width="100%">
            <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
          </mj-column>
        </mj-section>
 
        <!-- Book List Entry -->
-       <mj-section background-color="#FFFFFF" padding="0 0 12px">
+       <mj-section background-color="#FFFFFF" padding="0">
          <mj-column width="20%">
            <!--Book Cover-->
            <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-3-319-46866-2.jpg" width="130px" />
@@ -150,13 +151,15 @@
               View details
             </mj-button>
           </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="0">
           <mj-column width="100%">
             <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
           </mj-column>
         </mj-section>
 
         <!-- Book List Entry -->
-        <mj-section background-color="#FFFFFF" padding="2px 0 12px">
+        <mj-section background-color="#FFFFFF" padding="0">
           <mj-column width="20%">
             <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-3-319-55394-8.jpg" width="130px" />
            </mj-column>
@@ -185,13 +188,15 @@
                View details
              </mj-button>
            </mj-column>
+         </mj-section>
+         <mj-section background-color="#FFFFFF" padding="0">
            <mj-column width="100%">
              <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
            </mj-column>
          </mj-section>
 
          <!-- Book List Entry -->
-         <mj-section background-color="#FFFFFF" padding="0 0 12px">
+         <mj-section background-color="#FFFFFF" padding="0">
            <mj-column width="20%">
              <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-3-319-55154-8.jpg" width="130px" />
             </mj-column>
@@ -216,6 +221,8 @@
                 View details
               </mj-button>
             </mj-column>
+          </mj-section>
+          <mj-section background-color="#FFFFFF" padding="0">
             <mj-column width="100%">
               <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
             </mj-column>
@@ -223,7 +230,7 @@
 
 
           <!-- Book List Entry -->
-          <mj-section background-color="#FFFFFF" padding="0 0 12px">
+          <mj-section background-color="#FFFFFF" padding="0">
             <mj-column width="20%">
               <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-1-137-60279-4.jpg" width="130px" />
              </mj-column>
@@ -245,6 +252,8 @@
                  View details
                </mj-button>
              </mj-column>
+           </mj-section>
+           <mj-section background-color="#FFFFFF" padding="0">
              <mj-column width="100%">
                <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
              </mj-column>
@@ -264,7 +273,7 @@
           </mj-section>
 
           <!-- Book List Entry -->
-          <mj-section background-color="#FFFFFF" padding="0 0 12px">
+          <mj-section background-color="#FFFFFF" padding="0">
             <mj-column width="20%">
               <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-0-230-25270-7.jpg" width="130px" />
              </mj-column>
@@ -292,13 +301,15 @@
                  View details
                </mj-button>
              </mj-column>
+           </mj-section>
+           <mj-section background-color="#FFFFFF" padding="0">
              <mj-column width="100%">
                <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
              </mj-column>
            </mj-section>
 
            <!-- Book List Entry -->
-           <mj-section background-color="#FFFFFF" padding="0 0 12px">
+           <mj-section background-color="#FFFFFF" padding="0">
              <mj-column width="20%">
                <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-1-137-48735-3.jpg" width="130px" />
               </mj-column>
@@ -323,13 +334,15 @@
                   View details
                 </mj-button>
               </mj-column>
+            </mj-section>
+            <mj-section background-color="#FFFFFF" padding="0">
               <mj-column width="100%">
                 <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
               </mj-column>
             </mj-section>
 
             <!-- Book List Entry -->
-            <mj-section background-color="#FFFFFF" padding="0 0 12px">
+            <mj-section background-color="#FFFFFF" padding="0">
               <mj-column width="20%">
                 <mj-image align="left" padding="0 0 15px 25px" padding-top="0" src="http://images.springer.com/sgw/books/small/978-1-137-47028-7.jpg" width="130px" />
                </mj-column>
@@ -354,13 +367,15 @@
                    View details
                  </mj-button>
                </mj-column>
+             </mj-section>
+             <mj-section background-color="#FFFFFF" padding="0">
                <mj-column width="100%">
                  <mj-divider padding-top="5px" border-width="1px" border-color="#DCDCDC"/>
                </mj-column>
              </mj-section>
 
         <!-- News Green CTA -->
-         <mj-section padding="0 25px" background-color="#FFFFFF">
+         <mj-section padding="25px 25px 0" background-color="#FFFFFF">
            <mj-column width="100%" border-left="4px solid #71AB0B" 	background-color="rgba(113,171,11,0.1)">
              <mj-text font-size="18px" color="#333333" line-height="25px" font-weight="normal" padding-bottom="0px" padding-top="20px" font-family="Georgia, serif">
                Important news!<br/>
