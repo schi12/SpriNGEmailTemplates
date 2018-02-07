@@ -84,7 +84,7 @@
        </mj-section>
        <mj-section background-color="#FFFFFF" padding="0">
          <mj-column width="50%" border-right="1px solid #DCDCDC">
-           <mj-text font-size="16px" color="#666666" line-height="32px" font-family="Arial, Helvetica, sans-serif">
+           <mj-text padding="0 25px" font-size="16px" color="#666666" line-height="32px" font-family="Arial, Helvetica, sans-serif">
              <a href="#appl_ling" style="text-decoration:none;color:#0176C3;">Applied Linguistics</a><br/>
              <a href="#biling" style="text-decoration:none;color:#0176C3;">Bilingualism</a><br/>
              <a href="#chinese" style="text-decoration:none;color:#0176C3;">Chinese</a><br/>
@@ -94,7 +94,7 @@
            </mj-text>
          </mj-column>
          <mj-column width="50%">
-           <mj-text font-size="16px" color="#666666" line-height="32px" font-family="Arial, Helvetica, sans-serif">
+           <mj-text padding="0 25px" font-size="16px" color="#666666" line-height="32px" font-family="Arial, Helvetica, sans-serif">
              <a href="#discourse_analysis" style="text-decoration:none;color:#0176C3;">Discourse Analysis</a><br/>
              <a href="#english" style="text-decoration:none;color:#0176C3;">English</a><br/>
              <a href="#historical_ling" style="text-decoration:none;color:#0176C3;">Historical Linguistics</a><br/>
