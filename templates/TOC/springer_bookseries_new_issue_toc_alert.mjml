@@ -17,10 +17,7 @@
 
 
       <!-- Header Toppic and Date -->
-      <mj-section padding="0" background-color="#FFFFFF" border="1px solid #DCDCDC" border-bottom="none">
-        <mj-column width="100%">
-          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#DBDBDB" />
-        </mj-column>
+      <mj-section padding="5px 0" background-color="#FFFFFF" border="1px solid #DCDCDC" border-bottom="none">
         <mj-column width="100%">
           <mj-table>
              <tr>
@@ -29,7 +26,7 @@
                    New Issue Alert
                  </span>
                </td>
-               <td style="text-align:right; vertical-align:bottom; width: 33%;">
+               <td style="text-align:right; vertical-align:bottom; width: 34%;">
                  <span style="font-family:Arial, Helvetica, sans-serif;line-height:21px;font-size:14px;color:#999999">
                    Mai 19, 2017
                  </span>
@@ -69,7 +66,7 @@
              <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif" >
                 Discover the benefits of choosing Springer as your book publisher through author feedback in this short presentation.
              </mj-text>
-             <mj-button padding-bottom="0" font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left" href="https://www.springer.com/authors">
+             <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="5px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left" href="https://www.springer.com/authors">
                More
              </mj-button>
            </mj-column>
@@ -319,7 +316,7 @@
                 </mj-text>
               </mj-column>
             </mj-section>
-            <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+            <mj-section background-color="#FFFFFF" padding="0 0 5px" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
               <mj-column width="15%">
                 <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
                   Pages:
@@ -338,49 +335,47 @@
              </mj-section>
 
 
-             <!-- TOC Listing -->
-             <mj-section background-color="#FFFFFF" padding="0 0 25px" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
-               <mj-column width="100%">
-                 <mj-text padding="5px 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
-                   A Global Perspective
-                 </mj-text>
-                 <mj-text padding="0 25px 5px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
-                   Ahmad H. Juma’h , Doris Morales-Rodriguez , Antonio Lloréns-Rivera
-                 </mj-text>
-               </mj-column>
-             </mj-section>
-             <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
-               <mj-column width="15%">
-                 <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
-                   DOI:
-                 </mj-text>
-               </mj-column>
-               <mj-column width="85%">
-                 <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
-                   10.1007/978-3-319-17178-4_1
-                 </mj-text>
-               </mj-column>
-             </mj-section>
-             <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
-               <mj-column width="15%">
-                 <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
-                   Pages:
-                 </mj-text>
-               </mj-column>
-               <mj-column width="85%">
-                 <mj-text padding="0 25px 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
-                   <!-- added padding-bottom for last element -->
-                   49 - 55
-                 </mj-text>
-               </mj-column>
-             </mj-section>
-             <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
-
-               <!-- divider not shown on last TOC Element
-               <mj-column width="100%">
-                 <mj-divider border-width="1px" border-color="#DCDCDC"/>
-               </mj-column> -->
+              <!-- TOC Listing -->
+              <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+                <mj-column width="100%">
+                  <mj-text padding="5px 25px" font-size="18px" line-height="25px" color="#0176C3" font-family="Georgia, serif">
+                    A Global Perspective
+                  </mj-text>
+                  <mj-text padding="0 25px 5px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                    Ahmad H. Juma’h , Doris Morales-Rodriguez , Antonio Lloréns-Rivera
+                  </mj-text>
+                </mj-column>
               </mj-section>
+              <mj-section background-color="#FFFFFF" padding="0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+                <mj-column width="15%">
+                  <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+                    DOI:
+                  </mj-text>
+                </mj-column>
+                <mj-column width="85%">
+                  <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                    10.1007/978-3-319-17178-4_1
+                  </mj-text>
+                </mj-column>
+              </mj-section>
+              <mj-section background-color="#FFFFFF" padding="0 0 5px" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+                <mj-column width="15%">
+                  <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+                    Pages:
+                  </mj-text>
+                </mj-column>
+                <mj-column width="85%">
+                  <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+                    49 - 55
+                  </mj-text>
+                </mj-column>
+              </mj-section>
+              <mj-section background-color="#FFFFFF" padding="22px 0" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
+                 <mj-column width="100%">
+                   <!-- divider not shown on last TOC Element
+                    mj-divider border-width="1px" border-color="#DCDCDC"/ -->
+                 </mj-column>
+               </mj-section>
 
 
               <!--Footer-->
