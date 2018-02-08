@@ -1,0 +1,196 @@
+<mjml>
+  <mj-head>
+
+   </mj-head>
+  <mj-body>
+    <mj-container width="640px" background-color="#FFFFFF">
+
+    <mj-wrapper border="1px solid #DBDBDB" padding-bottom="0px" padding-top="0px">
+
+      <!-- Header1 -->
+      <mj-section padding-bottom="0px" padding-top="0px">
+
+
+        <mj-column width="100%" background-color="#EEEEEE">
+          <mj-image padding-top="20px" padding-bottom="20px" padding-left="30px" align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png"  width="125px" padding-top="0" padding-bottom="0" />
+
+        </mj-column>
+
+      </mj-section>
+
+
+
+      <!-- Intro -->
+      <mj-section background-color="white" padding-bottom="0px" padding-top="30px" padding-left="30px" padding-right="30px">
+
+        <mj-column width="100%">
+          <mj-text align="left" padding-left="0px" font-size="24px" color="#333333" font-weight="normal" line-height="22px" font-family="Georgia,Helvetica Neue,​Helvetica,Arial,​sans-serif">
+             Welcome,
+          </mj-text>
+          <mj-text align="left" padding-left="0px" font-size="14px" line-height="22px" color="#555555" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+             You successfully subscribed to the Springer Alerts. You will stay up to date on
+             daily deals, discount promotions, events and new releases in the following categories:
+          </mj-text>
+
+        </mj-column>
+
+      </mj-section>
+
+      <!-- Subscription List -->
+      <mj-section background-color="white" padding-left="30px" padding-right="30px" padding-top="0px">
+
+        <mj-column width="50%">
+           <mj-text align="left" font-size="14px" color="#555555" line-height="32px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" padding="0px" >
+             <ul>
+             <li>
+              Apple & iOS
+             </li>
+             <li>
+              Hardware & Maker
+             </li>
+             <li>
+              Big Data & Analysis
+             </li>
+             <li>
+              Enterprise Software
+             </li>
+             <li>
+              Cloud Computing
+             </li>
+             </ul>
+          </mj-text>
+
+
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text align="left" font-size="14px" color="#555555" line-height="32px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" padding="0px" >
+             <ul>
+             <li>
+              Apple & iOS
+             </li>
+             <li>
+              Hardware & Maker
+             </li>
+             <li>
+              Big Data & Analysis
+             </li>
+             <li>
+              Enterprise Software
+             </li>
+             <li>
+              Cloud Computing
+             </li>
+             </ul>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+
+      <!-- Account Information -->
+
+      <mj-section background-color="white"  padding-left="30px" padding-right="30px" padding-top="0px" padding-bottom="0px">
+        <mj-column width="100%" border-left="4px solid #71AB0B">
+          <mj-text font-size="20px" color="#333333" line-height="22px" font-weight="normal" padding-bottom="0px" padding-left="30px" padding-top="20px" font-family="Georgia,Helvetica Neue,Arial">
+            MySpringer account information
+          </mj-text>
+          <mj-text font-size="14px" color="#555555" line-height="22px" padding-left="30px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+            You'll receive emails in html format to the following mail address:
+            jane.doe@blindspot.com
+          </mj-text>
+          <mj-button font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" line-height="17px" padding-left="30px" border="1px solid #BCBCBC" padding-bottom="20px" font-size="14px" background-color="#fff"  border-radius="3px" color="#333333" align="left">
+            Activate your account now
+          </mj-button>
+        </mj-column>
+
+      </mj-section>
+
+
+      <!-- Coupon Springer -->
+
+      <mj-section background-color="white" padding-left="30px" padding-right="30px" padding-top="30px" padding-bottom="30px">
+        <mj-column width="100%" background-color="#FFCFA5" border-left="4px solid #FF7527;">
+          <mj-text font-size="20px" color="#333333" line-height="22px" font-weight="normal" padding-left="30px" padding-top="30px" font-family="Georgia,Helvetica Neue,Arial">
+            Your $5 Gift Card for The Springer Shop
+          </mj-text>
+          <mj-text font-size="14px" color="#555555" line-height="22px" padding-left="30px" padding-bottom="0px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+            Discover the vast selection of over 250,000 scientific titles in our Springer
+                Shop and save $5 on your next eBook purchase until the end of the year.
+          </mj-text>
+          <mj-button font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" line-height="17px" padding-left="30px" padding-bottom="20px" font-size="14px" background-color="#FF7527"  border-radius="3px" color="#FFFFFF" align="left">
+            Redeem $5 Gift Card now
+          </mj-button>
+        </mj-column>
+
+
+      </mj-section>
+
+     </mj-wrapper>
+
+
+      <!--Footer Springer-->
+      <mj-section padding-right="30px" padding-left="30px" padding-bottom="0" padding-top="30px">
+
+        <mj-column width="80%">
+          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0px" padding-top="0px" font-size="12px" line-height="18px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+            If you have any questions, please contact the Springer Nature Customer Service
+        <br/>
+        <a style="text-decoration:none;" href="mailto:customerservice@springer.com">
+                <font color="#0176c3" face="Helvetica Neue,​Helvetica,Arial,​sans-serif" style="font-size:12px;line-height:14px">
+                customerservice@springer.com
+                </font>
+              </a> </mj-text>
+              <mj-text  align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px"  font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+          Springer Nature,
+                Tiergartenstr. 15-17,
+                69121 Heidelberg,
+                Germany
+                <br/>
+                Phone: +49 6221 345 0, Fax: +49 6221 345 4229
+          </mj-text>
+          <mj-text  align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px"  font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+              Springer Nature, 233 Spring Street, New York, NY 10013, USA
+              <br/>
+              Phone: +1 212 460 1500 or 800-SPRINGER
+              <br/>
+              (Weekdays 8.30am - 5.30pm ET) Fax: +1 201 348 4505
+          </mj-text>
+          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="5px" padding-top="10" font-size="12px" line-height="18px"  font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
+            &#169; 2017 Springer International Publishing AG. Part of Springer Nature
+
+          </mj-text>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-social
+            mode="horizontal"
+            text-mode="true"
+            padding="0px"
+            icon-size="35px"
+            inner-padding="0px"
+            display="mytwitterc myfacebookc"
+            myfacebookc-icon-color="none"
+            myfacebookc-icon="https://s3.eu-central-1.amazonaws.com/springpics/si_fb_sp.png"
+            myfacebookc-href="https://www.facebook.com/objectway/"
+            myfacebookc-content="&nbsp;"
+            mytwitterc-icon-color="none"
+            mytwitterc-icon="https://s3.eu-central-1.amazonaws.com/springpics/si_twi_sp.png"
+            mytwitterc-href="https://www.youtube.com/user/objectway"
+            mytwitterc-content="&nbsp;" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text>
+            <br/>
+            <br/>
+            <br/>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+
+
+
+
+    </mj-container>
+  </mj-body>
+</mjml>
