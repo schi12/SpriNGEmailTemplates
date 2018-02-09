@@ -27,7 +27,7 @@
         <!-- Header2 -->
         <mj-section padding-bottom="0px">
           <mj-column width="20%">
-            <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/palgrave_logo.png" width="70px" padding="0" padding-top="0" padding-left="25px" padding-bottom="20"/>
+            <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/palgrave_logo.png" width="95px" padding="0" padding-top="0" padding-left="25px" padding-bottom="20"/>
           </mj-column>
           <mj-column width="80%">
             &nbsp;
@@ -43,7 +43,7 @@
   <mj-wrapper border-top="4px solid #DC506C" padding-bottom="0px" padding-top="0px">
 
       <!-- Header Toppic and Date -->
-      <mj-section padding="0" background-color="#FFFFFF">
+      <mj-section padding="5px 0" background-color="#FFFFFF">
         <mj-column width="100%">
           <mj-table>
              <tr>
@@ -79,14 +79,14 @@
       <!-- Opinion Survey CTA -->
        <mj-section padding="0 25px" background-color="#FFFFFF">
          <mj-column width="100%" 	background-color="#EBEBEB">
-           <mj-text font-size="20px" color="#333333" line-height="25px" font-weight="bold" padding-bottom="0px" padding-top="20px" font-family="Calibri, Helvetica, Arial, sans-serif">
+           <mj-text font-size="20px" color="#333333" line-height="25px" font-weight="bold" padding-bottom="0px" padding-top="25px" font-family="Calibri, Helvetica, Arial, sans-serif">
              Your opinion
            </mj-text>
            <mj-text font-size="14px" color="#555555" line-height="22px" font-family="Arial, Helvetica, sans-serif">
              We kindly invite you to take part in a 10 minute survey.<br/>
              Your feedback would be highly appreciated.
            </mj-text>
-           <mj-button font-family="Calibri, Helvetica, Arial, sans-serif" line-height="21px" padding-bottom="20px" font-size="14px" background-color="#008CA4"  border-radius="0px" color="#FFFFFF" align="left">
+           <mj-button font-family="Calibri, Helvetica, Arial, sans-serif" line-height="21px" padding-bottom="25px" font-size="14px" background-color="#008CA4"  border-radius="0px" color="#FFFFFF" align="left">
              Click here to tell us what you think
            </mj-button>
          </mj-column>
@@ -96,7 +96,7 @@
        <!-- Authors Opening -->
        <mj-section background-color="#FFFFFF">
          <mj-column width="100%">
-           <mj-text font-size="16px" line-height="24px" color="#555555" font-family="Verdana, Arial, sans-serif">
+           <mj-text font-size="14px" line-height="22px" color="#555555" font-family="Verdana, Arial, sans-serif">
              Your recently published paper:
           </mj-text>
            <mj-divider padding-top="7px" border-width="1px" border-color="#DCDCDC"/>
@@ -116,7 +116,7 @@
             <mj-text padding="0 25px" font-size="13px" line-height="21px" color="#555555" font-family="Verdana, Arial, sans-serif">
               Effects of GDF5 overexpression on embryonic rat dopaminergic neurones in vitro and in vivo
             </mj-text>
-            <mj-text padding="0 25px" font-size="13px" line-height="21px" color="#555555" font-family="Verdana, Arial, sans-serif" font-weight="bold">
+            <mj-text padding="10px 25px 0" font-size="13px" line-height="21px" color="#555555" font-family="Verdana, Arial, sans-serif" font-weight="bold">
               Journal
             </mj-text>
             <mj-text padding="0 25px" font-size="13px" line-height="21px" color="#555555" font-family="Verdana, Arial, sans-serif">
@@ -136,9 +136,11 @@
              <mj-column width="100%">
                <mj-text padding="0 25px 25px" font-size="14px" line-height="23px" color="#555555" font-family="Verdana, Arial, sans-serif">
                  We really do appreciate your feedback, and thank you in advance for participating in the survey.
-                 <br/><br/>
+               </mj-text>
+               <mj-text padding="0 25px 35px" font-size="14px" line-height="23px" color="#555555" font-family="Verdana, Arial, sans-serif">
                  If you have any questions about the survey or experience any issues please get in touch with Springer Nature’s Audience Research Team.
-                 <br/><br/><br/>
+               </mj-text>
+               <mj-text padding="0 25px 25px" font-size="14px" line-height="23px" color="#555555" font-family="Verdana, Arial, sans-serif">
                  Thank you and best regards,<br/>
                  Heinz Weinheimer<br/>
                  Managing Director Springer Research Group
