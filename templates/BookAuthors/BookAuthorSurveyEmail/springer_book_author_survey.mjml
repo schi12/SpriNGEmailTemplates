@@ -19,7 +19,7 @@
     <mj-wrapper border="1px solid #DCDCDC" padding-bottom="0px" padding-top="0px">
 
       <!-- Header Toppic and Date -->
-      <mj-section padding="0" background-color="#FFFFFF">
+      <mj-section padding="5px 0" background-color="#FFFFFF">
         <mj-column width="100%">
           <mj-table>
              <tr>
@@ -56,14 +56,14 @@
       <!-- Opinion Survey CTA -->
        <mj-section padding="0 25px" background-color="#FFFFFF">
          <mj-column width="100%" border-left="4px solid #0176C3" 	background-color="rgba(1,118,195,0.1)">
-           <mj-text font-size="18px" color="#333333" line-height="25px" font-weight="normal" padding-bottom="0px" padding-top="20px" font-family="Georgia, serif">
+           <mj-text font-size="18px" color="#333333" line-height="25px" font-weight="normal" padding-bottom="0px" padding-top="25px" font-family="Georgia, serif">
              Your opinion
            </mj-text>
            <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif">
              We kindly invite you to take part in a 10 minute survey.<br/>
              Your feedback would be highly appreciated.
            </mj-text>
-           <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="20px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left">
+           <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" padding-bottom="25px" font-size="14px" background-color="#0176C3"  border-radius="3px" color="#FFFFFF" align="left">
              Please click here to start with the survey.
            </mj-button>
          </mj-column>
@@ -93,7 +93,7 @@
             <mj-text padding="0 25px" font-size="18px" line-height="25px" color="#666666" font-family="Georgia, serif">
               Theoretical study of low-energy electron scattering with GeH 2
             </mj-text>
-            <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
+            <mj-text padding="10px 25px 0" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif"  font-weight="bold">
               ISBN
             </mj-text>
             <mj-text padding="0 25px" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
