@@ -76,7 +76,7 @@
        <!-- TOC Opening -->
        <mj-section  padding="0" background-color="#FFFFFF" border="1px solid #DCDCDC" border-top="none" border-bottom="none">
          <mj-column>
-           <mj-text font-size="26px" line-height="34px" color="#666666" font-family="Georgia, serif">
+           <mj-text font-size="26px" line-height="34px" color="#333333" font-family="Georgia, serif">
              Table of Contents
           </mj-text>
            <mj-divider padding-top="0" border-width="1px" border-color="#DCDCDC"/>
