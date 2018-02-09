@@ -27,7 +27,7 @@
         <!-- Header2 -->
         <mj-section padding-bottom="0px">
           <mj-column width="20%">
-            <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/palgrave_logo.png" width="70px" padding="0" padding-top="0" padding-left="25px" padding-bottom="20"/>
+            <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/palgrave_logo.png" width="95px" padding="0" padding-top="0" padding-left="25px" padding-bottom="20"/>
           </mj-column>
           <mj-column width="80%">
             &nbsp;
@@ -65,7 +65,7 @@
       -->
 
       <!-- Intro -->
-      <mj-section padding="25px 25px 0" background-color="#FFFFFF">
+      <mj-section padding="45px 25px 0" background-color="#FFFFFF">
         <mj-column width="100%">
           <mj-text align="left" padding="0" font-size="28px" line-height="34px" font-weight="600" color="#2B2B2B" font-family="Calibri, Helvetica, Arial, sans-serif">
              Welcome,
@@ -77,7 +77,7 @@
       </mj-section>
 
       <!-- Subscription List -->
-      <mj-section background-color="#FFFFFF" padding="12px 0">
+      <mj-section background-color="#FFFFFF" padding="12px 0 25px">
 
         <mj-column width="50%">
            <mj-text align="left" padding="0" font-size="14px" line-height="23px" color="#555555" font-weight="400" font-family="Verdana, Arial, sans-serif">
@@ -129,14 +129,14 @@
       <!-- Your Account CTA -->
        <mj-section padding="12px 25px 25px" background-color="#FFFFFF">
          <mj-column width="100%" 	background-color="#EBEBEB">
-           <mj-text font-size="20px" color="#333333" line-height="25px" font-weight="bold" padding-bottom="0px" padding-top="20px" font-family="Calibri, Helvetica, Arial, sans-serif">
+           <mj-text font-size="20px" color="#333333" line-height="25px" font-weight="bold" padding-bottom="0px" padding-top="25px" font-family="Calibri, Helvetica, Arial, sans-serif">
              Your account information
            </mj-text>
            <mj-text font-size="14px" color="#555555" line-height="22px" font-family="Arial, Helvetica, sans-serif">
              You'll receive emails in html format to the following mail address: <br/>
              jane.doe@blindspot.com
            </mj-text>
-           <mj-button font-family="Calibri, Helvetica, Arial, sans-serif" line-height="21px" padding-bottom="20px" font-size="14px" background-color="#008CA4"  border-radius="0px" color="#FFFFFF" align="left">
+           <mj-button font-family="Calibri, Helvetica, Arial, sans-serif" line-height="21px" padding-bottom="25px" font-size="14px" background-color="#008CA4"  border-radius="0px" color="#FFFFFF" align="left">
              Activate your account now
            </mj-button>
          </mj-column>
@@ -148,14 +148,14 @@
        <!-- Your Account CTA -->
         <mj-section padding="0px 25px 25px" background-color="#FFFFFF">
           <mj-column width="100%" 	background-color="#DC506C">
-            <mj-text font-size="20px" color="#FFFFFF" line-height="25px" font-weight="bold" padding-bottom="0px" padding-top="20px" font-family="Calibri, Helvetica, Arial, sans-serif">
+            <mj-text font-size="20px" color="#FFFFFF" line-height="25px" font-weight="bold" padding-bottom="0px" padding-top="25px" font-family="Calibri, Helvetica, Arial, sans-serif">
               Your account information
             </mj-text>
             <mj-text font-size="14px" color="#FFFFFF" line-height="22px" font-family="Arial, Helvetica, sans-serif">
               You'll receive emails in html format to the following mail address: <br/>
               jane.doe@blindspot.com
             </mj-text>
-            <mj-button font-family="Calibri, Helvetica, Arial, sans-serif" line-height="21px" padding-bottom="20px" font-size="14px" background-color="#FFFFFF"  border-radius="0px" color="#008CA4" align="left">
+            <mj-button font-family="Calibri, Helvetica, Arial, sans-serif" line-height="21px" padding-bottom="25px" font-size="14px" background-color="#FFFFFF"  border-radius="0px" color="#008CA4" align="left">
               Activate your account now
             </mj-button>
           </mj-column>
