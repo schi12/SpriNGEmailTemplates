@@ -384,9 +384,11 @@
                 <mj-column width="80%">
                   <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
                     This e-mail has been sent to <%user.Email%>
-                    <br/><br/>
+                  </mj-text>
+                  <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
                     You are receiving this email because you have opted to receive information from SpringerAlerts as a registered user of our Table of Content Alert for journals.
-                    <br/><br/>
+                  </mj-text>
+                  <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
                     To modify your subscription (including change of email address etc.) please go to
                     <a style="text-decoration:none;" href="http://springer.com/alertprofile">
                       <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
@@ -399,21 +401,24 @@
                         customerservice@springer.com
                       </font>
                     </a>.
-                    <br/><br/>
+                  </mj-text>
+                  <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
                     To unsubscribe from this specific table of contents alert, please click
                     <a style="text-decoration:none;" href="http://springer.com/here">
                       <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
                         here
                       </font>
                     </a>.
-                    <br/><br/>
+                  </mj-text>
+                  <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
                     To unsubscribe from ALL table of contents alerts, please click
                     <a style="text-decoration:none;" href="http://springer.com/here">
                       <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
                         here
                       </font>
                     </a>.
-                    <br/><br/>
+                  </mj-text>
+                  <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
                     For all enquiries, problems or suggestions regarding this service, please contact
                     <br/>
                     <a style="text-decoration:none;" href="mailto:customerservice@springer.com">
@@ -421,18 +426,22 @@
                         customerservice@springer.com
                       </font>
                     </a>.
-                    <br/><br/>
+                  </mj-text>
+                  <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
                     Springer's New Book Alert is the best way to keep up to date with new developments in your field.
-                    <br/><br/>
+                  </mj-text>
+                  <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
                     Sign-up today for notification on new books and related information in your subject areas:
                     <a style="text-decoration:none;" href="http://springer.com/springeralerts/nba">
                       <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
                         springer.com/springeralerts/nba
                       </font>
                     </a>
-                    <br/><br/>
+                  </mj-text>
+                  <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
                     Springer respects your privacy and does not disclose, sell or rent your personal information to any nonaffiliated third parties without your consent. Please visit the Springer Privacy Statement .
-                    <br/><br/>
+                  </mj-text>
+                  <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
                     To ensure the delivery to your inbox, please add the sender address
                     <a style="text-decoration:none;" href="mailto:springer@alerts.springer.com">
                       <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
@@ -440,11 +449,13 @@
                       </font>
                     </a>
                     to your allow list.
-                    <br/><br/>
+                  </mj-text>
+                  <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
                     Springer-Verlag GmbH Heidelberg, Tiergartenstrasse 17, 69121 Heidelberg, Germany,
                     <br/>
                     phone: +49 6221 487 0, fax: +49 6221 487 8366
-                    <br/><br/>
+                  </mj-text>
+                  <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
                     &#169; Springer 2015, springer.com
                   </mj-text>
                 </mj-column>
