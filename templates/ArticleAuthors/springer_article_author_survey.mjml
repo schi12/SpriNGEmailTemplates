@@ -47,7 +47,9 @@
              We love feedback. Really!
           </mj-text>
           <mj-text align="left" padding-left="0px" font-size="16px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
-            Dear Author,<br/><br/>
+            Dear Author,
+          </mj-text>
+          <mj-text align="left" padding-left="0px" font-size="16px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
             We are constantly working to improve our service to authors and editors. Accordingly, Springer's Author Satisfaction Program was set up to gather your experiences with publishing your article.
           </mj-text>
 
@@ -166,26 +168,22 @@
               customerservice@springer.com
               </font>
             </a>
-           <br/>
-
-        Springer Nature,
-              Tiergartenstr. 15-17,
-              69121 Heidelberg,
-              Germany
-              <br/>
-              Phone: +49 6221 345 4301, Fax: +49 6221 345 4229
-           <br/>
-
-        Springer Nature, 233 Spring Street, New York, NY 10013, USA
-              <br/>
-              Phone: +1 212 460 1500 or 800-SPRINGER
-              <br/>
-              (Weekdays 8.30am - 5.30pm ET) Fax: +1 201 348 4505
-
-             <br/><br/>
-
+          </mj-text>
+          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
+            Springer Nature,
+            Tiergartenstr. 15-17,
+            69121 Heidelberg,
+            Germany<br/>
+            Phone: +49 6221 345 4301, Fax: +49 6221 345 4229
+          </mj-text>
+          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
+            Springer Nature, 233 Spring Street, New York, NY 10013, USA<br/>
+            Phone: +1 212 460 1500 or 800-SPRINGER<br/>
+            (Weekdays 8.30am - 5.30pm ET)<br/>
+            Fax: +1 201 348 4505
+          </mj-text>
+          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
           &#169; Springer Nature 2017
-
         </mj-text>
       </mj-column>
       <mj-column width="20%">
