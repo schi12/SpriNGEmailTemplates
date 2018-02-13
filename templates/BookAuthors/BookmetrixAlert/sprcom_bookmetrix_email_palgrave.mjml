@@ -116,7 +116,7 @@
                   </td>
               </tr>
           </mj-table>          
-          <mj-button href="http://www.palgrave.com/gp/" font-family="Bliss Bold, Gill Sans, Calibri, Helvetica Neue, Arial, sans-serif" line-height="17px" padding-left="25px" padding-bottom="10px" padding-top="25px" font-size="14px" background-color="#008CA4" border-radius="0px" color="#FFFFFF" align="left">
+          <mj-button href="https://www.palgrave.com/gp/account/book-publications?wt_mc=email.event.1.SEM.BookAuthorTimebasedAlert" font-family="Bliss Bold, Gill Sans, Calibri, Helvetica Neue, Arial, sans-serif" line-height="17px" padding-left="25px" padding-bottom="10px" padding-top="25px" font-size="14px" background-color="#008CA4" border-radius="0px" color="#FFFFFF" align="left">
             Explore your book’s full range of metrics on MyPalgrave
           </mj-button>
           <mj-text color="#444444" line-height="14px" padding="0px 25px 10px 25px" font-size="11px" font-family="Verdana, Arial, sans-serif">

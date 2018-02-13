@@ -81,7 +81,7 @@
           </mj-table>
 
           
-          <mj-button align="left" font-size="12px" href="$ABPR_download_link" background-color="#0176c3" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" background-color="#f45e43" color="white" border="1px solid #0176c3" padding="25px 25px 10px 25px">
+          <mj-button align="left" font-size="12px" href="https://www.springer.com/gp/myspringer/book-publications?wt_mc=email.event.1.SEM.BookAuthorTimebasedAlert" background-color="#0176c3" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif" background-color="#f45e43" color="white" border="1px solid #0176c3" padding="25px 25px 10px 25px">
             Explore your book’s full range of metrics on MySpringer
           </mj-button>
           <mj-text color="#666" line-height="14px" padding="0px 25px 10px 25px" font-size="11px" font-family="Helvetica Neue,​Helvetica,Arial,​sans-serif">
