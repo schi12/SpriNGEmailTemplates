@@ -114,29 +114,12 @@
              You'll receive emails in html format to the following mail address:<br/>
              jane.doe@blindspot.com
            </mj-text>
-           <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" border="1px solid #BCBCBC" padding-bottom="25px" font-size="14px" background-color="#FFFFFF"  border-radius="3px" color="#0176C3" align="left">
+           <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" border="1px solid #BCBCBC" padding-bottom="25px" font-size="14px" background-color="#FFFFFF"  border-radius="3px" color="#0176C3" align="left" href="https://www.springer.com/generic/registration/login?SGWID=0-40107-27-961104-0">
              Activate your account now
            </mj-button>
          </mj-column>
 
        </mj-section>
-
-       <!-- Opinion Survey CTA -->
-        <mj-section padding="0 25px 25px" background-color="#FFFFFF">
-          <mj-column width="100%" border-left="4px solid #EE7D11" background-color="rgba(238,125,17,0.1)">
-            <mj-text font-size="18px" color="#333333" line-height="25px" font-weight="normal" padding-bottom="0px" padding-top="25px" font-family="Georgia, serif">
-              Your $5 Gift Card for The Springer Shop
-            </mj-text>
-            <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif">
-              Discover the vast selection of over 250,000 scientific titles in our Springer
-                  Shop and save $5 on your next eBook purchase until the end of the year.
-            </mj-text>
-            <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" border="1px solid #BCBCBC" padding-bottom="25px" font-size="14px" background-color="none"  border-radius="3px" color="#0176C3" align="left">
-              Redeem $5 Gift Card now
-            </mj-button>
-          </mj-column>
-
-        </mj-section>
 
 
     </mj-wrapper>
@@ -152,7 +135,7 @@
          <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif">
             Discover the vast selection of over 250,000 scientific titles in our Springer Shop and save $5 on your next eBook purchase until the end of the year.
          </mj-text>
-         <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" border="1px solid #BCBCBC" padding-bottom="20px" font-size="14px" background-color="#FFFFFF"  border-radius="3px" color="#0176C3" align="left">
+         <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" border="1px solid #BCBCBC" padding-bottom="20px" font-size="14px" background-color="#FFFFFF"  border-radius="3px" color="#0176C3" align="left" href="http://www.springer.com/gp/shop/promo/eventmail-alert?token=alert&amp;wt_mc=Internal.Event.3.EPR868.AlertConfirmation-EN">
            Redeem $5 Gift Card now!
          </mj-button>
        </mj-column>

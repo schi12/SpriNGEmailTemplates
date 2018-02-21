@@ -136,7 +136,7 @@
              You'll receive emails in html format to the following mail address: <br/>
              jane.doe@blindspot.com
            </mj-text>
-           <mj-button font-family="Calibri, Helvetica, Arial, sans-serif" line-height="21px" padding-bottom="25px" font-size="14px" background-color="#008CA4"  border-radius="0px" color="#FFFFFF" align="left">
+           <mj-button font-family="Calibri, Helvetica, Arial, sans-serif" line-height="21px" padding-bottom="25px" font-size="14px" background-color="#008CA4"  border-radius="0px" color="#FFFFFF" align="left" href="https://login.palgrave.com/public/en/resetpassword?url=http://www.palgrave.com">
              Activate your account now
            </mj-button>
          </mj-column>
@@ -149,14 +149,13 @@
         <mj-section padding="0px 25px 25px" background-color="#FFFFFF">
           <mj-column width="100%" 	background-color="#DC506C">
             <mj-text font-size="20px" color="#FFFFFF" line-height="25px" font-weight="bold" padding-bottom="0px" padding-top="25px" font-family="Calibri, Helvetica, Arial, sans-serif">
-              Your account information
+              Your £5 Gift Card for The Palgrave Shop
             </mj-text>
             <mj-text font-size="14px" color="#FFFFFF" line-height="22px" font-family="Arial, Helvetica, sans-serif">
-              You'll receive emails in html format to the following mail address: <br/>
-              jane.doe@blindspot.com
+              Discover our vast selection of titles across all fields of scholarship, research and professional learning in The Palgrave Shop and save £5 on your next eBook purchase through the end of the year.
             </mj-text>
-            <mj-button font-family="Calibri, Helvetica, Arial, sans-serif" line-height="21px" padding-bottom="25px" font-size="14px" background-color="#FFFFFF"  border-radius="0px" color="#008CA4" align="left">
-              Activate your account now
+            <mj-button font-family="Calibri, Helvetica, Arial, sans-serif" line-height="21px" padding-bottom="25px" font-size="14px" background-color="#FFFFFF"  border-radius="0px" color="#008CA4" align="left" href="http://www.palgrave.com/gp/shop/eventmail-order{$trackingCoupon}&amp;token=PLGVorder">
+              Redeem Gift Card now!
             </mj-button>
           </mj-column>
 

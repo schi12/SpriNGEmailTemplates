@@ -99,7 +99,7 @@
             You'll receive emails in html format to the following mail address:
             jane.doe@blindspot.com
           </mj-text>
-          <mj-button font-family="Encode Sans,Georgia,Helvetica Neue,Arial" line-height="17px" padding-left="30px" padding-bottom="30px" font-size="14px" background-color="#333333" border-radius="22px" color="#F7F7F7" align="left">
+          <mj-button font-family="Encode Sans,Georgia,Helvetica Neue,Arial" line-height="17px" padding-left="30px" padding-bottom="30px" font-size="14px" background-color="#333333" border-radius="22px" color="#F7F7F7" align="left" href="https://login.apress.com/public/en/resetpassword?url=https://www.apress.com/gp/">
             Activate your account now
           </mj-button>
         </mj-column>
@@ -119,7 +119,7 @@
             Discover the vast selection of over 2,700 IT titles in our Apress Shop and get 10% discount
             on your next eBook purchase until the end of the year.
           </mj-text>
-           <mj-button font-family="Encode Sans,Georgia,Helvetica Neue,Arial" line-height="17px" padding-left="30px" padding-bottom="30px" font-size="14px" background-color="#333333" border-radius="22px" color="#F7F7F7" align="left">
+           <mj-button font-family="Encode Sans,Georgia,Helvetica Neue,Arial" line-height="17px" padding-left="30px" padding-bottom="30px" font-size="14px" background-color="#333333" border-radius="22px" color="#F7F7F7" align="left" href="https://www.apress.com/gp/">
             Redeem your 10% Gift Card now
           </mj-button>
         </mj-column>
