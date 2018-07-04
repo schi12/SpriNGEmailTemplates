@@ -6,11 +6,13 @@
   <mj-body>
 	<mj-container width="640px" background-color="#F4F4F4">
     <!-- Header Full-width -->
-            <mj-section padding-bottom="5px" padding-top="0" background-color="#EBEBEB" full-width="full-width">
-              <mj-column width="100%">
-                <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/part_of_springernature_head.png"  width="125px" padding-top="0" padding-bottom="0" />
-              </mj-column>
-            </mj-section>
+      <!--
+      <mj-section padding-bottom="5px" padding-top="0" background-color="#EBEBEB" full-width="full-width">
+        <mj-column width="100%">
+          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/part_of_springernature_head.png"  width="125px" padding-top="0" padding-bottom="0" />
+        </mj-column>
+      </mj-section>
+      -->
 
 
 
@@ -47,7 +49,7 @@
              Congratulations Dr. Wagner,
           </mj-text>
           <mj-text align="left" padding-left="0px" font-size="14px" line-height="23px" color="#555555" font-family="Verdana, Arial, sans-serif">
-             Your book is performing very well. The download figures for your eBook are above the average of it’s main discipline Economics and Finance.
+             We've been tracking chapter downloads for your eBook and are pleased to let you know that it has outperformed the discipline average in Economics and Finance.
           </mj-text>
         </mj-column>
 
@@ -81,7 +83,7 @@
           <mj-image padding-left="0px" padding-top="22px" padding-right="30px" src="https://s3.eu-central-1.amazonaws.com/springpics/allert_illu_pal.png" width="60px">
           </mj-image>
           <mj-text padding-left="0px" padding-top="0px" padding-bottom="0px" align="center" color="#555555" line-height="22px" font-size="13px" font-family="Verdana, Arial, sans-serif">Downloads</mj-text>
-          <mj-text padding-left="0px" padding-top="0px" padding-bottom="37px" color="#0EB847" font-size="24px" line-height="28px" font-family="Verdana, Arial, sans-serif" align="center">512</mj-text>
+          <mj-text padding-left="0px" padding-top="0px" padding-bottom="37px" color="#0EB847" font-size="24px" line-height="28px" font-family="Verdana, Arial, sans-serif" align="center">7406</mj-text>
         </mj-column>
 
         </mj-group>
@@ -96,9 +98,7 @@
           <mj-text align="left" padding-left="0" padding-right="0" padding-top="0px" font-size="13px" color="#555555" line-height="21px" font-weight="200" font-family="Verdana, Arial, sans-serif">
              Organizational Resilience in the Era of Man-Made Risk
           </mj-text>
-          <mj-text align="left" padding-right="0" font-size="13px" color="#555555" line-height="21px" font-family="Verdana, Arial, sans-serif" padding="0 20px 0 0">
-            <b>Wagner</b>, Daniel; <b>Disparte</b>, Dante
-          </mj-text>
+          
           <mj-text align="left" padding-right="0" font-size="13px" color="#555555" line-height="21px" font-family="Verdana, Arial, sans-serif" padding="0 20px 14px 0">
             &copy; 2017
           </mj-text>
@@ -110,54 +110,6 @@
 
       </mj-section>
 
-
-      <!-- Social media
-      <mj-section background-color="#F4F4F4" border-top="1px solid #DDDDDD">
-        <mj-column width="36%">s
-          <mj-text padding-left="30px" padding-right="0" font-family="Calibri, Helvetica, Arial, sans-serif" font-size="20px" color="#333333">
-            Share your success:
-          </mj-text>
-        </mj-column>
-
-        <mj-column width="32%">
-          <mj-table container-background-color="#F4F4F4" padding="5px 30px 0">
-              <tr style="border: 1px solid #B7B7B7;">
-                <td align="center" style="border-right:1px solid #CCCCCC;padding:5px 0px 5px 5px;width:25px;">
-                  <image src="https://s3.eu-central-1.amazonaws.com/springpics/pal_share_tw.png" width="14px"/>
-                </td>
-                <td align="left">
-                  <span style="padding-left:5px;font-family:Calibri, Helvetica, Arial, sans-serif;line-height:17px;font-size:14px;color:#333333">
-                    Twitter
-                  </span>
-                </td>
-              </tr>
-          </mj-table>
-        </mj-column>
-
-
-        <mj-column width="32%">
-          <mj-table container-background-color="#F4F4F4" padding="5px 30px 0">
-            <tr style="border: 1px solid #B7B7B7;">
-              <td align="center" style="border-right:1px solid #CCCCCC;padding:5px 0px 5px 5px;width:25px">
-                <image src="https://s3.eu-central-1.amazonaws.com/springpics/pal_share_fb.png" width="8px"/>
-              </td>
-              <td align="left">
-                <span style="padding-left: 5px;font-family:Calibri, Helvetica, Arial, sans-serif;line-height:17px;font-size:14px;color:#333333">
-                  Facebook
-                </span>
-              </td>
-            </tr>
-        </mj-table>
-        </mj-column>
-
-
-
-
-        </mj-column>
-
-      </mj-section>
-
-    -->
 
       <!-- Social media New-->
       <mj-section background-color="#EBEBEB">
@@ -233,6 +185,7 @@
         <mj-column width="100%">
            <mj-text padding-top="0px" font-size="10px" line-height="12px" line-height="18px" color="#999999" padding-bottom="0px" font-family="Verdana, Arial, sans-serif">
             This update covers your eBook’s performance on SpringerLink; it does not include individual eBook and/or print book sales.
+            This email will only be sent once per book.
           </mj-text>
         </mj-column>
       </mj-section>
@@ -262,9 +215,9 @@
           <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Verdana, Arial, sans-serif">
             If you have any questions, please contact the Springer Nature Customer Service
         	<br/>
-        	<a style="text-decoration:none;" href="mailto:customerservice@springer.com">
+        	<a style="text-decoration:none;" href="mailto:customerservice@springernature.com">
                 <font color="#999999" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
-                customerservice@springer.com
+                customerservice@springernature.com
                 </font>
               </a>
              <br/>
@@ -285,7 +238,7 @@
 
                <br/><br/>
 
-            &#169; Springer Nature 2017
+            &#169; Springer Nature 2018
 
           </mj-text>
         </mj-column>
