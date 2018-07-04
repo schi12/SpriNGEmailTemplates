@@ -1,0 +1,149 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container width="640px" background-color="#FAFAFA">
+
+      <!-- Header1 -->
+      <mj-section padding-bottom="12px" padding-top="12px">
+        <mj-column width="100%">
+          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png"  width="125px"/>
+        </mj-column>
+      </mj-section>
+
+    <!-- Begin Content -->
+    <mj-wrapper border="1px solid #DCDCDC" padding-bottom="0px" padding-top="0px">
+
+      <!-- Header Toppic and Date
+      <mj-section padding="5px 0" background-color="#FFFFFF">
+        <mj-column width="100%">
+          <mj-table>
+             <tr>
+               <td style="width: 65%;">
+                 <span style="padding-left: 0;font-family:Arial, Helvetica, sans-serif;line-height:24px;font-size:16px;color:#333333">
+                   Your profile has changed
+                 </span>
+               </td>
+               <td style="text-align:right; vertical-align:bottom; width: 35%;">
+                 <span style="font-family:Arial, Helvetica, sans-serif;line-height:21px;font-size:14px;color:#999999">
+                   Mai 19, 2017
+                 </span>
+               </td>
+             </tr>
+           </mj-table>
+           <mj-divider padding-top="0" border-width="1px" border-color="#DCDCDC"/>
+        </mj-column>
+
+      </mj-section>
+-->
+      <!-- Subscription List -->
+      <mj-section background-color="#FFFFFF" padding="0 0 12px">
+
+        <mj-column width="50%">
+           <mj-text align="left" padding="0" font-size="16px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+             <ul style="padding:0 40px;margin:0;">
+             <li>
+              Apple & iOS
+             </li>
+             <li>
+              Hardware & Maker
+             </li>
+             <li>
+              Big Data & Analysis
+             </li>
+             <li>
+              Enterprise Software
+             </li>
+             <li>
+              Cloud Computing
+             </li>
+             </ul>
+          </mj-text>
+
+
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text align="left" padding="0" font-size="16px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+             <ul style="padding:0 40px;margin:0;">
+             <li>
+              Apple & iOS
+             </li>
+             <li>
+              Hardware & Maker
+             </li>
+             <li>
+              Big Data & Analysis
+             </li>
+             <li>
+              Enterprise Software
+             </li>
+             <li>
+              Cloud Computing
+             </li>
+             </ul>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+
+    </mj-wrapper>
+    <!-- End Content -->
+
+    <!--Footer-->
+    <mj-section padding="12px 25px">
+
+      <mj-column width="80%">
+        <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
+          If you have any questions, please contact the Springer Nature Customer Service<br/>
+          <a style="text-decoration:none;" href="mailto:customerservice@springer.com">
+            <font color="#0176C3" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
+              customerservice@springer.com
+            </font>
+            </a>
+          </mj-text>
+          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
+            Springer Nature,
+            Tiergartenstr. 15-17,
+            69121 Heidelberg,
+            Germany<br/>
+            Phone: +49 6221 345 4301, Fax: +49 6221 345 4229
+          </mj-text>
+          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
+            Springer Nature, 233 Spring Street, New York, NY 10013, USA<br/>
+            Phone: +1 212 460 1500 or 800-SPRINGER<br/>
+            (Weekdays 8.30am - 5.30pm ET)<br/>
+            Fax: +1 201 348 4505
+          </mj-text>
+          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
+          &#169; Springer Nature 2017
+        </mj-text>
+      </mj-column>
+      <mj-column width="20%">
+      <mj-social
+        align="right"
+        mode="horizontal"
+        text-mode="true"
+        padding="0px"
+        icon-size="35px"
+        inner-padding="0px"
+        display="mytwitterc myfacebookc"
+        myfacebookc-icon-color="none"
+        myfacebookc-icon="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_facebook_circle.png"
+        myfacebookc-href="https://www.facebook.com/objectway/"
+        myfacebookc-content="&nbsp;"
+        mytwitterc-icon-color="none"
+        mytwitterc-icon="https://s3.eu-central-1.amazonaws.com/springpics/sm_springer_twitter_circle.png"
+        mytwitterc-href="https://www.youtube.com/user/objectway"
+        mytwitterc-content="&nbsp;" />
+      </mj-column>
+
+    </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>

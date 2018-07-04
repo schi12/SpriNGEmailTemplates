@@ -74,7 +74,7 @@
         <mj-column width="56%" background-color="#DDDDDD">
           <mj-image padding-top="20px" padding-bottom="20px" padding-right="0px" align="left"  src="https://images.springer.com/sgw/books/medium/978-1-349-94860-4.jpg" width="110px" height="165px" border="1px solid #DDDDDD">
           </mj-image>
-          <mj-text container-background-color="#EBEBEB" padding-left="0" font-family="Verdana, Arial, sans-serif" font-size="12px" line-height="18px" color="#999999">
+          <mj-text container-background-color="#EBEBEB" padding-left="0" font-family="Verdana, Arial, sans-serif" font-size="11px" line-height="18px" color="#999999">
               Provided by <b>Book</b>metrix
           </mj-text>
         </mj-column>

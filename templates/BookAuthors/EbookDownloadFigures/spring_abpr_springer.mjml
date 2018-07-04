@@ -1,0 +1,177 @@
+<mjml>
+  <mj-body>
+    <mj-container width="640px" background-color="#FFFFFF">
+
+      <!-- Header1 -->
+      <mj-section padding-bottom="12px" padding-top="12px">
+        <mj-column width="100%">
+          <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/springer_logo_highres.png"  width="125px"/>
+        </mj-column>
+      </mj-section>
+
+   <mj-wrapper border="1px solid #DCDCDC" padding-bottom="0px" padding-top="0px">
+      <!-- Subject line
+      <mj-section background-color="white" padding-bottom="0" padding-top="0">
+        <mj-column width="60%">
+          <mj-text align="left" font-size="15" color="grey" font-family="Arial, Helvetica, sans-serif">
+
+          </mj-text>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-text align="right" font-size="12" color="grey" font-family="Arial, Helvetica, sans-serif">
+            01/04/2017
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-divider padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#F4F4F4" />
+        </mj-column>
+      </mj-section>
+
+      -->
+
+
+      <!-- Intro -->
+      <mj-section padding-top="10px">
+        <mj-column width="100%">
+          <mj-text align="left" font-size="26px" line-height="34px" color="#333333" font-family="Georgia, serif">
+            Dear Author,
+          </mj-text>
+          <mj-text align="left" font-size="16px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+            Below please find the link to your personal <b>Annual Book Performance Report</b>, which shows the number of chapter downloads in 2016* and a few additional related numbers and topics as applicable.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Book Section -->
+      <mj-section background-color="#F0F0F0" padding="20px 0">
+        <mj-column width="30%">
+          <mj-image align="left" src="http://images.springer.com/sgw/books/medium/978-3-8349-2206-9.jpg" width="135px">
+          </mj-image>
+        </mj-column>
+        <mj-column width="70%">
+          <mj-text align="left" font-size="22px" line-height="28px" color="#333333" font-weight="400" font-family="Georgia, serif">
+            Effektives Verhalten von Vertriebsmitarbeitern im Kundenkontakt
+          </mj-text>
+          <mj-text align="left" font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+            Eine branchenübergreifende Untersuchung </br>
+
+            <b>Müller</b>, Michael
+          </mj-text>
+          <mj-button align="left" padding-bottom="20px" font-size="14px" line-height="18px" color="#FFFFFF" href="$ABPR_download_link" background-color="#0176C3" font-family="Arial, Helvetica, sans-serif">
+            Download Book Performance Report
+          </mj-button>
+          <mj-divider border-color="#DCDCDC" border-width="1px"/>
+          <mj-text font-size="14px" line-height="21px" color="#0176C3" padding-top="10px" padding-bottom="2px" font-family="Arial, Helvetica, sans-serif">
+            <a style="line-height:26px;padding-bottom:4px;color:#0176C3;text-decoration:none;padding-left:22px;background-image:url(https://s3.eu-central-1.amazonaws.com/springpics/scom_viewarticle_icon.png);background-size:16px 16px;background-repeat:no-repeat; " href="https://www.springer.com/gp/myspringer/book-publications">MySpringer: Your personal book overview page</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Account Information -->
+      <mj-section padding="25px 25px 0">
+        <mj-column border-left="4px solid #71AB0B">
+          <mj-text font-size="18px" line-height="25px" color="#333333"  font-weight="400" padding-bottom="0px" padding-top="20px" font-family="Georgia, serif">
+            MySpringer account information
+          </mj-text>
+          <mj-text font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+            Log in to your personal MySpringer account on springer.com. In addition to the Book
+            Performance Report, you will find a free copy of your eBook and your eBook&#39;s current
+            performance metrics (provided by Bookmetrix). You can also order any book from the
+            Springer Shop at a 40% discount.
+          </mj-text>
+          <mj-text font-size="14px" line-height="21px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+             Your login user name: markus.schilde036@springer.com<br/>
+            If you forgot your password:
+          </mj-text>
+          <mj-button href="https://www.springer.com/generic/registration/login?SGWID=1-40107-27-961104-0" font-size="14px" line-height="18px" color="#0176C3" font-family="Arial, Helvetica, sans-serif" border="1px solid #BCBCBC" padding-bottom="20px" background-color="#FFFFFF" border-radius="3px" align="left">
+            Reset your account now
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Thank you text -->
+      <mj-section padding="10px 0 2px">
+        <mj-column>
+          <mj-text font-size="16px" line-height="24px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+          Thank you again for publishing with Springer! We hope to be your partner of choice again for your future publications.
+          </mj-text>
+          <mj-text font-size="16px" line-height="24px" color="#666666" padding-top="0px" padding-bottom="0px" font-family="Arial, Helvetica, sans-serif">
+            Best regards,
+          </mj-text>
+          <mj-text font-size="16px" line-height="24px" color="#666666" padding-top="0px" padding-bottom="0px" font-family="Arial, Helvetica, sans-serif">
+            Your Author Marketing Team
+          </mj-text>
+          <mj-divider padding="20px 25px 0" border-color="#DCDCDC" border-width="1px"/>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Footnote -->
+      <mj-section>
+        <mj-column width="100%">
+           <mj-text padding="0 25px" font-size="12px" line-height="18px" color="#666666" font-family="Arial, Helvetica, sans-serif">
+             *This report covers only your eBook’s performance on SpringerLink (eBook package
+             activities); it does not include individual eBook sales and/or print book sales. To see
+             the results for your print book and/or eBook sales, please consult the royalty statement
+             provided by our royalty team in April (only applicable if your contract includes sales-based
+             royalties).
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      </mj-wrapper>
+
+
+      <!--Footer -->
+      <mj-section padding-right="25px" padding-left="25px">
+
+        <mj-column>
+          <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px"
+          font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
+            If you have any questions, please contact the Springer Nature Customer Service <br/>
+            <a style="text-decoration:underline;" href="mailto:customerservice@springer.com">
+                <font color="#999999" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
+                  customerservice@springer.com
+                </font>
+            </a>
+            <br/>
+              Springer Nature,
+              Tiergartenstr. 15-17,
+              69121 Heidelberg,
+              Germany
+              <br/>
+              Phone: +49 6221 345 4301, Fax: +49 6221 345 4229
+              <br/>
+              Springer Nature, 233 Spring Street, New York, NY 10013, USA
+              <br/>
+              Phone: +1 212 460 1500 or 800-SPRINGER
+              <br/>
+              (Weekdays 8.30am - 5.30pm ET) Fax: +1 201 348 4505
+               <br/><br/>
+              &#169; Springer Nature 2017
+          </mj-text>
+        </mj-column>
+        <!--mj-column width="20%">
+          <mj-social
+            mode="horizontal"
+            text-mode="true"
+            padding="0px"
+            icon-size="35px"
+            inner-padding="0px"
+            display="mytwitterc myfacebookc"
+            myfacebookc-icon-color="none"
+            myfacebookc-icon="https://s3.eu-central-1.amazonaws.com/springpics/si_fb_pa.png"
+            myfacebookc-href="https://www.facebook.com/objectway/"
+            myfacebookc-content="&nbsp;"
+            mytwitterc-icon-color="none"
+            mytwitterc-icon="https://s3.eu-central-1.amazonaws.com/springpics/si_twi_pa.png"
+            mytwitterc-href="https://www.youtube.com/user/objectway"
+            mytwitterc-content="&nbsp;" />
+
+        </mj-column-->
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
