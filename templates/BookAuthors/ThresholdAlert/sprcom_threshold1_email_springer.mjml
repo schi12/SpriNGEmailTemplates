@@ -176,7 +176,7 @@
       <!--Footer Palgrave-->
       <mj-section padding="12px 25px">
 
-        <mj-column>
+        <mj-column width="100%">
           <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Arial, Helvetica, sans-serif">
             If you have any questions, please contact the Springer Nature Customer Service
         	<br/>
