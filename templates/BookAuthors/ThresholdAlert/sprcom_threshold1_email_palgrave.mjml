@@ -197,7 +197,7 @@
            <mj-divider padding-top="5px" border-width="1px" border-color="#DDDDDD"/>
         </mj-column>
         <mj-column width="20%">
-          <mj-image src="https://resource-cms.springer.com/springer-cms/rest/v1/content/54978/data/v1" width="110px" align="left" padding-top="14px"/>
+          <mj-image src="https://s3.eu-central-1.amazonaws.com/springpics/bookmetrix-logo.png" width="110px" align="left" padding-top="14px"/>
         </mj-column>
         <mj-column width="80%">
           <mj-text font-weight="200" font-size="13px" line-height="21px"color="#008CA4" text-decoration="none" font-family="Verdana, Arial, sans-serif">

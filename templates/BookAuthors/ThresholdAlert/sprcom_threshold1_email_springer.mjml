@@ -161,7 +161,7 @@
       <!-- Bookmetrix Info -->
       <mj-section padding-top="0px" padding-bottom="0" border-top="1px solid #DCDCDC" background-color="#FFFFFF">
         <mj-column width="20%">
-          <mj-image src="https://resource-cms.springer.com/springer-cms/rest/v1/content/54978/data/v1" width="110px" align="left" padding-top="14px"/>
+          <mj-image src="https://s3.eu-central-1.amazonaws.com/springpics/bookmetrix-logo.png" width="110px" align="left" padding-top="14px"/>
         </mj-column>
         <mj-column width="80%">
           <mj-text font-weight="200" font-size="12px" line-height="21px" color="#0176C3" text-decoration="none" font-family="Arial, Helvetica, sans-serif">
