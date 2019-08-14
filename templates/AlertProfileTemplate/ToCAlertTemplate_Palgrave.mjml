@@ -7,33 +7,21 @@
   </mj-head>
   <mj-body>
     <mj-container width="600px" background-color="#F2F2F2">
-      <!-- Header Full-width -->
-              <mj-section padding-bottom="5px" padding-top="0" background-color="#EBEBEB" full-width="full-width">
+        <mj-wrapper padding-bottom="0px" padding-top="0px">
+      <!-- PreHeader Full-width -->
+              <mj-section padding-bottom="0" padding-top="0" background-color="#F2F2F2" full-width="full-width">
                 <mj-column width="100%">
-                  <mj-text>
+                  <mj-text padding="10px 25px" font-family="arial,sans-serif" font-size="11px" color="#333333">
                   If this email is not displayed correctly, please<a style="color: #0073C3; text-decoration: none;" href="http://link.springer.com/journal/41253/16/2?wt_mc=alerts.TOCjournals&amp;utm_source=toc&amp;utm_medium=email&amp;utm_campaign=toc_41253_16_2"> click here </a>to read this table of contents online.
                   </mj-text>
                 </mj-column>
               </mj-section>
-
-
-
-        <!--Header1
-        <mj-section padding-bottom="0px" background-color="#EBEBEB" padding-top="0px">
+        <!-- Header -->
+        <mj-section padding-bottom="0px" padding-top="0">
           <mj-column width="100%">
-            <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/part_of_springernature_head.png"  width="125px" padding-top="0" padding-bottom="0" />
+            <mj-image align="left" src="http://www.springer.com/cda/content/image/cm50content/1364/-1/cda_displayimage.jpg?SGWID=0-0-16-3064260-0" width="600px" padding="0"/>
           </mj-column>
 
-        </mj-section>
-   -->
-        <!-- Header2 -->
-        <mj-section padding-bottom="0px">
-          <mj-column width="20%">
-            <mj-image align="left" src="https://s3.eu-central-1.amazonaws.com/springpics/palgrave_logo.png" width="95px" padding="0" padding-top="0" padding-left="25px" padding-bottom="20"/>
-          </mj-column>
-          <mj-column width="80%">
-            &nbsp;
-          </mj-column>
         </mj-section>
 
         <mj-section padding="0">
@@ -42,113 +30,97 @@
           </mj-column>
         </mj-section>
 
-  <mj-wrapper border-top="4px solid #DC506C" padding-bottom="0px" padding-top="0px">
 
-      <!-- Header Toppic and Date
+
+      <!-- Header Toppic and Date -->
       <mj-section padding="0" background-color="#FFFFFF">
         <mj-column width="100%">
           <mj-table>
              <tr>
-               <td style="width: 80%;">
-                 <span style="padding-left: 0;font-family:Calibri, Helvetica, Arial, sans-serif;line-height:25px;font-size:18px;color:#444444">
-                   How was your publishing experience?
+               <td style="width: 60%;">
+                 <span style="padding-left: 0;font-family:Arial, sans-serif;line-height:20px;font-size:16px;color:#666666">
+                   New Issue Allert
                  </span>
                </td>
-               <td style="text-align:right; vertical-align:bottom; width: 20%;">
-                 <span style="font-family:Verdana, Arial, sans-serif;line-height:21px;font-size:13px;color:#999999">
-                   Mai 19, 2017
+               <td style="text-align:right; vertical-align:bottom; width: 40%;">
+                 <span style="padding-left: 0;font-family:Arial, sans-serif;line-height:20px;font-size:12px;color:#666666">
+                   ${date?string["MM/dd/yyyy"]}
                  </span>
                </td>
              </tr>
            </mj-table>
-           <mj-divider width="100%" padding-top="0" border-width="1px" border-color="#DCDCDC"/>
+           <mj-divider width="100%" padding="0 0" border-width="1px" border-color="#DCDCDC"/>
         </mj-column>
       </mj-section>
-      -->
 
-      <!-- Intro -->
-      <mj-section padding="45px 25px 0" background-color="#FFFFFF">
-        <mj-column width="100%">
-          <mj-text align="left" padding="0" font-size="28px" line-height="34px" font-weight="600" color="#2B2B2B" font-family="Calibri, Helvetica, Arial, sans-serif">
-             Welcome,
+      <!-- Salutation -->
+      <mj-section padding="0 0" background-color="#FFFFFF">
+        <mj-column width="60%" padding-top="0">
+          <mj-text align="left" padding="30px 25px 20px" color="#333333" font-family="georgia,arial,sans-serif" font-size="24px" line-height="28px">
+            Dear Reader,
           </mj-text>
-
-          <mj-text align="left" padding-left="0" font-size="14px" line-height="23px" color="#555555" font-weight="400" font-family="Verdana, Arial, sans-serif">
-            You successfully subscribed to the Palgrave Newsletter. You will stay up to date on daily deals, discount promotions, events and new releases in the following categories:
-          </mj-text>
-      </mj-section>
-
-      <!-- Subscription List -->
-      <mj-section background-color="#FFFFFF" padding="12px 0 25px">
-
-        <mj-column width="50%">
-           <mj-text align="left" padding="0" font-size="14px" line-height="23px" color="#555555" font-weight="400" font-family="Verdana, Arial, sans-serif">
-             <ul style="padding:0 40px;margin:0;">
-             <li>
-              Apple & iOS
-             </li>
-             <li>
-              Hardware & Maker
-             </li>
-             <li>
-              Big Data & Analysis
-             </li>
-             <li>
-              Enterprise Software
-             </li>
-             <li>
-              Cloud Computing
-             </li>
-             </ul>
-          </mj-text>
-
-
-        </mj-column>
-        <mj-column width="50%">
-          <mj-text align="left" padding="0" font-size="14px" line-height="23px" color="#555555" font-weight="400" font-family="Verdana, Arial, sans-serif">
-             <ul style="padding:0 40px;margin:0;">
-             <li>
-              Apple & iOS
-             </li>
-             <li>
-              Hardware & Maker
-             </li>
-             <li>
-              Big Data & Analysis
-             </li>
-             <li>
-              Enterprise Software
-             </li>
-             <li>
-              Cloud Computing
-             </li>
-             </ul>
+          <mj-text align="left" padding="5px 25px" color="#333333" font-family="arial,sans-serif" font-size="14px">
+            We are pleased to deliver your requested table of contents alert for <span style="font-weight:bold">${aricle.title}</span>. Volume ${aricle.volume} Number ${aricle.issue} is now available online.
           </mj-text>
         </mj-column>
-
+        <mj-column width="40%" padding="0">
+          <!--mj-image src="http://static-content.springer.com/cover/journal/${article.journalNo}/${article.volume}/${article.issue}.jpg" /-->
+          <mj-image src="http://static-content.springer.com/cover/journal/41253/16/2.jpg" width="95px" padding="20px 25px" align="right"/>
+        </mj-column>
       </mj-section>
 
-      <!-- Your Account CTA -->
-       <mj-section padding="12px 25px 25px" background-color="#FFFFFF">
-         <mj-column width="100%" 	background-color="#EBEBEB">
-           <mj-text font-size="20px" color="#333333" line-height="25px" font-weight="bold" padding-bottom="0px" padding-top="25px" font-family="Calibri, Helvetica, Arial, sans-serif">
-             Your account information
-           </mj-text>
-           <mj-text font-size="14px" color="#555555" line-height="22px" font-family="Arial, Helvetica, sans-serif">
-             You'll receive emails in html format to the following mail address: <br/>
-             jane.doe@blindspot.com
-           </mj-text>
-           <mj-button font-family="Calibri, Helvetica, Arial, sans-serif" line-height="21px" padding-bottom="25px" font-size="14px" background-color="#008CA4"  border-radius="0px" color="#FFFFFF" align="left" href="https://login.palgrave.com/public/en/resetpassword?url=http://www.palgrave.com">
-             Activate your account now
-           </mj-button>
-         </mj-column>
+      <mj-section padding="0 0" background-color="#FFFFFF">
+        <mj-column width="100%" padding-top="0">
+          <mj-text align="left" padding="30px 25px 0" color="#333333" font-family="georgia,arial,sans-serif" font-size="24px" line-height="28px">
+            In this issue
+          </mj-text>
+          <mj-divider border-color="#DBDBDB" padding="5px 25px" border-width="1px" />
+      </mj-section>
 
-       </mj-section>
-
-
+      <!-- Articles -->
+      <!--<#list articles as article> -->
+      <mj-section padding="10px 0 0" background-color="#FFFFFF">
+        <mj-column width="60%" padding-top="0">
+          <mj-text align="left" padding="0 25px" color="#656565" font-family="arial,sans-serif" font-size="11px" line-height="18px">
+            !!!Article Type (e.g. Book Review)!!!
+          </mj-text>
+        </mj-column>
+        <mj-column width="40%" padding="0">
+          <mj-text align="right" padding="0 25px" color="#656565" font-family="arial,sans-serif" font-size="11px" line-height="18px">
+            <span>!!!Logos (e.g. Open Access)!!!</span>
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%" padding-top="0" >
+          <mj-text padding="0 25px" font-family="arial,sans-serif" font-size="16px" color="#0073C3" line-height="23px" padding="5px 25px" text-decoration="none">
+            <a href="https://link.springer.com/article/${article.doi}${tracking}">${article.title}</a>
+          </mj-text>
+          <mj-text font-family="arial,sans-serif" font-size="13px" color="#333333" padding="5px 25px">
+            !!!AUTHOR!!!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section  padding="0" background-color="#FFFFFF">
+        <mj-column>
+          <mj-text>
+            <a style="font-family: arial,sans-serif; font-size: 13px; color: #0073C3; font-weight: bold; padding: 0 0 0 0; text-decoration: none;"
+                    href="https://link.springer.com/article/${article.doi}${tracking}">&raquo;
+                Abstract</a>
+            &nbsp;&nbsp;&nbsp;
+            <a style="font-family: arial,sans-serif; font-size: 13px; color: #0073C3; font-weight: bold; padding: 0 0 0 0; text-decoration: none;"
+                    href="https://link.springer.com/article/${article.doi}${tracking}">&raquo;
+                Full text HTML</a>
+            &nbsp;&nbsp;&nbsp;
+            <a style="font-family: arial,sans-serif; font-size: 13px; color: #0073C3; font-weight: bold; padding: 0 0 0 0; text-decoration: none;"
+                    href="https://link.springer.com/content/pdf/${article.doi}${tracking}">&raquo;
+                Full text PDF</a>
+          </mj-text>
+          <mj-divider border-color="#DBDBDB" padding="5px 25px" border-width="1px" />
+        </mj-column>
+      </mj-section>
+      <!--</#list> -->
 
        <!-- Your Account CTA -->
-        <mj-section padding="0px 25px 25px" background-color="#FFFFFF">
+        <!--mj-section padding="0px 25px 25px" background-color="#FFFFFF">
           <mj-column width="100%" 	background-color="#DC506C">
             <mj-text font-size="20px" color="#FFFFFF" line-height="25px" font-weight="bold" padding-bottom="0px" padding-top="25px" font-family="Calibri, Helvetica, Arial, sans-serif">
               Your £5 Gift Card for The Palgrave Shop
@@ -160,80 +132,112 @@
               Redeem Gift Card now!
             </mj-button>
           </mj-column>
+        </mj-section -->
 
+        <!-- Box want to publish? -->
+        <mj-section padding="10px 0 0" background-color="#FFFFFF">
+          <mj-column>
+            <mj-table>
+              <tr>
+                <td style="padding: 15px; border: 1px solid #eee; ">
+                  <table cellspacing="0" cellpadding="0">
+                    <tbody>
+                      <tr>
+                        <td width="10" style="background-color: #F38330;"></td>
+                        <td width="15" style="background-color: #FFF;"></td>
+                        <td align="left">
+                          <p class="h2" style="font-family: georgia,arial,sans-serif; font-size: 20px; color: #F38330; margin: 4px 0 10px;">Do you want to publish your article in this journal?</p>
+                          <p style="font-family: arial,sans-serif; font-size: 13px; color: #333333; margin: 5px 0;">Please visit the <a style="color: #0073C3; text-decoration: none;" href="http://www.palgrave.com/${article.journalNo}${tracking}"> homepage of !!!JournalTitel!! </a>for full details on:</p>
+                          <ul style="font-family: arial,sans-serif; font-size: 13px; color: #333333; margin: 5px 0;list-style-type:disc; list-style-position:inside;">
+                            <li>aims and scope</li>
+                            <li>editorial policy</li>
+                            <li>article submission</li>
+                          </ul>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </mj-table>
+          </mj-column>
         </mj-section>
 
+        <!--Box open Access -->
+        <mj-section padding="10px 0 0" background-color="#FFFFFF">
+          <mj-column>
+            <mj-table>
+              <tr>
+              <td style="padding: 15px; border: 1px solid #eee;text-align:left">
+              <table cellspacing="0" cellpadding="0">
+              <tbody>
+              <tr>
+              <td width="10" style="background-color: #F38330;"></td><td width="15" style="background-color: #FFF;"></td><td align="left">
+              <p class="h2" style="font-family: georgia,arial,sans-serif; font-size: 20px; color: #F38330; margin: 4px 0 10px;">Read open access articles</p>
+              <p style="font-family: arial,sans-serif; font-size: 13px; color: #333333; margin: 5px 0;">
+              <a style="color: #0073C3; text-decoration: none;" href="http://link.springer.com/search?query=&amp;search-within=Journal&amp;facet-journal-id=41253&amp;package=openaccessarticles"> Click here</a> to view all open access articles published in this journal.<br>
+              <br>Interested in publishing your article open access?<br>
+              <a style="color: #0073C3; text-decoration: none;" href="http://www.palgrave.com/open?wt_mc=alerts.TOCjournals&amp;utm_source=toc&amp;utm_medium=email&amp;utm_campaign=toc_41253_16_2">Visit the Palgrave Open website</a> for more information on open access publishing at Palgrave,
+              	                                                benefits to authors and how we can help you with funding queries via
+              	                                                our free open access support service.<br>
+              </p>
+              </td>
+              </tr>
+              </tbody>
+              </table>
+              </td>
+              </tr>
+            </mj-table>
+          </mj-column>
+        </mj-section>
+        <!-- Box Journal Publisher's Website -->
+        <mj-section padding="10px 0 15px" background-color="#FFFFFF">
+          <mj-column>
+            <mj-table>
+              <tr>
+                <td style="padding: 15px; border: 1px solid #eee;text-align:left">
+                  <table cellspacing="0" cellpadding="0">
+                    <tbody>
+                      <tr>
+                        <td width="10" style="background-color: #F38330;"></td>
+                        <td width="15" style="background-color: #FFF;"></td>
+                        <td align="left">
+                          <p class="h2" style="font-family: georgia,arial,sans-serif; font-size: 20px; color: #F38330; margin: 4px 0 10px;">Further resources from Palgrave Macmillan</p>
+                          <p style="font-family: arial,sans-serif; font-size: 13px; color: #333333; margin: 5px 0;"> We publish award-winning research which changes the
+              													world across the humanities, social sciences and business for academics,
+              													professionals and librarians. Learn more at:<br>
+                                        <br>
+                                        <a style="color: #0073C3; text-decoration: none;" href="https://www.palgrave.com/?wt_mc=alerts.TOCjournals&amp;utm_source=toc&amp;utm_medium=email&amp;utm_campaign=toc_41253_16_2">www.palgrave.com</a>
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </mj-table>
+          </mj-column>
+        </mj-section>
 
     </mj-wrapper>
     <!-- End Content -->
-
-    <!-- Begin Voucher
-    <mj-wrapper padding-bottom="25px" padding-top="25px">
-     <mj-section border="1px solid #DCDCDC" padding="25px 25px 25px" background-color="#FFFFFF">
-       <mj-column width="100%" border-left="4px solid #EE7D11">
-         <mj-text font-size="18px" color="#333333" line-height="25px" font-weight="normal" padding-bottom="0px" padding-top="20px" font-family="Georgia, serif">
-           Your $5 Gift Card for The Springer Shop
-         </mj-text>
-         <mj-text font-size="14px" color="#666666" line-height="21px" font-family="Arial, Helvetica, sans-serif">
-            Discover the vast selection of over 250,000 scientific titles in our Springer Shop and save $5 on your next eBook purchase until the end of the year.
-         </mj-text>
-         <mj-button font-family="Arial, Helvetica, sans-serif" line-height="18px" border="1px solid #BCBCBC" padding-bottom="20px" font-size="14px" background-color="#FFFFFF"  border-radius="3px" color="#0176C3" align="left">
-           Redeem $5 Gift Card now!
-         </mj-button>
-       </mj-column>
-     </mj-section>
-    </mj-wrapper>
-   <!-- End Voucher -->
-
    <!--Footer Palgrave-->
-   <mj-section padding="12px 25px">
+   <mj-section padding="12px 25px" background-color="#EDEDED">
 
-     <mj-column width="80%">
-       <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Verdana, Arial, sans-serif">
-         If you have any questions, please contact the Springer Nature Customer Service
-       <br/>
-       <a style="text-decoration:none;" href="mailto:customerservice@springer.com">
-             <font color="#999999" face="Verdana, Arial, sans-serif" style="font-size:12px;line-height:14px">
-             customerservice@springer.com
-             </font>
-           </a>
-         </mj-text>
-         <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Verdana, Arial, sans-serif">
-           Springer Nature,
-           Tiergartenstr. 15-17,
-           69121 Heidelberg,
-           Germany<br/>
-           Phone: +49 6221 345 4301, Fax: +49 6221 345 4229
-         </mj-text>
-         <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Verdana, Arial, sans-serif">
-           Springer Nature, 233 Spring Street, New York, NY 10013, USA<br/>
-           Phone: +1 212 460 1500 or 800-SPRINGER<br/>
-           (Weekdays 8.30am - 5.30pm ET)<br/>
-           Fax: +1 201 348 4505
-         </mj-text>
-         <mj-text align="left" color="#999999" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Verdana, Arial, sans-serif">
-         &#169; Springer Nature 2017
+     <mj-column width="100%">
+       <mj-text align="left" color="#666666" padding-left="0px" padding-bottom="0" padding-top="5px" font-size="12px" line-height="18px" font-family="Verdana, Arial, sans-serif">
+         This email has been sent to <a style="color: #0073C3; text-decoration: none;">
+         ${subscriber.email}
+         </a>
+         <br/>
+         <br/>You are receiving this email because you have opted to receive information from Palgrave Journals as a registered user of our Table of Content Alert for journals.<br>
+         <br/>To ensure the delivery to your inbox, please add the sender address <a href="mailto:springer@alerts.springer.com" style="color: #0073C3; text-decoration: none;">springer@alerts.springer.com </a>to your allow list.<br>
+         <br/>For all enquiries, problems or suggestions regarding this service, please contact <a href="mailto:onlineservice@springer.com" style="color: #0073C3; text-decoration: none;">onlineservice@springer.com</a>.<br>
+         <br/>Palgrave Journals respects your privacy and does not disclose, sell or rent your personal information to any nonaffiliated third parties without your consent. Please visit the <a href="http://www.springernature.com/gp/privacy-statement/829158" style="color: #0073C3; text-decoration: none;">Springer Nature Privacy Statement</a>.<br>
+         <br/>Copyright &copy; ${date?string["MM/dd/yyyy"]} Palgrave Macmillan Ltd, a division of Macmillan Publishers Ltd.
+                             Macmillan Publishers Limited is a company incorporated in England and Wales under company number 785998 and whose registered office is located The Campus, 4 Crinan Street, LONDON, N1 9XW.
        </mj-text>
      </mj-column>
-     <mj-column width="20%">
-       <mj-social
-         mode="horizontal"
-         text-mode="true"
-         padding="0px"
-         icon-size="35px"
-         inner-padding="0px"
-         display="mytwitterc myfacebookc"
-         myfacebookc-icon-color="none"
-         myfacebookc-icon="https://s3.eu-central-1.amazonaws.com/springpics/si_fb_pa.png"
-         myfacebookc-href="https://www.facebook.com/objectway/"
-         myfacebookc-content="&nbsp;"
-         mytwitterc-icon-color="none"
-         mytwitterc-icon="https://s3.eu-central-1.amazonaws.com/springpics/si_twi_pa.png"
-         mytwitterc-href="https://www.youtube.com/user/objectway"
-         mytwitterc-content="&nbsp;" />
-
-     </mj-column>
-
      <mj-column width="100%">
           <mj-text>
             <br/>
